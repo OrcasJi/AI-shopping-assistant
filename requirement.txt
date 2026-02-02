@@ -1,0 +1,10 @@
+torch
+transformers
+pandas
+scikit-learn
+flask
+requests
+python-dotenv
+sentencepiece
+rapidfuzz
+openpyxl

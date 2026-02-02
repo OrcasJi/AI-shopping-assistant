@@ -1,0 +1,194 @@
+[
+  {
+    "text": "Suggest casual clothing",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Recommend sporty dresses for evening",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Give me formal suggestions",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Give me dressy suggestions",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "I like sporty designs",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Looking for formal wear",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Give me informal suggestions",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Anything with a athletic look?",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "sporty is my preference",
+    "labels": [
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Looking for formal wear",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Show me some sporty options",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Looking for formal boots under $100",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Looking for formal boots under $100",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Show me jackets in casual style",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "I like sporty designs",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Suggest sporty clothing",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Looking for formal boots under $100",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Give me casual suggestions",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ]
+  },
+  {
+    "text": "Recommend sporty dresses for evening",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O",
+      "O",
+      "O"
+    ]
+  },
+  {
+    "text": "Do you have anything in sporty?",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O",
+      "O",
+      "B-STYLE"
+    ]
+  }
+]

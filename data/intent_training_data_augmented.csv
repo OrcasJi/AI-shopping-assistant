@@ -1,0 +1,1980 @@
+text,intent
+Let me think... Not sure.,undecided
+Show me cheap options,ask_price
+Any stylish jackets?，under CNY 999,ask_product
+"Hmm, Not what I had in mind I guess.，不超过499元",reject
+I think I like them? Looks good.，under CNY 599,confirmation
+Not sure about these,reject
+None of these，≤199块,reject
+I need something not expensive，around 499 RMB,ask_price
+Thank you... maybe.，价位在899-999元,thank_you
+appreciate your help，around 499 RMB,goodbye
+"Sure, Let me think works.，≤499块",undecided
+Any low-cost jackets?，≤699块,ask_price
+These are good,confirmation
+"You know, Appreciate it.，≤599块",thank_you
+hello assistant，不超过499元,greet
+"Thanks, that’s helpful",confirmation
+hello assistant，around 399 RMB,greet
+Thanks a lot，under CNY 299,thank_you
+"Hmm, I can't tell I guess.，不超过199元",undecided
+Not really — just saying.,reject
+Do you have anything under $50?,ask_price
+What’s the cheapest you have?，under CNY 999,ask_price
+I like minimal design，around 799 RMB,ask_style
+I'm on a budget,ask_price
+Do you have anything under $100?,ask_price
+These aren’t good,reject
+thank you,goodbye
+"Hmm, Not what I’m looking for I guess.，under CNY 699",reject
+I'm searching for a raincoat,ask_product
+Not what I had in mind — cool!，不超过299元,reject
+I'm done shopping，预算499元,goodbye
+Nothing stands out，around 699 RMB,reject
+I don’t know... maybe.，≤999块,undecided
+I'm searching for a raincoat，不超过999元,ask_product
+I don’t like these? Looks good.，499元以内,reject
+Could I see others，≤199块,reject
+hey there,greet
+Price range under $80,ask_price
+"Hmm, I’ll pass I guess.",reject
+Much appreciated!，under CNY 699,thank_you
+"Hmm, Too cheap I guess.",reject
+Much appreciated.，价位在499-599元,thank_you
+Thanks a lot for the tips.，不超过999元,thank_you
+hi again，不超过599元,greet
+"Appreciate it, mate.，599元以内",thank_you
+Perfect,confirmation
+Nothing else，预算999元,done
+Just what I had in mind 👍,confirmation
+Looking for something formal,ask_style
+Do you have anything under $120?,ask_price
+Too expensive，预算499元,reject
+I'm searching for a raincoat，预算499元,ask_product
+Let me think about it.，价位在899-999元,undecided
+bye，around 999 RMB,goodbye
+I appreciate it.，不超过499元,thank_you
+Do you have anything under $200?,ask_price
+Much appreciated.,thank_you
+I'm into casual style,ask_style
+No. That should work.,reject
+Looking for items below $50,ask_price
+"Definitely Sure, this works.",confirmation
+I'm thinking it over.，价位在399-499元,undecided
+Nice selection. That should work.，399元以内,confirmation
+Do you have sporty outfits?，599元以内,ask_style
+Done for now，under CNY 199,done
+Do you have anything under $100?,ask_price
+I’ll pass on these,reject
+hey there，价位在399-499元,greet
+Let me think... None of these.,reject
+Can I see some coats?,ask_product
+Not what I’m looking for，价位在499-599元,reject
+It's hard to say.,undecided
+I need more time to decide.，不超过199元,undecided
+I need more time to decide.，预算999元,undecided
+I’m still weighing my options.，under CNY 499,undecided
+bye,goodbye
+These match my needs — I like that.，around 799 RMB,confirmation
+greetings，预算799元,greet
+Thanks so much for this.，价位在199-299元,thank_you
+Not sure — I suppose.，around 499 RMB,undecided
+Not sure — I suppose.,undecided
+I'd say Don’t like them.，799元以内,reject
+Do you have any shoes?，不超过499元,ask_product
+Nope... maybe.,reject
+No. That should work.，around 399 RMB,reject
+Nope,reject
+I’m done looking,done
+It's a tough call.，under CNY 799,undecided
+Show me winter wear，799元以内,ask_product
+Thank you indeed.，预算799元,thank_you
+They’re fine,confirmation
+Not suitable，≤599块,reject
+This doesn’t help,reject
+cheers，under CNY 999,goodbye
+No more help needed? Looks good.，≤599块,done
+Try something else，价位在199-299元,reject
+I'm into casual style，499元以内,ask_style
+Catch you later — just saying.,goodbye
+I think I’ll browse a little more.，预算399元,undecided
+Let me think... Not sure.，under CNY 499,undecided
+Thanks again!,thank_you
+Yeah,confirmation
+I'd say Done for now.，预算499元,done
+I'm not sure yet.，价位在399-499元,undecided
+Could I see others!，价位在499-599元,reject
+Price range under $64,ask_price
+see you next time，不超过999元,goodbye
+Do you have casual clothes?,ask_product
+I like minimal design，under CNY 499,ask_style
+hello,greet
+I'm thinking it over.,undecided
+thank you，≤699块,goodbye
+Thank you kindly.，≤399块,thank_you
+I need something not expensive,ask_price
+I'm unsure right now.，不超过499元,undecided
+I'm searching for a raincoat，价位在899-999元,ask_product
+Appreciate it a lot.，不超过299元,thank_you
+thanks a lot，under CNY 199,goodbye
+"Hmm, I’d like to see other options I guess.，预算399元",reject
+No more help needed，不超过299元,done
+Thanks a bunch.,thank_you
+"Hmm, I haven't decided I guess.，不超过699元",undecided
+Exactly,confirmation
+I want a trendy look，预算699元,ask_style
+Looking for items below $80,ask_price
+Looks good to me,confirmation
+I want to be sure before choosing.，under CNY 499,undecided
+"Well, Thanks a lot.",thank_you
+Wonderful，价位在699-799元,confirmation
+Thank you，价位在99-199元,thank_you
+These will work，299元以内,confirmation
+Any stylish jackets?,ask_product
+Everything looks nice.，399元以内,undecided
+Could I see others!,reject
+I'm done shopping,done
+Is there a discount section?，预算199元,ask_price
+how are you,greet
+I need time — just saying.，around 299 RMB,undecided
+"Well, Not for me.，价位在99-199元",reject
+Enough for today，under CNY 499,done
+Not for me — just saying.,reject
+talk to you later，under CNY 399,goodbye
+Any stylish jackets?，预算599元,ask_product
+I need sneakers,ask_product
+"Hmm, None of these I guess.",reject
+Looks promising — I like that.，around 599 RMB,confirmation
+No，价位在199-299元,reject
+Not sure about these，价位在699-799元,reject
+I'd say Done for now.,done
+I’ve seen enough，499元以内,done
+Can I see some coats?，around 799 RMB,ask_product
+I'm into casual style,ask_style
+good evening，预算699元,greet
+I’m grateful.，under CNY 599,thank_you
+Not my style. That should work.，under CNY 999,reject
+I can't decide right now.，不超过999元,undecided
+Appreciate the recommendation.，399元以内,thank_you
+That’s not what I meant. That should work.，around 999 RMB,reject
+"Sure, Many thanks works.，价位在399-499元",thank_you
+talk to you later，under CNY 699,goodbye
+"Sure, this works — cool!，不超过999元",confirmation
+"Well, Bye for now.",goodbye
+Perfect? Looks good.，不超过499元,confirmation
+Do you have sporty outfits?，≤999块,ask_style
+Looks promising，around 499 RMB,confirmation
+Not really — I suppose.，不超过499元,reject
+Looking for items below $60,ask_price
+goodbye,goodbye
+Price range under $30,ask_price
+Definitely Too formal.,reject
+Catch you later,goodbye
+Definitely Too sporty.，under CNY 399,reject
+I need something not expensive，不超过699元,ask_price
+Thank you!，≤999块,thank_you
+Thank you very much.，预算399元,thank_you
+hey，around 299 RMB,greet
+Looks good to me? Looks good.,confirmation
+"Well, Let me think.，under CNY 599",undecided
+I appreciate it.,thank_you
+Thanks a lot — just saying.，799元以内,thank_you
+I don't know what I want.,undecided
+I want a trendy look，under CNY 399,ask_style
+Grateful for your advice.，999元以内,thank_you
+I think I like them? Looks good.，under CNY 399,confirmation
+I like minimal design,ask_style
+"Well, Thank you.",thank_you
+hello,greet
+Maybe — just saying.，699元以内,undecided
+hey,greet
+I'm looking for a jacket，价位在199-299元,ask_product
+"You know, Much appreciated.",thank_you
+I need something not expensive，≤799块,ask_price
+Cheers for that.，价位在899-999元,thank_you
+I want to be sure before choosing.，999元以内,undecided
+Show me others，around 799 RMB,reject
+No thanks,done
+I don’t see anything I want,reject
+I need something not expensive，预算499元,ask_price
+see you next time，预算999元,goodbye
+Any low-cost jackets?,ask_price
+Any stylish jackets?，under CNY 499,ask_product
+hi again,greet
+Maybe — just saying.，≤399块,undecided
+"Sure, Let me think works.，预算299元",undecided
+bye，under CNY 499,goodbye
+Show me cheap options，价位在499-599元,ask_price
+good morning，不超过299元,greet
+"You know, Appreciate it.，预算599元",thank_you
+Thanks a lot for the tips.,thank_you
+goodbye，599元以内,goodbye
+greetings，999元以内,greet
+I'm into casual style，under CNY 799,ask_style
+Looking for items below $150,ask_price
+I'm done shopping，under CNY 799,goodbye
+Great!. Appreciate it!，预算599元,confirmation
+Could I see others,reject
+good evening，around 599 RMB,greet
+I'm searching for a raincoat,ask_product
+Thanks a lot.，价位在299-399元,thank_you
+"You know, Appreciate it.，预算399元",thank_you
+I need sneakers，599元以内,ask_product
+Just what I had in mind 👍，不超过699元,confirmation
+Nothing else. Appreciate it!,done
+Any elegant jackets?，under CNY 799,ask_style
+I don’t like these,reject
+That’s it,confirmation
+Not interested... maybe.,reject
+"No, thank you，799元以内",done
+"You know, Let me think.",undecided
+thanks a lot,goodbye
+see you next time,goodbye
+"You know, Many thanks.，不超过299元",thank_you
+I’d like to see other options，不超过499元,reject
+I'd say I like those.，不超过199元,confirmation
+hello assistant，199元以内,greet
+good morning，预算499元,greet
+Price range under $64,ask_price
+I just need some time.,undecided
+hello assistant,greet
+Any stylish jackets?，价位在399-499元,ask_product
+Do you have anything under $100?,ask_price
+Show me cheap options,ask_price
+see you next time，价位在199-299元,goodbye
+Let me think about it.,undecided
+Do you have anything under $80?,ask_price
+Just what I had in mind，under CNY 399,confirmation
+I'll come back later,goodbye
+It's not an easy choice.，around 799 RMB,undecided
+thanks a lot，≤999块,goodbye
+good morning,greet
+I'm into casual style,ask_style
+I need sneakers，价位在99-199元,ask_product
+Do you have casual clothes?，价位在299-399元,ask_product
+Not suitable 👍，≤699块,reject
+"Hmm, Thank you I guess.",thank_you
+I need something not expensive,ask_price
+Cheers — just saying.，around 399 RMB,thank_you
+Show me winter wear，价位在299-399元,ask_product
+I’ll pass，不超过499元,reject
+I'm done shopping，under CNY 799,goodbye
+Looking for something formal，≤399块,ask_style
+I want to be sure before choosing.,undecided
+I want to check more options.，around 999 RMB,undecided
+Price range under $80,ask_price
+Let me think — just saying.，预算999元,undecided
+That’s nice，≤999块,confirmation
+Cheers — just saying.，预算399元,thank_you
+Looking for items below $60,ask_price
+Any stylish jackets?,ask_product
+Good choices. Appreciate it!，around 799 RMB,confirmation
+I might come back later.，999元以内,undecided
+Any low-cost jackets?,ask_price
+Affordable options please,ask_price
+I’m browsing casually for now.,undecided
+Really appreciate that.，599元以内,thank_you
+hey，999元以内,greet
+how are you，价位在699-799元,greet
+Let me look a bit more.，价位在699-799元,undecided
+I’ll think about it.,undecided
+hi again,greet
+Looking for items below $50,ask_price
+goodbye，预算999元,goodbye
+Much appreciated!,thank_you
+I want a trendy look,ask_style
+Still deciding — just saying.，预算399元,undecided
+"Hmm, Too cheap I guess.，预算699元",reject
+Talk soon,goodbye
+Nothing stands out，预算199元,reject
+No further help,done
+hi again，799元以内,greet
+thank you，价位在199-299元,goodbye
+goodbye,goodbye
+Looking for items below $80,ask_price
+"They're all nice, I don't know.，预算499元",undecided
+"Hmm, I’ll pass I guess.",reject
+good evening，不超过599元,greet
+"You know, Maybe.，预算599元",undecided
+Done for now,done
+Maybe，不超过599元,undecided
+Great!. Appreciate it!，不超过299元,confirmation
+None of these — I suppose.,reject
+Perfect，≤299块,confirmation
+greetings,greet
+"Really grateful, thanks!，under CNY 799",thank_you
+Any stylish jackets?,ask_product
+Thanks a lot.,thank_you
+Really appreciate that.,thank_you
+These match my needs — I like that.,confirmation
+I’m not sure — just saying.，299元以内,undecided
+These aren’t good — just saying.,reject
+What do you have in business style?，around 199 RMB,ask_style
+Looking for items below $80,ask_price
+Show me others,reject
+These match my needs，≤499块,confirmation
+"Thanks, that helps!，不超过499元",thank_you
+Cheers for that.,thank_you
+Too expensive，around 599 RMB,reject
+hello assistant，999元以内,greet
+I'm looking for a jacket,ask_product
+"Sure, No works.",reject
+Not for me!,reject
+Any stylish jackets?，≤199块,ask_product
+That’s all for today,done
+Not for me,reject
+"Thanks, that’s helpful，≤299块",confirmation
+Let me think... I’m grateful.,thank_you
+Definitely I don’t see anything I want.，≤999块,reject
+Thanks a million.,thank_you
+"Sure, Let me think works.，around 499 RMB",undecided
+"Hmm, Not what I had in mind I guess.，around 199 RMB",reject
+Any stylish jackets?，价位在499-599元,ask_product
+Done for now，预算199元,done
+"Yeah, No",reject
+Everything looks nice.，预算699元,undecided
+Don’t like them，799元以内,reject
+Show me cheap options,ask_price
+"Yeah, No，≤999块",reject
+Nice selection. That should work.,confirmation
+Got any running shoes?，under CNY 999,ask_product
+Affordable options please，价位在299-399元,ask_price
+Just what I had in mind 👍，不超过799元,confirmation
+thank you，599元以内,goodbye
+Thank you so so much.,thank_you
+Yeah 👍,confirmation
+thank you,goodbye
+Thanks so much,thank_you
+I need time，≤999块,undecided
+I'm done shopping，预算499元,done
+Thank you heaps.,thank_you
+All good now，≤799块,done
+It's a tough call.,undecided
+Not interested,reject
+What do you have in business style?,ask_style
+appreciate your help，999元以内,goodbye
+I'm into casual style，≤699块,ask_style
+I’ll go with those，under CNY 499,confirmation
+Let me think... Later.,goodbye
+Fine with me，599元以内,confirmation
+Thanks for assisting.，around 299 RMB,thank_you
+I'm okay now. That should work.,done
+Looking for items below $80,ask_price
+I'm finished here — I like that.，价位在99-199元,done
+Great!，around 999 RMB,confirmation
+Not useful. Appreciate it!，around 299 RMB,reject
+"Hmm, I don’t see anything I want I guess.，499元以内",reject
+"Thanks, very useful!，under CNY 599",thank_you
+"Nope, that's all，不超过699元",done
+I think I like them，预算499元,confirmation
+Nice selection? Looks good.，399元以内,confirmation
+I’d like to see other options，价位在299-399元,reject
+These don’t fit my needs? Looks good.,reject
+Can I see some coats?，699元以内,ask_product
+"You know, Much appreciated.",thank_you
+good evening，预算399元,greet
+Let me think... I’m grateful.，under CNY 699,thank_you
+What’s the cheapest you have?，不超过499元,ask_price
+Nothing stands out to me yet.,undecided
+bye，价位在299-399元,goodbye
+I'm searching for a raincoat，499元以内,ask_product
+appreciate your help,goodbye
+Enough for today? Looks good.，≤199块,done
+I'm searching for a raincoat，799元以内,ask_product
+Looking for items below $150,ask_price
+Thanks again!，≤999块,thank_you
+"Hmm, Many thanks I guess.",thank_you
+Looks promising — I like that.,confirmation
+Looks great，399元以内,confirmation
+Do you have anything under $100?,ask_price
+None of these — I suppose.，价位在299-399元,reject
+Looking for items below $50,ask_price
+"Well, See you.",goodbye
+No thanks，around 399 RMB,done
+Do you have any shoes?,ask_product
+I want a trendy look，预算499元,ask_style
+Still deciding.,undecided
+good evening,greet
+I'm on a budget,ask_price
+Price range under $80,ask_price
+Goodbye,goodbye
+I really appreciate your time.,thank_you
+I'm a little overwhelmed.，699元以内,undecided
+I need time — just saying.,undecided
+Definitely These match my needs.，价位在299-399元,confirmation
+Sweet，价位在499-599元,confirmation
+Looking for something formal，around 999 RMB,ask_style
+I'm into casual style，≤299块,ask_style
+Looks good to me，≤399块,confirmation
+I like minimal design，under CNY 499,ask_style
+Still deciding,undecided
+hi again，价位在899-999元,greet
+Show me winter wear，≤299块,ask_product
+"Hmm, Many thanks I guess.，≤699块",thank_you
+"Yeah, These aren’t good kinda.，599元以内",reject
+Thanks!，价位在599-699元,thank_you
+"Thank you, that's helpful.，预算999元",thank_you
+"Sure, this works",confirmation
+Not sure,undecided
+cheers,goodbye
+Let me think... No.,reject
+Definitely I’m finished.,done
+Show me cheap options，价位在599-699元,ask_price
+good evening，999元以内,greet
+These don’t fit my needs，不超过999元,reject
+hi，599元以内,greet
+I need sneakers,ask_product
+Show me formal wear,ask_style
+I need something not expensive，under CNY 399,ask_price
+"Sure, Thanks so much works.，299元以内",thank_you
+Too formal，预算199元,reject
+"Thank you, this is great!",thank_you
+"You know, Not for me.",reject
+cheers，under CNY 299,goodbye
+I’ll pass,reject
+I need a minute.,undecided
+Thanks a lot for the tips.，under CNY 799,thank_you
+see you next time，价位在299-399元,goodbye
+Not really,reject
+I'm hesitating right now.,undecided
+Looking for something formal,ask_style
+Looking for items below $60,ask_price
+Can I see some coats?,ask_product
+Many thanks!,thank_you
+Try something else,reject
+Looking for items below $80,ask_price
+No more help needed，预算299元,done
+Price range under $180,ask_price
+hello assistant，≤399块,greet
+greetings，399元以内,greet
+"Hmm, Not really I guess.",reject
+"They're all nice, I don't know.",undecided
+thanks a lot，不超过199元,goodbye
+Yeah，599元以内,confirmation
+Can I get different ones?，under CNY 199,reject
+I'm not sure yet.,undecided
+Don’t like them,reject
+Not really!,reject
+Thanks for the suggestions.，≤599块,thank_you
+"Sure, Let me think works.",undecided
+Thank you very much.,thank_you
+"Well, I can't tell.",undecided
+Those are just what I need? Looks good.,confirmation
+"Yeah, Not really kinda.",reject
+Not useful. Appreciate it!,reject
+I'm into casual style，不超过599元,ask_style
+That’s everything. That should work.，around 399 RMB,done
+hi，价位在299-399元,greet
+I don’t feel ready to decide.，价位在899-999元,undecided
+Definitely I don’t see anything I want.,reject
+Looking for items below $150,ask_price
+What’s the cheapest you have?，under CNY 699,ask_price
+Do you sell vintage clothes?，999元以内,ask_style
+Looking for items below $50,ask_price
+I'm on a budget，around 399 RMB,ask_price
+I need something not expensive，around 799 RMB,ask_price
+thanks a lot，不超过199元,goodbye
+appreciate your help,goodbye
+Nice selection? Looks good.，599元以内,confirmation
+Any stylish jackets?，around 499 RMB,ask_product
+Any stylish jackets?,ask_product
+I think I’ll browse a little more.,undecided
+I need time,undecided
+I need time!,undecided
+Thanks!,thank_you
+I’m not sure，价位在899-999元,undecided
+talk to you later，不超过299元,goodbye
+I'm finished here,done
+"Yeah, These don’t fit my needs，不超过699元",reject
+Do you have casual clothes?，around 199 RMB,ask_product
+Let me think — just saying.，不超过199元,undecided
+I just can't decide yet.,undecided
+Looking for items below $150,ask_price
+Yeah 👍，不超过699元,confirmation
+I don't know what I want.，预算799元,undecided
+Thanks! That helps a lot.，≤299块,thank_you
+"No, I'm good",done
+Not suitable,reject
+I like those,confirmation
+Thanks!,thank_you
+I'm looking for a jacket，≤999块,ask_product
+"Yeah, Not sure about these，价位在899-999元",reject
+bye，价位在99-199元,goodbye
+I need sneakers，199元以内,ask_product
+Not what I’m looking for. That should work.，≤999块,reject
+Cheers — just saying.,thank_you
+I'm done shopping，≤299块,goodbye
+hello assistant,greet
+I'm a little overwhelmed.，价位在499-599元,undecided
+bye，不超过499元,goodbye
+Looking for items below $50,ask_price
+hello，around 499 RMB,greet
+Thanks for the input.,thank_you
+Show me cheap options，预算499元,ask_price
+Do you have anything under $200?,ask_price
+I’m finished，999元以内,done
+I'm into casual style，预算599元,ask_style
+All good now，预算299元,done
+Any elegant jackets?,ask_style
+I'm torn between options.，价位在599-699元,undecided
+Fine with me 👍，599元以内,confirmation
+I don’t like these，预算199元,reject
+Can I see some coats?，399元以内,ask_product
+Thanks so much，under CNY 799,thank_you
+Nothing else,done
+thank you,goodbye
+I like minimal design，199元以内,ask_style
+Nope... maybe.，预算599元,reject
+"You’ve been great, thanks.，≤699块",thank_you
+I might come back to this.，不超过399元,undecided
+Too cheap，价位在399-499元,reject
+Affordable options please，价位在899-999元,ask_price
+Thanks again!，around 699 RMB,thank_you
+I’m done，499元以内,done
+No further help 👍，价位在99-199元,done
+Appreciate the recommendation.，199元以内,thank_you
+bye,goodbye
+Let me think this through.,undecided
+appreciate your help，预算199元,goodbye
+bye,goodbye
+hi again，under CNY 499,greet
+Price range under $96,ask_price
+Looking for items below $150,ask_price
+Do you sell vintage clothes?,ask_style
+Appreciate it a lot.，≤399块,thank_you
+I’m satisfied,done
+Let me think... No.，199元以内,reject
+I’m leaving，≤799块,done
+Show me formal wear，under CNY 799,ask_style
+Do you have any shoes?，under CNY 599,ask_product
+Is there a discount section?，under CNY 999,ask_price
+"Everything looks good, I can't choose.，around 999 RMB",undecided
+Looking for items below $50,ask_price
+What do you have in business style?，around 499 RMB,ask_style
+I'm into casual style,ask_style
+I need to consider my options.，不超过299元,undecided
+Do you have anything under $80?,ask_price
+I don’t want more，around 699 RMB,done
+"Yeah, These aren’t good kinda.，299元以内",reject
+"Nope, that's all",done
+I want to buy some boots，around 799 RMB,ask_product
+Thanks a lot,thank_you
+Thanks a lot — just saying.，under CNY 499,thank_you
+Thank you so so much.，≤399块,thank_you
+None of these... maybe.，199元以内,reject
+I can't tell，不超过599元,undecided
+That’s all for today，699元以内,done
+Nope，≤299块,reject
+Thanks for the suggestions.,thank_you
+Not interested，around 399 RMB,reject
+That’s not what I meant,reject
+Looking for items below $150,ask_price
+Let me think... I’ll pass.，under CNY 599,reject
+Many thanks.,thank_you
+Price range under $80,ask_price
+Not what I’m looking for，≤599块,reject
+I feel undecided.，around 199 RMB,undecided
+Just what I had in mind，≤699块,confirmation
+I’m done looking，预算599元,done
+That's all I wanted — I like that.，around 999 RMB,done
+greetings,greet
+I'm searching for a raincoat，不超过799元,ask_product
+Do you have casual clothes?，499元以内,ask_product
+Any stylish jackets?，预算699元,ask_product
+Thank you!，预算799元,thank_you
+Thanks for the info.，≤699块,thank_you
+"Sure, Let me think works.",undecided
+I’m not sure — I suppose.,undecided
+This doesn’t help，不超过799元,reject
+Not interested，预算499元,reject
+I'm really not sure yet.，不超过799元,undecided
+Looks promising — I like that.，不超过199元,confirmation
+Those are just what I need，under CNY 599,confirmation
+I don’t feel ready to decide.,undecided
+Not what I had in mind，under CNY 599,reject
+It's not an easy choice.，around 299 RMB,undecided
+Got any running shoes?，≤399块,ask_product
+Do you have anything under $80?,ask_price
+These don’t fit my needs? Looks good.，around 499 RMB,reject
+Cheers — just saying.，around 199 RMB,thank_you
+I'm searching for a raincoat，under CNY 599,ask_product
+Looking for items below $60,ask_price
+Show me formal wear，around 799 RMB,ask_style
+Not useful. Appreciate it!，预算299元,reject
+I need something stylish，预算999元,ask_style
+I'm on the fence.，不超过599元,undecided
+thank you，不超过399元,goodbye
+how are you，≤999块,greet
+Thanks for your help.，≤499块,thank_you
+Thank you for the help.，199元以内,thank_you
+Show me cheap options，999元以内,ask_price
+Enough for today? Looks good.,done
+I'm torn between options.，under CNY 399,undecided
+Let me take a moment.,undecided
+Much appreciated!，不超过499元,thank_you
+Great!,confirmation
+Let me sleep on it.，599元以内,undecided
+good morning,greet
+I don’t know,undecided
+"Sure, Thanks so much works.，around 999 RMB",thank_you
+"You know, Much appreciated.，around 799 RMB",thank_you
+thanks a lot,goodbye
+Thank you.，under CNY 999,thank_you
+That's exactly what I wanted，价位在99-199元,confirmation
+Any stylish jackets?,ask_product
+Not my style，299元以内,reject
+I’m grateful — I suppose.，around 299 RMB,thank_you
+Good choices. Appreciate it!，预算299元,confirmation
+Definitely These match my needs.,confirmation
+Cheers,thank_you
+"Yeah, These don’t fit my needs，价位在399-499元",reject
+No further help 👍，预算299元,done
+These aren’t what I want，不超过299元,reject
+Yeah 👍，799元以内,confirmation
+These don’t fit my needs? Looks good.，699元以内,reject
+I need a minute.，价位在899-999元,undecided
+Do you have anything under $80?,ask_price
+Looking for something formal,ask_style
+What’s the cheapest you have?，199元以内,ask_price
+thank you，预算999元,goodbye
+"Yeah, I’m grateful kinda.",thank_you
+I’m grateful,thank_you
+Do you have sporty outfits?,ask_style
+Show me winter wear，价位在599-699元,ask_product
+I'm on a budget，预算299元,ask_price
+"Hmm, They’re fine I guess.",confirmation
+greetings，预算299元,greet
+These don’t fit my needs，≤299块,reject
+What’s the cheapest you have?,ask_price
+Can I get different ones?，under CNY 699,reject
+"Thanks, that was great!",thank_you
+Looking for items below $50,ask_price
+hello assistant，around 399 RMB,greet
+Looking for items below $150,ask_price
+hello assistant，under CNY 199,greet
+hey，不超过399元,greet
+"Hmm, I don’t see anything I want I guess.",reject
+I don’t need anything else,done
+"Appreciate it, thank you.，under CNY 499",thank_you
+I want to explore a bit more first.,undecided
+"Definitely Sure, this works.，价位在199-299元",confirmation
+Not really!，≤199块,reject
+I think I’ll browse a little more.，≤299块,undecided
+"Well, Thanks again.，around 399 RMB",thank_you
+Perfect? Looks good.，不超过299元,confirmation
+"Sure, this works，199元以内",confirmation
+Too formal，不超过399元,reject
+I'm looking for a jacket，预算599元,ask_product
+Appreciate your support.，预算499元,thank_you
+Looking for something formal，around 599 RMB,ask_style
+Thanks again!，不超过499元,thank_you
+That’ll be all，≤199块,done
+Thanks for your guidance.,thank_you
+Looking for items below $150,ask_price
+I’m not sure — I suppose.，价位在499-599元,undecided
+goodbye，≤599块,goodbye
+Many thanks!，不超过699元,thank_you
+I'm on a budget，预算199元,ask_price
+goodbye,goodbye
+Is there a discount section?，199元以内,ask_price
+bye，under CNY 499,goodbye
+I want to buy some boots,ask_product
+"Thanks, that helps!，around 299 RMB",thank_you
+I haven't decided — I suppose.，预算799元,undecided
+Not what I’m looking for,reject
+"Well, Thanks again.，around 699 RMB",thank_you
+I want a trendy look,ask_style
+"Yeah, I’m grateful kinda.，价位在99-199元",thank_you
+See you... maybe.,goodbye
+Looking for items below $80,ask_price
+I need something stylish,ask_style
+Looking for items below $50,ask_price
+hey，不超过699元,greet
+Can I see some coats?，≤499块,ask_product
+"Definitely Sure, this works.，≤499块",confirmation
+goodbye,goodbye
+"Thanks, I’m all set，价位在199-299元",done
+Try something else!,reject
+These match my needs，299元以内,confirmation
+bye,goodbye
+Not useful,reject
+Show me others. Appreciate it!，预算499元,reject
+I’m still weighing my options.,undecided
+"Yeah, Can I get different ones?，799元以内",reject
+Not my style. That should work.,reject
+Definitely These match my needs.，≤999块,confirmation
+I'm okay now，around 299 RMB,done
+I'm done shopping，不超过599元,goodbye
+I need sneakers,ask_product
+Thanks for your guidance.，价位在699-799元,thank_you
+I'm searching for a raincoat，价位在299-399元,ask_product
+Looking for items below $50,ask_price
+Big thanks!，不超过499元,thank_you
+"Thanks, very useful!",thank_you
+Let me think... Maybe.,undecided
+Got any running shoes?，699元以内,ask_product
+I'll come back later，不超过999元,goodbye
+I want to explore a bit more first.，under CNY 299,undecided
+Price range under $180,ask_price
+"You’ve been great, thanks.",thank_you
+See you,goodbye
+Got any running shoes?,ask_product
+I'd say I like those.，价位在399-499元,confirmation
+Sweet,confirmation
+Is there a discount section?,ask_price
+hey there,greet
+I'm okay now,done
+Any elegant jackets?,ask_style
+hello assistant，under CNY 399,greet
+greetings，价位在899-999元,greet
+I need something stylish，预算499元,ask_style
+Many thanks.，不超过199元,thank_you
+Any stylish jackets?，预算799元,ask_product
+Not useful，499元以内,reject
+I’m good,done
+hello，399元以内,greet
+good evening,greet
+What’s the cheapest you have?，around 699 RMB,ask_price
+Looking for something formal，around 199 RMB,ask_style
+Looking for items below $80,ask_price
+hello assistant，不超过999元,greet
+Too sporty，around 299 RMB,reject
+"You know, Many thanks.",thank_you
+Sincerely appreciate it.,thank_you
+That’s all，价位在399-499元,done
+Not for me，不超过799元,reject
+I want a trendy look，≤799块,ask_style
+"Well, Could I see others.，999元以内",reject
+Those are just what I need，under CNY 499,confirmation
+Not really — I suppose.,reject
+Not what I’m looking for. That should work.，≤999块,reject
+What do you have in business style?,ask_style
+"Hmm, I don’t see anything I want I guess.，under CNY 499",reject
+Too sporty，≤199块,reject
+Could I see others... maybe.，预算499元,reject
+"Thanks, that helps!",thank_you
+Not what I had in mind — cool!,reject
+Not sure — I suppose.，不超过799元,undecided
+I need something not expensive，价位在399-499元,ask_price
+Thanks again!,thank_you
+These don’t fit my needs — I like that.,reject
+talk to you later，价位在599-699元,goodbye
+"Cool, I’ll take a look",confirmation
+"You know, Maybe.",undecided
+Show me winter wear，around 299 RMB,ask_product
+hi,greet
+What’s the cheapest you have?，不超过699元,ask_price
+Let me think... Not interested.,reject
+I’m good，价位在299-399元,done
+Looking for items below $50,ask_price
+appreciate your help，价位在299-399元,goodbye
+Thank you for the help.，≤499块,thank_you
+"Well, Thank you.，价位在399-499元",thank_you
+Let me think this through.，under CNY 199,undecided
+I don't want to rush this.,undecided
+What’s the cheapest you have?，价位在499-599元,ask_price
+That’ll be all,done
+Still deciding.，预算299元,undecided
+hi again，around 199 RMB,greet
+These will work,confirmation
+I'm looking for a jacket，around 199 RMB,ask_product
+Got any running shoes?,ask_product
+thank you,goodbye
+thank you，≤999块,goodbye
+hello，价位在599-699元,greet
+Looks great,confirmation
+This doesn’t help，under CNY 399,reject
+I'm searching for a raincoat，预算499元,ask_product
+I appreciate your time.，under CNY 499,thank_you
+thanks a lot，≤599块,goodbye
+Affordable options please,ask_price
+Not really，under CNY 699,reject
+I'm on a budget,ask_price
+Thanks for your guidance.，≤999块,thank_you
+This is a difficult decision.，699元以内,undecided
+Let me take a moment.，around 299 RMB,undecided
+These will work — I like that.，499元以内,confirmation
+appreciate your help，≤999块,goodbye
+I want to buy some boots，预算999元,ask_product
+I like minimal design，under CNY 799,ask_style
+Not for me，around 199 RMB,reject
+Looking for something formal，around 599 RMB,ask_style
+hey there，around 299 RMB,greet
+hi again,greet
+Can I get different ones?. That should work.，around 399 RMB,reject
+goodbye，预算399元,goodbye
+I'm really not sure yet.,undecided
+Looking for items below $150,ask_price
+It’s hard to make a decision.,undecided
+I want a trendy look，under CNY 599,ask_style
+Later,goodbye
+Price range under $30,ask_price
+Can I see some coats?，≤399块,ask_product
+Do you have sporty outfits?,ask_style
+Thanks!，399元以内,thank_you
+"Really grateful, thanks!",thank_you
+Looking for items below $60,ask_price
+Looking for items below $150,ask_price
+appreciate your help，预算499元,goodbye
+"Yeah, Thank you kinda.，under CNY 299",thank_you
+I'm into casual style，399元以内,ask_style
+I want a trendy look，≤499块,ask_style
+Any elegant jackets?，预算599元,ask_style
+Is there a discount section?,ask_price
+Do you have anything under $80?,ask_price
+bye，≤599块,goodbye
+I'm searching for a raincoat,ask_product
+Do you sell vintage clothes?，不超过299元,ask_style
+It’s hard to make a decision.，预算999元,undecided
+"Well, Thanks, that’s all.",goodbye
+"Sure, Many thanks works.",thank_you
+Thank you heaps.，≤199块,thank_you
+"Well, Not really.",reject
+Looking for something formal,ask_style
+Not for me，预算299元,reject
+Got any running shoes?，599元以内,ask_product
+Not what I had in mind,reject
+What’s the cheapest you have?,ask_price
+I'm into casual style，预算499元,ask_style
+Price range under $96,ask_price
+I need something not expensive,ask_price
+Nothing stands out,reject
+Many thanks，≤799块,thank_you
+I don’t want more,done
+"Thanks, that was great!，under CNY 199",thank_you
+Looking for something formal，价位在699-799元,ask_style
+bye，价位在399-499元,goodbye
+"Well, Thanks a lot.，799元以内",thank_you
+I might come back to this.，999元以内,undecided
+"Yeah, Not sure about these",reject
+Let me think,undecided
+appreciate your help,goodbye
+Those are just what I need,confirmation
+I’m not sure — I suppose.,undecided
+"You know, Appreciate it.，不超过599元",thank_you
+That’ll be all，不超过199元,done
+Maybe later.，299元以内,undecided
+These don’t fit my needs — I like that.，≤799块,reject
+That’s not what I meant? Looks good.，under CNY 799,reject
+Looking for items below $60,ask_price
+I'm searching for a raincoat，价位在599-699元,ask_product
+I’m grateful，价位在499-599元,thank_you
+Affordable options please，预算299元,ask_price
+Show me formal wear，≤599块,ask_style
+hi again,greet
+Love them，399元以内,confirmation
+"You know, Let me think.，预算699元",undecided
+how are you，≤599块,greet
+Nothing good here,reject
+I’m done — I suppose.,goodbye
+Let me think... Not sure.，under CNY 299,undecided
+Do you have anything under $120?,ask_price
+I need sneakers，under CNY 299,ask_product
+Let me think... Nope.,reject
+Can I get back to you?,undecided
+These don’t fit my needs — I like that.，预算799元,reject
+greetings，under CNY 199,greet
+I’m not sure — I suppose.，under CNY 399,undecided
+talk to you later,goodbye
+I want a trendy look,ask_style
+Many thanks，预算799元,thank_you
+"Sure, Let me think works.，≤999块",undecided
+bye,goodbye
+Do you have anything under $200?,ask_price
+That’s not what I meant. That should work.，价位在499-599元,reject
+I want to buy some boots，不超过199元,ask_product
+"Well, Thanks a lot.，预算799元",thank_you
+I like too many of them.，不超过499元,undecided
+Could I see others!，under CNY 399,reject
+I'm into casual style,ask_style
+Looking for something formal，699元以内,ask_style
+Nothing really stands out yet.,undecided
+I’ll go with those，≤599块,confirmation
+Looks promising，≤399块,confirmation
+"Well, I can't tell.，价位在599-699元",undecided
+I'm on a budget，预算599元,ask_price
+I just need some time.，不超过799元,undecided
+Do you have anything under $100?,ask_price
+Any low-cost jackets?，≤299块,ask_price
+"Appreciate it, thank you.",thank_you
+I’m not sure — I suppose.，不超过299元,undecided
+Let me think — just saying.,undecided
+That’s it for now，价位在499-599元,done
+Maybe，599元以内,undecided
+Thanks a million.，预算399元,thank_you
+I don’t like these? Looks good.，under CNY 399,reject
+Let me look a bit more.，≤299块,undecided
+hi again，around 499 RMB,greet
+Too formal,reject
+Looks promising,confirmation
+I need some time.，≤199块,undecided
+Grateful for your advice.,thank_you
+thank you，≤599块,goodbye
+That’s everything，不超过699元,done
+"Thank you, that's helpful.，499元以内",thank_you
+Looking for items below $60,ask_price
+good morning，不超过699元,greet
+bye，预算599元,goodbye
+"You know, Much appreciated.，399元以内",thank_you
+Nothing stands out to me yet.，around 599 RMB,undecided
+Price range under $64,ask_price
+I need time!，预算399元,undecided
+Show me cheap options，≤199块,ask_price
+Appreciate it a lot.,thank_you
+"Thank you, this is great!，价位在899-999元",thank_you
+Thank you kindly.,thank_you
+"Well, Thank you.，around 299 RMB",thank_you
+I want to explore a bit more first.，≤799块,undecided
+Maybe — I suppose.，under CNY 299,undecided
+Do you sell vintage clothes?,ask_style
+I need something stylish,ask_style
+"Hmm, I can't tell I guess.，599元以内",undecided
+I need sneakers,ask_product
+Catch you later — I suppose.,goodbye
+Any stylish jackets?，价位在699-799元,ask_product
+I feel undecided.,undecided
+Price range under $96,ask_price
+Appreciate your support.，599元以内,thank_you
+Show me winter wear，预算199元,ask_product
+Looking for items below $60,ask_price
+I might come back to this.,undecided
+see you next time，价位在599-699元,goodbye
+goodbye，价位在199-299元,goodbye
+Looking for items below $80,ask_price
+see you next time,goodbye
+hi again，≤199块,greet
+Let me think... I’m grateful.，≤399块,thank_you
+I can't tell,undecided
+I’m browsing casually for now.，around 799 RMB,undecided
+I like those，around 599 RMB,confirmation
+Do you have anything under $120?,ask_price
+hi again，around 299 RMB,greet
+I don’t know... maybe.,undecided
+I'm looking for a jacket,ask_product
+Definitely I'm done shopping.，499元以内,done
+Thank you... maybe.,thank_you
+I like minimal design,ask_style
+Looking for something formal，around 299 RMB,ask_style
+hello assistant，around 499 RMB,greet
+That’s everything，预算599元,done
+Do you have any shoes?，under CNY 999,ask_product
+These aren’t what I want,reject
+Appreciate the recommendation.,thank_you
+Thanks!，不超过999元,thank_you
+Let me sleep on it.,undecided
+I'm hesitating right now.，under CNY 799,undecided
+That’s all，价位在699-799元,done
+Looking for items below $50,ask_price
+Thank you — just saying.，around 399 RMB,thank_you
+I'm done shopping，不超过999元,goodbye
+how are you，999元以内,greet
+Any low-cost jackets?,ask_price
+Show me others. Appreciate it!,reject
+Maybe — just saying.,undecided
+Do you sell vintage clothes?，≤999块,ask_style
+That's all I wanted,done
+Could I see others... maybe.,reject
+Looking for items below $80,ask_price
+Big thanks!，around 699 RMB,thank_you
+I’m good，预算999元,done
+I want a trendy look，around 299 RMB,ask_style
+What do you have in business style?,ask_style
+Thank you，不超过999元,thank_you
+"They're all nice, I don't know.，不超过599元",undecided
+I'm finished here — I like that.,done
+Thanks a ton!,thank_you
+I'm done shopping,goodbye
+Any stylish jackets?,ask_product
+I want to check more options.，价位在599-699元,undecided
+I haven't decided,undecided
+talk to you later,goodbye
+I want to buy some boots,ask_product
+"Well, Thanks a lot.",thank_you
+appreciate your help,goodbye
+What do you have in business style?，预算699元,ask_style
+hi，价位在499-599元,greet
+Show me cheap options,ask_price
+I'm on a budget，预算299元,ask_price
+That’s all for today，≤299块,done
+Perfect，不超过699元,confirmation
+Looks good to me? Looks good.，预算999元,confirmation
+Do you have sporty outfits?，不超过299元,ask_style
+"Yeah, These don’t fit my needs",reject
+hi again，199元以内,greet
+Looking for items below $80,ask_price
+Thanks for the info.，under CNY 599,thank_you
+"You’ve been great, thanks.，不超过799元",thank_you
+Nope，under CNY 699,reject
+None of these,reject
+That's all I wanted — I like that.，under CNY 299,done
+These aren’t good — just saying.，≤299块,reject
+Any elegant jackets?，≤499块,ask_style
+Too cheap 👍,reject
+"You know, Much appreciated.，价位在399-499元",thank_you
+Wonderful,confirmation
+Sincerely appreciate it.，≤599块,thank_you
+Do you have sporty outfits?，around 799 RMB,ask_style
+Not ready to choose.，under CNY 299,undecided
+Thanks for assisting.,thank_you
+"Hmm, Nope, that's all I guess.，499元以内",done
+Not what I’m looking for. That should work.,reject
+Looking for items below $60,ask_price
+Thank you for the help.,thank_you
+It's not an easy choice.,undecided
+greetings，under CNY 699,greet
+I'm on a budget，799元以内,ask_price
+Sweet，under CNY 999,confirmation
+Too cheap,reject
+"Yeah, These aren’t good kinda.",reject
+Not really，under CNY 999,reject
+None of these — just saying.,reject
+Looking for items below $50,ask_price
+I’ll come back later，≤299块,done
+hello assistant,greet
+Any low-cost jackets?，不超过699元,ask_price
+Let me think this through.，不超过699元,undecided
+I need something not expensive，around 699 RMB,ask_price
+I'm searching for a raincoat,ask_product
+I'm done shopping,goodbye
+Any elegant jackets?,ask_style
+Thank you — just saying.,thank_you
+bye，under CNY 199,goodbye
+thank you，under CNY 799,goodbye
+how are you,greet
+Price range under $96,ask_price
+Thanks a lot，≤799块,thank_you
+Thanks again，599元以内,thank_you
+"Sure, Many thanks works.，999元以内",thank_you
+Can I get back to you?，价位在199-299元,undecided
+Looking for items below $50,ask_price
+I like what I see,confirmation
+Don’t like them，不超过699元,reject
+Good choices，预算599元,confirmation
+I need something not expensive，under CNY 399,ask_price
+I'm searching for a raincoat，699元以内,ask_product
+Price range under $80,ask_price
+I don’t feel ready to decide.，≤999块,undecided
+goodbye，around 599 RMB,goodbye
+What do you have in business style?，under CNY 699,ask_style
+These match my needs? Looks good.,confirmation
+Do you have sporty outfits?,ask_style
+I'm into casual style,ask_style
+"Thanks, very useful!，价位在899-999元",thank_you
+"You know, Many thanks.",thank_you
+Cheers — just saying.，under CNY 999,thank_you
+Affordable options please,ask_price
+"Hmm, Later I guess.",goodbye
+Thank you so much.,thank_you
+Looking for items below $150,ask_price
+Take care,goodbye
+I like minimal design,ask_style
+Any stylish jackets?，199元以内,ask_product
+Any stylish jackets?，≤699块,ask_product
+I appreciate your time.,thank_you
+I need something stylish,ask_style
+"Appreciate it, thank you.，不超过699元",thank_you
+I need something not expensive,ask_price
+I’ll go with those,confirmation
+Looking for something formal,ask_style
+I want a trendy look,ask_style
+Not what I had in mind，around 199 RMB,reject
+I'm into casual style，499元以内,ask_style
+Do you have anything under $100?,ask_price
+Looking for something formal，不超过599元,ask_style
+"Yeah, Can I get different ones?，预算999元",reject
+None of these work，价位在299-399元,reject
+"You know, Appreciate it.",thank_you
+Show me formal wear,ask_style
+"Yeah, Thanks, that’s all kinda.",goodbye
+I like what I see，预算499元,confirmation
+"Well, Thank you.",thank_you
+I like what I see，不超过599元,confirmation
+Let me think... I’ll pass.,reject
+I'm into casual style，under CNY 999,ask_style
+Looking for items below $60,ask_price
+I feel undecided.，价位在299-399元,undecided
+I need something not expensive,ask_price
+appreciate your help，599元以内,goodbye
+cheers,goodbye
+What do you have in business style?，under CNY 699,ask_style
+I like too many of them.,undecided
+hey，under CNY 599,greet
+That’s nice,confirmation
+I'm on a budget，under CNY 299,ask_price
+I really appreciate your time.，不超过199元,thank_you
+Do you have sporty outfits?，价位在499-599元,ask_style
+I’m browsing casually for now.，under CNY 799,undecided
+appreciate your help,goodbye
+bye,goodbye
+bye,goodbye
+Looking for items below $50,ask_price
+Can I see some coats?,ask_product
+I’m not sure,undecided
+Do you have sporty outfits?,ask_style
+"Hmm, I haven't decided I guess.，预算399元",undecided
+Those are just what I need? Looks good.，199元以内,confirmation
+I need something not expensive,ask_price
+cheers,goodbye
+thank you，around 399 RMB,goodbye
+Do you have anything under $50?,ask_price
+cheers,goodbye
+I'm looking for a jacket,ask_product
+Love them，699元以内,confirmation
+"Sure, Thanks so much works.",thank_you
+That’s not what I meant，under CNY 999,reject
+see you next time，不超过399元,goodbye
+hi again,greet
+I need something not expensive,ask_price
+Can I get different ones?,reject
+Not my style. That should work.，299元以内,reject
+Can I see some coats?，around 699 RMB,ask_product
+Price range under $64,ask_price
+hello assistant,greet
+"Well, Could I see others.，预算399元",reject
+hello assistant，价位在699-799元,greet
+good morning，under CNY 199,greet
+What do you have in business style?,ask_style
+Definitely Too sporty.,reject
+hi again,greet
+That's all I wanted，不超过199元,done
+Still deciding.，价位在399-499元,undecided
+Price range under $180,ask_price
+Enough for today，≤599块,done
+None of these work，预算299元,reject
+Not suitable，around 599 RMB,reject
+hi again，价位在599-699元,greet
+I need sneakers，499元以内,ask_product
+That's exactly what I wanted,confirmation
+hey,greet
+Looks good to me? Looks good.，≤399块,confirmation
+Let me look a bit more.,undecided
+I'm unsure right now.，under CNY 699,undecided
+see you next time,goodbye
+I’m leaving，≤199块,done
+Looking for items below $80,ask_price
+I'm on a budget,ask_price
+Thanks for the input.，around 799 RMB,thank_you
+Let me think... I’ll pass.，价位在199-299元,reject
+Show me winter wear,ask_product
+hello assistant,greet
+"Appreciate it, mate.，around 399 RMB",thank_you
+"Hmm, I’d like to see other options I guess.，预算699元",reject
+Not interested — I like that.,reject
+Looking for items below $60,ask_price
+Nothing else. Appreciate it!，≤399块,done
+Looks good to me，预算299元,confirmation
+talk to you later,goodbye
+I don't want to rush this.，199元以内,undecided
+good morning，around 499 RMB,greet
+thank you，预算699元,goodbye
+No，around 599 RMB,reject
+Can I see some coats?,ask_product
+Maybe later.，999元以内,undecided
+Looking for items below $60,ask_price
+Thanks for the input.，around 999 RMB,thank_you
+I'm into casual style，around 299 RMB,ask_style
+I need something not expensive，around 699 RMB,ask_price
+Price range under $30,ask_price
+Appreciate it，under CNY 699,thank_you
+"Sure, this works，≤199块",confirmation
+"Thanks, that’s helpful，around 799 RMB",confirmation
+Too expensive,reject
+Nothing else. Appreciate it!，under CNY 399,done
+I can't tell，around 499 RMB,undecided
+This is a difficult decision.，不超过599元,undecided
+Show me winter wear,ask_product
+Can I see some coats?，不超过699元,ask_product
+Nothing stands out to me yet.，around 599 RMB,undecided
+I'm searching for a raincoat，不超过799元,ask_product
+bye,goodbye
+What do you have in business style?，399元以内,ask_style
+Try something else!，under CNY 299,reject
+hey,greet
+I'm searching for a raincoat,ask_product
+Looking for something formal，预算299元,ask_style
+I think I like them,confirmation
+Thank you kindly.，under CNY 599,thank_you
+thanks a lot，不超过499元,goodbye
+Thanks a lot — just saying.，价位在599-699元,thank_you
+"You know, Maybe.，不超过199元",undecided
+Not for me，under CNY 399,reject
+Thanks，不超过999元,thank_you
+Do you sell vintage clothes?,ask_style
+That’s not what I meant? Looks good.,reject
+Affordable options please，under CNY 299,ask_price
+I can't decide right now.,undecided
+Show me winter wear，under CNY 199,ask_product
+I'd say I like those.,confirmation
+Do you sell vintage clothes?，预算299元,ask_style
+Looking for something formal，around 799 RMB,ask_style
+Definitely I’m done.，799元以内,done
+They’re not quite right，预算799元,reject
+That’s everything. That should work.,done
+Let me think，不超过399元,undecided
+Price range under $64,ask_price
+bye，under CNY 699,goodbye
+"No, thank you",done
+greetings，around 599 RMB,greet
+"Hmm, Many thanks I guess.，价位在499-599元",thank_you
+goodbye，不超过599元,goodbye
+goodbye，价位在499-599元,goodbye
+"Yeah, Thank you kinda.",thank_you
+Price range under $180,ask_price
+I'm searching for a raincoat，under CNY 999,ask_product
+Thanks for your help.，around 399 RMB,thank_you
+I don't want to rush this.，预算399元,undecided
+thank you，不超过199元,goodbye
+I like minimal design，价位在699-799元,ask_style
+Just what I had in mind,confirmation
+Looking for something formal，599元以内,ask_style
+I like those，≤999块,confirmation
+Fine with me,confirmation
+hey，around 799 RMB,greet
+Can I see some coats?，399元以内,ask_product
+Show me cheap options，around 499 RMB,ask_price
+What’s the cheapest you have?，不超过799元,ask_price
+bye，不超过999元,goodbye
+I need time — just saying.，499元以内,undecided
+Yeah，around 199 RMB,confirmation
+"Cool, I’ll take a look，价位在599-699元",confirmation
+Exactly，不超过199元,confirmation
+Nothing stands out? Looks good.，不超过699元,reject
+Thank you — just saying.，799元以内,thank_you
+What’s the cheapest you have?，价位在599-699元,ask_price
+What’s the cheapest you have?，价位在99-199元,ask_price
+What do you have in business style?,ask_style
+Price range under $30,ask_price
+hello，around 399 RMB,greet
+Let me think about it.，不超过699元,undecided
+Looking for items below $50,ask_price
+None of these — I suppose.，399元以内,reject
+good evening,greet
+bye,goodbye
+Looking for something formal，价位在99-199元,ask_style
+Looking for items below $80,ask_price
+I don’t like these，599元以内,reject
+Do you have casual clothes?，around 299 RMB,ask_product
+Looking for items below $150,ask_price
+Thank you,thank_you
+I'm finished here，价位在299-399元,done
+Thank you indeed.,thank_you
+Nice selection,confirmation
+Any elegant jackets?，≤799块,ask_style
+hi again，预算999元,greet
+What do you have in business style?，价位在199-299元,ask_style
+Let me think，under CNY 799,undecided
+"Thanks, I’m all set",done
+Thanks — very helpful.，不超过599元,thank_you
+I really appreciate your time.，299元以内,thank_you
+Much appreciated.，价位在699-799元,thank_you
+"Well, Later.",goodbye
+I want to buy some boots,ask_product
+Any low-cost jackets?，≤499块,ask_price
+hello,greet
+I'm done shopping，不超过799元,goodbye
+What’s the cheapest you have?,ask_price
+"Well, Let me think.，999元以内",undecided
+Price range under $96,ask_price
+I want to buy some boots，预算999元,ask_product
+Can I think a little more?，价位在699-799元,undecided
+I don’t know，around 999 RMB,undecided
+Is there a discount section?，under CNY 699,ask_price
+Looking for items below $80,ask_price
+Nothing really stands out yet.，under CNY 799,undecided
+Not interested，299元以内,reject
+All good now,done
+Thanks! That helps a lot.,thank_you
+I need something stylish，under CNY 799,ask_style
+I'm done shopping,goodbye
+Looking for items below $80,ask_price
+I'm hesitating right now.，199元以内,undecided
+Thanks a lot — just saying.，预算499元,thank_you
+Do you sell vintage clothes?，不超过599元,ask_style
+Any stylish jackets?,ask_product
+I'd say Don’t like them.，不超过699元,reject
+Price range under $30,ask_price
+What do you have in business style?，399元以内,ask_style
+I don’t need anything else，≤599块,done
+Price range under $96,ask_price
+That’s it for now,done
+Show me cheap options，≤199块,ask_price
+I need sneakers，≤299块,ask_product
+I like minimal design，价位在299-399元,ask_style
+Not really,reject
+I want to buy some boots，预算799元,ask_product
+Bye — I suppose.,goodbye
+What’s the cheapest you have?,ask_price
+goodbye，价位在499-599元,goodbye
+None of these... maybe.，under CNY 499,reject
+Too cheap，≤199块,reject
+Looking for items below $150,ask_price
+Thanks — very helpful.，under CNY 499,thank_you
+Enough for today? Looks good.，≤199块,done
+Nothing good here，999元以内,reject
+Looking for items below $150,ask_price
+talk to you later，299元以内,goodbye
+Do you sell vintage clothes?，699元以内,ask_style
+Price range under $80,ask_price
+Fine with me 👍，预算199元,confirmation
+I’m not sure — just saying.,undecided
+Price range under $30,ask_price
+Price range under $80,ask_price
+hello assistant，999元以内,greet
+Any stylish jackets?，499元以内,ask_product
+Do you sell vintage clothes?，≤799块,ask_style
+Can I think a little more?，预算499元,undecided
+Can I get back to you?，不超过299元,undecided
+Thanks again，不超过699元,thank_you
+Show me winter wear，≤299块,ask_product
+Not suitable 👍，under CNY 999,reject
+hello assistant，价位在499-599元,greet
+I need sneakers，299元以内,ask_product
+Looking for items below $80,ask_price
+Nothing stands out? Looks good.,reject
+Give me a moment to think.,undecided
+see you next time,goodbye
+Too cheap 👍，under CNY 199,reject
+Not suitable 👍,reject
+These will work — I like that.,confirmation
+Do you sell vintage clothes?,ask_style
+I'm into casual style，不超过399元,ask_style
+"Thanks, I’m all set，不超过999元",done
+Many thanks.，预算499元,thank_you
+I’ll think about it.，around 499 RMB,undecided
+"Well, Not for me.",reject
+Any stylish jackets?,ask_product
+Give me a moment to think.，around 599 RMB,undecided
+I need something not expensive，≤299块,ask_price
+Exactly，around 699 RMB,confirmation
+Still unsure，≤799块,undecided
+This is a difficult decision.,undecided
+hi,greet
+These aren’t good，价位在299-399元,reject
+Any elegant jackets?，around 199 RMB,ask_style
+Thanks，under CNY 199,thank_you
+Thanks so much for this.，under CNY 599,thank_you
+how are you，under CNY 799,greet
+These match my needs — I like that.，预算399元,confirmation
+hello assistant，under CNY 199,greet
+good morning,greet
+I need sneakers，399元以内,ask_product
+"Hmm, Not what I had in mind I guess.",reject
+Looking for items below $50,ask_price
+greetings，199元以内,greet
+Much appreciated，around 699 RMB,thank_you
+Maybe — just saying.，around 499 RMB,undecided
+I'm done shopping，around 799 RMB,goodbye
+I'd say Don’t like them.,reject
+I need sneakers，799元以内,ask_product
+I'm searching for a raincoat，699元以内,ask_product
+Yes，预算399元,confirmation
+"Sure, Not really works.",reject
+greetings,greet
+Too sporty,reject
+"You know, Let me think.，around 599 RMB",undecided
+bye，不超过199元,goodbye
+"Well, Could I see others.",reject
+"You know, Maybe.，≤399块",undecided
+I need something not expensive,ask_price
+Do you have sporty outfits?，预算799元,ask_style
+That’s it，预算199元,confirmation
+Still deciding — just saying.，under CNY 699,undecided
+I want a trendy look，价位在199-299元,ask_style
+I’ll come back later,done
+It's hard to say.，around 799 RMB,undecided
+I need some time.，≤599块,undecided
+Can I see some coats?,ask_product
+Good choices. Appreciate it!,confirmation
+Can I think a little more?,undecided
+Do you sell vintage clothes?，under CNY 599,ask_style
+hey，around 399 RMB,greet
+Definitely I’m finished.，under CNY 199,done
+I need something stylish，≤499块,ask_style
+Not useful，≤599块,reject
+I need time，预算699元,undecided
+I need something stylish，≤199块,ask_style
+What do you have in business style?，价位在699-799元,ask_style
+I like minimal design,ask_style
+bye，199元以内,goodbye
+These will work — I like that.，价位在399-499元,confirmation
+"Everything looks good, I can't choose.",undecided
+Thanks for being helpful.,thank_you
+Still unsure，around 599 RMB,undecided
+good morning，价位在399-499元,greet
+"You know, Appreciate it.",thank_you
+Nothing really stands out yet.，价位在99-199元,undecided
+Looking for items below $50,ask_price
+hey there，不超过299元,greet
+No thanks，under CNY 599,done
+hi again，under CNY 799,greet
+bye，around 699 RMB,goodbye
+Price range under $64,ask_price
+Try something else，around 399 RMB,reject
+"Well, Not really.，预算399元",reject
+"Well, Thanks again.",thank_you
+thanks a lot,goodbye
+Yes,confirmation
+I can't decide right now.，around 499 RMB,undecided
+I just can't decide yet.，预算199元,undecided
+That’s not what I meant? Looks good.，≤699块,reject
+"Appreciate it, mate.",thank_you
+No,reject
+No more help needed? Looks good.,done
+thank you,goodbye
+Price range under $80,ask_price
+Do you have anything under $120?,ask_price
+I’ll come back later，价位在99-199元,done
+Looking for items below $50,ask_price
+No，≤199块,reject
+Show me winter wear,ask_product
+hello，不超过199元,greet
+appreciate your help，≤999块,goodbye
+bye，价位在599-699元,goodbye
+Not my style，around 699 RMB,reject
+I'm thinking it over.，199元以内,undecided
+Any elegant jackets?，around 699 RMB,ask_style
+That's all I wanted，around 999 RMB,done
+Any elegant jackets?，不超过799元,ask_style
+I'm done shopping,goodbye
+Got any running shoes?，799元以内,ask_product
+I'm finished here — I like that.，299元以内,done
+"Well, Could I see others.，不超过399元",reject
+Affordable options please，under CNY 399,ask_price
+No,reject
+Show me winter wear，499元以内,ask_product
+Looking for items below $60,ask_price
+Give me a moment to think.，价位在199-299元,undecided
+"Hmm, Nope, that's all I guess.，under CNY 799",done
+Can I see some coats?，预算499元,ask_product
+That’s everything,done
+Maybe — I suppose.,undecided
+thanks a lot，under CNY 699,goodbye
+hi，under CNY 399,greet
+good evening，价位在699-799元,greet
+Appreciate it,thank_you
+I’m done,goodbye
+All good now? Looks good.，价位在99-199元,done
+"No, thank you，预算299元",done
+"Sure, I don’t know works.，预算599元",undecided
+Any low-cost jackets?，≤199块,ask_price
+Affordable options please，under CNY 399,ask_price
+thanks a lot,goodbye
+greetings，价位在499-599元,greet
+"Yeah, No，under CNY 799",reject
+hi，under CNY 499,greet
+Do you have sporty outfits?，预算699元,ask_style
+Do you sell vintage clothes?,ask_style
+"Yeah, Bye for now kinda.",goodbye
+Let me think... Maybe.，价位在99-199元,undecided
+Take care!,goodbye
+I think I like them? Looks good.,confirmation
+I'm torn between options.,undecided
+Bye for now!,goodbye
+greetings，under CNY 199,greet
+Looking for items below $150,ask_price
+I want to buy some boots，299元以内,ask_product
+hi again,greet
+Thanks a lot.，under CNY 699,thank_you
+I'm okay now. That should work.，预算699元,done
+hi again，699元以内,greet
+I want to buy some boots，≤999块,ask_product
+Do you have anything under $100?,ask_price
+Do you have anything under $50?,ask_price
+Could I see others... maybe.，预算699元,reject
+Looking for something formal,ask_style
+greetings，预算999元,greet
+These aren’t good，不超过299元,reject
+Not ready to choose.,undecided
+Good choices，价位在899-999元,confirmation
+"Yeah, I’m grateful kinda.，≤599块",thank_you
+None of these work,reject
+Got any running shoes?，预算499元,ask_product
+Looking for items below $50,ask_price
+I'm into casual style，around 599 RMB,ask_style
+Still deciding，≤699块,undecided
+Thanks for your help.,thank_you
+Let me sleep on it.，under CNY 799,undecided
+Nice selection，399元以内,confirmation
+Appreciate your support.,thank_you
+I'm searching for a raincoat,ask_product
+hello，599元以内,greet
+Looking for items below $80,ask_price
+"Well, Let me think.",undecided
+Do you have anything under $100?,ask_price
+"Hmm, Not what I’m looking for I guess.，around 299 RMB",reject
+I'm into casual style，799元以内,ask_style
+Can I see some coats?，预算799元,ask_product
+I appreciate it.，under CNY 199,thank_you
+I'm on a budget，不超过699元,ask_price
+thank you，≤699块,goodbye
+No more help needed,done
+cheers，around 199 RMB,goodbye
+Talk soon!,goodbye
+"Yeah, Can I get different ones?",reject
+Much appreciated,thank_you
+I’m grateful.,thank_you
+Show me winter wear,ask_product
+Do you sell vintage clothes?，999元以内,ask_style
+I need sneakers,ask_product
+Show me winter wear，不超过399元,ask_product
+What do you have in business style?，799元以内,ask_style
+Cheers，预算699元,thank_you
+That’s not what I meant. That should work.,reject
+I need sneakers，around 199 RMB,ask_product
+I’m grateful — I suppose.,thank_you
+bye，预算399元,goodbye
+I don’t know... maybe.，under CNY 199,undecided
+goodbye，≤599块,goodbye
+Price range under $80,ask_price
+hello assistant,greet
+Thanks a bunch.，不超过699元,thank_you
+Looking for items below $50,ask_price
+Can I see some coats?，≤399块,ask_product
+Nope... maybe.，under CNY 399,reject
+That's all I wanted — I like that.,done
+Can I see some coats?,ask_product
+I want a trendy look，under CNY 399,ask_style
+I'm looking for a jacket，under CNY 399,ask_product
+I just can't decide yet.，799元以内,undecided
+Bye for now,goodbye
+hi again，under CNY 799,greet
+That's exactly what I wanted，价位在299-399元,confirmation
+"Hmm, I can't tell I guess.",undecided
+Let me think... Maybe.，价位在599-699元,undecided
+I'll come back later,goodbye
+I want a trendy look,ask_style
+I just need some time.，399元以内,undecided
+I don't know what I want.，不超过299元,undecided
+These aren’t good — just saying.，价位在199-299元,reject
+Looking for items below $50,ask_price
+Show me cheap options，around 499 RMB,ask_price
+I’ll pass，不超过999元,reject
+Got any running shoes?,ask_product
+Looking for something formal，599元以内,ask_style
+hi again，预算299元,greet
+Could I see others，不超过399元,reject
+Too cheap 👍，999元以内,reject
+Let me think... Nope.,reject
+Looking for items below $50,ask_price
+Thank you.,thank_you
+That’s all,done
+Thanks so much，价位在299-399元,thank_you
+I'm okay now. That should work.，299元以内,done
+I don’t see anything I want，≤799块,reject
+No. That should work.，不超过299元,reject
+Thanks a lot — just saying.,thank_you
+Not really!，预算199元,reject
+appreciate your help，699元以内,goodbye
+"Hmm, Nope, that's all I guess.",done
+Do you have any shoes?,ask_product
+Looking for something formal，预算199元,ask_style
+I'm into casual style，around 799 RMB,ask_style
+I'm searching for a raincoat,ask_product
+"Sure, this works — cool!，预算499元",confirmation
+good evening，around 499 RMB,greet
+"Hmm, None of these I guess.，≤599块",reject
+Still unsure,undecided
+Nice selection，299元以内,confirmation
+Goodbye!,goodbye
+Not sure about these，≤199块,reject
+I'm done shopping，under CNY 199,goodbye
+Not really，不超过699元,reject
+That’s it，价位在99-199元,confirmation
+thank you，799元以内,goodbye
+I haven't decided，around 399 RMB,undecided
+Everything looks nice.,undecided
+Do you have anything under $80?,ask_price
+Nothing good here，399元以内,reject
+I'm into casual style,ask_style
+Looking for something formal,ask_style
+I'd say I’m finished.，预算399元,done
+I’d like to see other options,reject
+No，around 799 RMB,reject
+Thank you very much.，399元以内,thank_you
+Looking for items below $50,ask_price
+thank you,goodbye
+I want to buy some boots，799元以内,ask_product
+I'm into casual style，不超过499元,ask_style
+Cheers!，around 799 RMB,thank_you
+I’m finished,done
+Nothing stands out? Looks good.，不超过699元,reject
+Try something else!，under CNY 699,reject
+Can I see some coats?，under CNY 299,ask_product
+Many thanks!，≤399块,thank_you
+"You know, Take care.",goodbye
+I'm okay now，≤199块,done
+Looking for items below $150,ask_price
+Looking for items below $60,ask_price
+Thanks a bunch.，under CNY 999,thank_you
+"Hmm, They’re fine I guess.，价位在899-999元",confirmation
+Not really — I suppose.，under CNY 599,reject
+It's a tough call.，≤599块,undecided
+"You know, Much appreciated.，不超过499元",thank_you
+Do you have anything under $200?,ask_price
+They’re not quite right，299元以内,reject
+how are you,greet
+I'll come back later，under CNY 699,goodbye
+Looking for items below $150,ask_price
+Looking for items below $80,ask_price
+Not interested — I like that.，≤799块,reject
+cheers，预算299元,goodbye
+Price range under $180,ask_price
+Looking for items below $50,ask_price
+"You know, Many thanks.，价位在899-999元",thank_you
+No further help，价位在399-499元,done
+Thanks again,thank_you
+hey，around 999 RMB,greet
+hello assistant，≤299块,greet
+Not really，around 299 RMB,reject
+thank you,goodbye
+"Thank you, this is great!，499元以内",thank_you
+Thanks! That helps a lot.，around 199 RMB,thank_you
+Not for me,reject
+Not sure，价位在299-399元,undecided
+Affordable options please，价位在899-999元,ask_price
+hello assistant,greet
+greetings,greet
+I don’t like these? Looks good.,reject
+"Sure, I don’t know works.，under CNY 699",undecided
+Looking for something formal,ask_style
+"Well, I can't tell.，价位在699-799元",undecided
+talk to you later，≤699块,goodbye
+"No, I'm good，under CNY 199",done
+I'm searching for a raincoat,ask_product
+Looking for items below $150,ask_price
+Cheers，价位在499-599元,thank_you
+see you next time，预算199元,goodbye
+These don’t fit my needs,reject
+I need more time to decide.,undecided
+I like too many of them.，under CNY 499,undecided
+bye，under CNY 199,goodbye
+"No, I'm good，不超过799元",done
+Show me winter wear，≤999块,ask_product
+"Hmm, Too cheap I guess.，499元以内",reject
+I don’t know，≤699块,undecided
+None of these — just saying.,reject
+Big thanks!,thank_you
+"Well, Not for me.，under CNY 799",reject
+I'm on the fence.,undecided
+Definitely Too formal.，价位在699-799元,reject
+Let me take a moment.，预算699元,undecided
+Thanks for being helpful.，≤199块,thank_you
+hello,greet
+I’m leaving,done
+"You know, Talk soon.",goodbye
+"Well, Not really.，under CNY 699",reject
+Still deciding，不超过199元,undecided
+Maybe,undecided
+I’m satisfied，399元以内,done
+Looking for items below $60,ask_price
+No further help 👍,done
+I’m grateful，≤299块,thank_you
+Price range under $180,ask_price
+I'm into casual style,ask_style
+Let me think... No.，around 399 RMB,reject
+I need time!，≤499块,undecided
+"Hmm, Not what I’m looking for I guess.",reject
+Show me cheap options，around 299 RMB,ask_price
+I’m not sure，around 599 RMB,undecided
+talk to you later，under CNY 199,goodbye
+Thank you so much.，under CNY 599,thank_you
+Enough for today,done
+It’s hard to make a decision.，价位在399-499元,undecided
+bye,goodbye
+hello，under CNY 699,greet
+Do you have anything under $50?,ask_price
+"Hmm, Nope I guess.",reject
+hi again,greet
+hello，不超过999元,greet
+These are good，around 999 RMB,confirmation
+cheers，预算399元,goodbye
+Show me cheap options,ask_price
+Definitely Too formal.，under CNY 599,reject
+Show me winter wear，≤799块,ask_product
+I need some time.,undecided
+I might come back later.,undecided
+"Hmm, Thank you I guess.，≤299块",thank_you
+Not my style,reject
+hey,greet
+hello assistant，预算999元,greet
+I need something not expensive,ask_price
+Thank you indeed.，699元以内,thank_you
+Do you have any shoes?，around 999 RMB,ask_product
+Can I see some coats?,ask_product
+I appreciate your time.，under CNY 699,thank_you
+I’m done，≤599块,done
+I’m not sure — I suppose.，≤999块,undecided
+I haven't decided，预算699元,undecided
+Looking for items below $50,ask_price
+"Yeah, Not sure about these，under CNY 599",reject
+"Thanks, that was great!，699元以内",thank_you
+"Sure, this works — cool!",confirmation
+I'd say Done for now.，under CNY 299,done
+I'm looking for a jacket，≤199块,ask_product
+I’ll pass on these，预算399元,reject
+I'm on a budget,ask_price
+I’m done — I suppose.,goodbye
+Any elegant jackets?,ask_style
+I'm done shopping,goodbye
+I'm searching for a raincoat，≤399块,ask_product
+Maybe — just saying.，不超过399元,undecided
+hey，699元以内,greet
+Show me others. Appreciate it!，≤399块,reject
+Definitely Too sporty.，≤699块,reject
+"Nope, that's all，不超过799元",done
+Thanks a ton!，around 999 RMB,thank_you
+Thanks a ton!，价位在599-699元,thank_you
+These are good，799元以内,confirmation
+I'm on the fence.，around 599 RMB,undecided
+Much appreciated，under CNY 199,thank_you
+"Hmm, I’d like to see other options I guess.",reject
+Wonderful，价位在899-999元,confirmation
+hey，199元以内,greet
+Definitely I'm done shopping.，599元以内,done
+Can I see some coats?，价位在499-599元,ask_product
+Maybe — I suppose.，under CNY 999,undecided
+Show me others，不超过599元,reject
+I'm done shopping，预算399元,done
+Cheers!，≤699块,thank_you
+Show me formal wear，299元以内,ask_style
+"You know, Many thanks.，599元以内",thank_you
+hello assistant，under CNY 599,greet
+I'm finished here，under CNY 199,done
+All good now? Looks good.，预算499元,done
+Thanks for the info.,thank_you
+Catch you later... maybe.,goodbye
+Grateful for your advice.，399元以内,thank_you
+Yes，199元以内,confirmation
+thanks a lot，around 699 RMB,goodbye
+Really appreciate that.，不超过199元,thank_you
+"Everything looks good, I can't choose.，不超过599元",undecided
+cheers，≤999块,goodbye
+Bye,goodbye
+"Thanks, that’s all",goodbye
+I need to consider my options.，under CNY 599,undecided
+Cheers for that.，under CNY 999,thank_you
+I’m grateful.，价位在699-799元,thank_you
+appreciate your help，around 199 RMB,goodbye
+Nope，199元以内,reject
+What do you have in business style?，预算799元,ask_style
+These match my needs? Looks good.，around 299 RMB,confirmation
+Thank you so much.，价位在299-399元,thank_you
+Those are just what I need? Looks good.，不超过799元,confirmation
+Not interested — I like that.，499元以内,reject
+I might come back later.，预算699元,undecided
+I’m not sure — just saying.，under CNY 699,undecided
+I haven't decided — I suppose.，≤499块,undecided
+I don’t see anything I want，999元以内,reject
+Thank you... maybe.，under CNY 299,thank_you
+Do you have anything under $200?,ask_price
+"Hmm, Bye I guess.",goodbye
+Looking for items below $60,ask_price
+"Well, Thank you.，≤399块",thank_you
+I haven't decided — I suppose.,undecided
+I'm searching for a raincoat，价位在499-599元,ask_product
+"Sure, I don’t know works.",undecided
+Looking for something formal，不超过799元,ask_style
+I'm on a budget，≤499块,ask_price
+I don’t want more，价位在399-499元,done
+Looking for items below $50,ask_price
+Cheers — just saying.,thank_you
+see you next time，under CNY 299,goodbye
+Thank you!,thank_you
+I like minimal design，299元以内,ask_style
+Can I get different ones?. That should work.，around 599 RMB,reject
+hello，预算199元,greet
+"Well, Thank you.，不超过399元",thank_you
+Thank you so so much.，under CNY 499,thank_you
+I’m done,done
+No further help，价位在299-399元,done
+Show me winter wear,ask_product
+I'm done shopping，199元以内,goodbye
+Maybe — just saying.,undecided
+I need something not expensive，around 599 RMB,ask_price
+I need sneakers，不超过799元,ask_product
+how are you，399元以内,greet
+"Hmm, Not really I guess.，around 799 RMB",reject
+No more help needed? Looks good.，≤399块,done
+Great!，不超过999元,confirmation
+Show me cheap options，under CNY 699,ask_price
+That’s not what I meant，under CNY 999,reject
+Affordable options please，199元以内,ask_price
+What do you have in business style?,ask_style
+Good choices,confirmation
+Do you have anything under $120?,ask_price
+talk to you later，under CNY 499,goodbye
+Nice selection? Looks good.,confirmation
+I need something stylish，around 499 RMB,ask_style
+"You know, Many thanks.，around 799 RMB",thank_you
+I'm on a budget，under CNY 799,ask_price
+Do you have any shoes?，around 699 RMB,ask_product
+Appreciate it，预算799元,thank_you
+"Hmm, Thanks, that’s all I guess.",goodbye
+Not sure，≤299块,undecided
+"Yeah, Try something else kinda.",reject
+I’m satisfied，399元以内,done
+thank you，699元以内,goodbye
+Not interested，价位在99-199元,reject
+I'm into casual style，预算799元,ask_style
+Do you sell vintage clothes?，价位在99-199元,ask_style
+hello assistant,greet
+Any stylish jackets?，≤499块,ask_product
+I'd say I’m finished.，预算399元,done
+"Hmm, Not really I guess.，under CNY 699",reject
+Nope,reject
+I’ve seen enough,done
+good evening，under CNY 299,greet
+I need sneakers，价位在499-599元,ask_product
+Looking for items below $80,ask_price
+Do you have anything under $120?,ask_price
+hi,greet
+Do you have any shoes?,ask_product
+Any stylish jackets?，不超过799元,ask_product
+hello,greet
+Looking for items below $80,ask_price
+Do you have anything under $100?,ask_price
+I think I like them，under CNY 399,confirmation
+"Well, Thanks a lot.，799元以内",thank_you
+Love them,confirmation
+I'm a little overwhelmed.,undecided
+They’re not quite right,reject
+Nothing else，价位在399-499元,done
+Great!. Appreciate it!,confirmation
+"Well, Could I see others.",reject
+These will work，≤999块,confirmation
+Is there a discount section?，≤699块,ask_price
+I need something not expensive，199元以内,ask_price
+These match my needs? Looks good.，under CNY 999,confirmation
+"Yeah, Take care kinda.",goodbye
+I want a trendy look，under CNY 799,ask_style
+Thanks!，不超过699元,thank_you
+Thanks a lot — just saying.,thank_you
+Looking for items below $50,ask_price
+Thanks again!，不超过699元,thank_you
+Do you have casual clothes?,ask_product
+Looking for items below $60,ask_price
+hello assistant，around 999 RMB,greet
+I'd say I’m finished.,done
+Fine with me 👍,confirmation
+Is there a discount section?,ask_price
+hi again，预算699元,greet
+hi again,greet
+Do you have anything under $50?,ask_price
+Looking for items below $150,ask_price
+cheers，599元以内,goodbye
+"Thank you, that's helpful.",thank_you
+I’ve seen enough，≤299块,done
+Looking for items below $50,ask_price
+I don’t need anything else，不超过699元,done
+I want to check more options.,undecided
+Definitely I’m finished.，预算499元,done
+Looking for items below $60,ask_price
+It's hard to say.，不超过599元,undecided
+That’s it for now，预算699元,done
+That’s nice，不超过499元,confirmation
+Can I get different ones?. That should work.,reject
+"Well, Could I see others.，价位在599-699元",reject
+Looking for items below $50,ask_price
+I need to consider my options.,undecided
+Any elegant jackets?，around 599 RMB,ask_style
+talk to you later,goodbye
+What’s the cheapest you have?,ask_price
+Nope，预算399元,reject
+I need something not expensive，around 499 RMB,ask_price
+Not interested,reject
+bye，预算799元,goodbye
+They’re fine，不超过399元,confirmation
+"Yeah, Thank you kinda.，预算799元",thank_you
+"Well, Thanks a lot.，around 399 RMB",thank_you
+Looking for items below $80,ask_price
+"You know, Maybe.",undecided
+"Really grateful, thanks!，不超过299元",thank_you
+Can I see some coats?，≤499块,ask_product
+I need something not expensive，≤299块,ask_price
+Thank you heaps.，≤499块,thank_you
+These aren’t what I want，under CNY 699,reject
+cheers，around 299 RMB,goodbye
+hey,greet
+greetings,greet
+Do you have anything under $200?,ask_price
+Many thanks,thank_you
+Thanks a million.，around 599 RMB,thank_you
+Looks great，不超过199元,confirmation
+"Hmm, None of these I guess.，预算399元",reject
+Thanks for the suggestions.，价位在599-699元,thank_you
+I want to buy some boots,ask_product
+I’ll think about it.，around 599 RMB,undecided
+What do you have in business style?，预算999元,ask_style
+Still deciding — just saying.,undecided
+Thank you.，不超过999元,thank_you
+Do you have anything under $50?,ask_price
+hello assistant,greet
+greetings,greet
+Cheers!,thank_you
+None of these... maybe.,reject
+These match my needs,confirmation
+I need a minute.，不超过599元,undecided
+I'm into casual style,ask_style
+Any low-cost jackets?，价位在399-499元,ask_price
+good evening,greet
+"Well, Take care.",goodbye
+I’m grateful — I suppose.，around 699 RMB,thank_you
+"Cool, I’ll take a look，价位在699-799元",confirmation
+Looking for items below $60,ask_price
+"Hmm, They’re fine I guess.，价位在299-399元",confirmation
+hey there，699元以内,greet
+I'm not sure yet.，预算299元,undecided
+I’ll pass on these，不超过599元,reject
+"You know, Maybe.，399元以内",undecided
+"Hmm, I haven't decided I guess.",undecided
+None of these，价位在99-199元,reject
+hi again，around 399 RMB,greet
+bye，价位在399-499元,goodbye
+I need sneakers,ask_product
+"Hmm, Thank you I guess.，不超过699元",thank_you
+Do you have any shoes?，预算399元,ask_product
+I'll come back later，不超过499元,goodbye
+They’re fine，预算799元,confirmation
+I’m finished，价位在599-699元,done
+Thanks,thank_you
+hi，under CNY 999,greet
+Definitely I'm done shopping.,done
+Definitely I don’t see anything I want.，不超过199元,reject
+Do you have sporty outfits?，价位在299-399元,ask_style
+hello，under CNY 999,greet
+Maybe later.,undecided
+Affordable options please,ask_price
+I’m still weighing my options.，预算699元,undecided
+Definitely I’m done.,done
+Looking for items below $60,ask_price
+I'm unsure right now.,undecided
+I'll come back later，≤299块,goodbye
+Looking for items below $50,ask_price
+Perfect? Looks good.,confirmation
+Any stylish jackets?，价位在199-299元,ask_product
+Thanks for being helpful.，under CNY 699,thank_you
+Nice selection. That should work.，价位在199-299元,confirmation
+Thanks — very helpful.,thank_you
+I need something not expensive，不超过299元,ask_price
+I'm really not sure yet.，around 999 RMB,undecided
+Definitely I’m done.，不超过399元,done
+hey,greet
+That’s everything. That should work.，预算399元,done
+I need something not expensive，不超过999元,ask_price
+I need something not expensive，under CNY 199,ask_price
+Thanks for assisting.，around 599 RMB,thank_you
+goodbye,goodbye
+Fine with me，价位在299-399元,confirmation
+Thanks so much for this.,thank_you
+hey，around 599 RMB,greet
+All good now? Looks good.,done
+Show me winter wear,ask_product
+Not what I had in mind — cool!，价位在899-999元,reject
+hi again，不超过699元,greet
+I’m done looking，预算199元,done
+hey，价位在499-599元,greet
+Looking for items below $150,ask_price
+Not ready to choose.，价位在299-399元,undecided
+Is there a discount section?，around 299 RMB,ask_price
+Sincerely appreciate it.，预算199元,thank_you
+I'm into casual style，under CNY 399,ask_style

@@ -1,0 +1,5 @@
+weights:
+  style: 0.6
+  name: 0.2
+  price_closeness: 0.2
+style_match_threshold: 70

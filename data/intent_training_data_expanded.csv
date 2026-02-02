@@ -1,0 +1,2410 @@
+text,intent
+talk to you later,goodbye
+recommend jacket minimalist around 200,goodbye
+i'd like sporty skirt below 200,goodbye
+looking for handbag ~ 200,goodbye
+Any elegant jackets?,ask_style
+recommend clean handbag less than 80,ask_style
+recommend trainers minimalist around 80,ask_style
+recommend overcoat budget 80 in refined style,ask_style
+Show me formal wear,ask_style
+i need hype overcoat from 84 to 156,ask_style
+find me sporty overcoat,ask_style
+looking for a smart leather shoes about 120,ask_style
+What do you have in business style?,ask_style
+find me trainers refined max 100,ask_style
+i need preppy parka,ask_style
+find me shirt max 100 in hype aesthetic,ask_style
+Looking for something formal,ask_style
+i need trainers athletic below 80,ask_style
+pull up collegiate footwear,ask_style
+i need shirt less than 80 in laid back style,ask_style
+I'm done shopping,goodbye
+i need a preppy ankle boots budget 150,goodbye
+find me elegant jeans under 150,goodbye
+find me a edgy dress budget 150,goodbye
+Looking for items below $50,ask_price
+recommend handbag about 50,ask_price
+i need edgy outerwear,ask_price
+can you show boots hype from 35 and 65,ask_price
+I like minimal design,ask_style
+i'd like parka max 80 in edgy style,ask_style
+looking for tea dress below 80,ask_style
+recommend coat about 80 in chic style,ask_style
+I'm searching for a raincoat,ask_product
+recommend parka retro less than 200,ask_product
+recommend jeans from 140 to 260 in everyday aesthetic,ask_product
+find me retro jeans,ask_product
+Do you sell vintage clothes?,ask_style
+i need sneakers between 140 and 260,ask_style
+find me chic parka budget 200,ask_style
+i'd like sporty shoes cap at 200,ask_style
+hi again,greet
+looking for trainers approximately 50,greet
+find me laid back jeans,greet
+recommend a elegant shoes around 50,greet
+Can I see some coats?,ask_product
+recommend a hype running shoes between 140 and 260,ask_product
+i need a sporty overcoat cap at 200,ask_product
+find me footwear in the range of 140 and 260,ask_product
+I need something stylish,ask_style
+can you show vintage shirt from 56 and 104,ask_style
+pull up athletic jeans about 80,ask_style
+recommend streetwear leather shoes less than 80,ask_style
+greetings,greet
+can you show a clean shirt cap at 120,greet
+looking for grunge jeans,greet
+find me classic combat boots budget 120,greet
+Do you have casual clothes?,ask_product
+i need athleisure trainers budget 50,ask_product
+looking for casual jeans from 35 to 65,ask_product
+looking for midi dress below 50,ask_product
+show me handbag budget 120,ask_style
+i need urban parka,ask_style
+find me sneakers ~120 in classic aesthetic,ask_style
+recommend formal running shoes from 70 and 130,ask_product
+find me jeans about 100,ask_product
+can you show coat about 100 in classic vibe,ask_product
+I'll come back later,goodbye
+can you show handbag less than 200,goodbye
+looking for minimalist jeans,goodbye
+can you show dressy coat,goodbye
+bye,goodbye
+looking for derby shoes elegant max 100,goodbye
+looking for formal coat,goodbye
+can you show summer dress less than 100 in edgy aesthetic,goodbye
+Show me winter wear,ask_product
+show me dressy parka,ask_product
+i want a everyday jeans less than 150,ask_product
+can you show jacket refined max 150,ask_product
+good evening,greet
+can you show jeans cap at 50,greet
+find me shoes casual ~50,greet
+i need urban sneakers,greet
+Affordable options please,ask_price
+looking for urban coat between 56 and 104,ask_price
+can you show combat boots retro under 80,ask_price
+can you show combat boots approximately 80 in dressy aesthetic,ask_price
+thanks a lot,goodbye
+looking for elegant jeans below 200,goodbye
+find me clean handbag below 200,goodbye
+recommend a chic running shoes budget 200,goodbye
+i want clean leather shoes cap at 120,ask_style
+looking for grunge jeans,ask_style
+can you show smart skirt,ask_style
+i need parka about 100,goodbye
+recommend streetwear running shoes,goodbye
+find me a grunge skirt max 100,goodbye
+i want a minimal handbag from 35 to 65,ask_price
+can you show derby shoes budget 50,ask_price
+recommend elegant shirt,ask_price
+recommend grunge tea dress about 150,ask_style
+looking for footwear about 150 in grunge style,ask_style
+find me preppy shirt in the range of 105 and 195,ask_style
+I'm into casual style,ask_style
+i need a elegant skirt about 200,ask_style
+i need a dressy jacket ~ 200,ask_style
+pull up classic jeans between 140 and 260,ask_style
+looking for a refined handbag budget 150,goodbye
+recommend a elegant midi dress about 150,goodbye
+looking for a retro boots max 150,goodbye
+I need something not expensive,ask_price
+recommend overcoat minimal about 100,ask_price
+i'd like overcoat casual about 100,ask_price
+recommend skirt in the range of 70 and 130,ask_price
+goodbye,goodbye
+find me skirt cap at 50,goodbye
+can you show a urban handbag below 50,goodbye
+looking for retro skirt,goodbye
+I need sneakers,ask_product
+looking for a retro handbag approx 150,ask_product
+recommend outerwear max 150 in hype vibe,ask_product
+find me shirt from 105 to 195,ask_product
+Show me cheap options,ask_price
+recommend preppy handbag,ask_price
+i need a casual skirt less than 50,ask_price
+can you show skirt elegant in the range of 35 and 65,ask_price
+hello assistant,greet
+can you show clean skirt between 84 and 156,greet
+i want jacket chic max 120,greet
+find me footwear less than 120,greet
+recommend parka collegiate in the range of 56 and 104,greet
+find me preppy handbag,greet
+looking for minimal dress budget 80,greet
+i need streetwear skirt,ask_product
+i want dressy shoes,ask_product
+i need skirt below 150 in edgy style,ask_product
+hi,greet
+find me elegant skirt,greet
+find me jeans budget 120 in edgy aesthetic,greet
+recommend skirt approximately 120 in preppy style,greet
+thank you,goodbye
+recommend leather shoes budget 100,goodbye
+can you show coat less than 100 in elegant vibe,goodbye
+looking for combat boots budget 100 in refined vibe,goodbye
+hello,greet
+looking for leather shoes smart cap at 50,greet
+looking for elegant leather shoes,greet
+recommend parka about 50 in smart vibe,greet
+I want to buy some boots,ask_product
+can you show shirt approximately 150,ask_product
+recommend jeans cap at 150 in elegant vibe,ask_product
+can you show retro boots cap at 150,ask_product
+i need jeans everyday approximately 50,greet
+i need handbag about 50,greet
+can you show footwear minimalist approximately 50,greet
+I want a trendy look,ask_style
+i'd like clean tea dress less than 200,ask_style
+looking for dressy shirt budget 200,ask_style
+recommend shirt less than 200 in elegant style,ask_style
+looking for dressy shirt ~100,goodbye
+find me grunge handbag,goodbye
+looking for clean handbag around 100,goodbye
+looking for handbag collegiate from 84 to 156,goodbye
+recommend a preppy combat boots about 120,goodbye
+i want vintage overcoat,goodbye
+find me jeans dressy below 80,greet
+i need handbag under 80 in elegant vibe,greet
+i need elegant boots max 80,greet
+looking for handbag grunge ~100,greet
+i want footwear grunge about 100,greet
+find me collegiate ankle boots,greet
+recommend combat boots from 35 to 65 in urban vibe,greet
+can you show a athleisure handbag cap at 50,greet
+can you show outerwear smart max 50,greet
+looking for collegiate ankle boots less than 50,ask_style
+can you show a preppy summer dress max 50,ask_style
+recommend running shoes approximately 50 in streetwear style,ask_style
+hey there,greet
+recommend clean shirt,greet
+can you show shirt about 100 in dressy style,greet
+looking for athletic jeans,greet
+pull up leather shoes budget 120 in retro style,ask_price
+find me ankle boots retro about 120,ask_price
+i need smart shirt max 120,ask_price
+Do you have anything under $100?,ask_price
+looking for shoes from 70 to 130 in everyday aesthetic,ask_price
+pull up a smart footwear below 100,ask_price
+can you show a minimalist jeans in the range of 70 and 130,ask_price
+i want midi dress urban budget 120,greet
+looking for skirt about 120,greet
+looking for clean outerwear,greet
+recommend tea dress in the range of 140 and 260,ask_product
+i'd like a hype jeans approximately 200,ask_product
+find me handbag streetwear ~200,ask_product
+i need a hype shirt max 100,greet
+find me shirt athleisure from 70 to 130,greet
+can you show elegant overcoat from 70 to 130,greet
+i need urban dress,ask_style
+looking for ankle boots cap at 50,ask_style
+i need elegant overcoat,ask_style
+i need retro shirt budget 200,ask_price
+show me edgy footwear,ask_price
+show me overcoat elegant cap at 200,ask_price
+pull up trainers approximately 100 in sporty style,ask_price
+i'd like preppy skirt,ask_price
+find me handbag max 100,ask_price
+looking for a retro tea dress max 120,greet
+i need outerwear max 120 in elegant style,greet
+pull up shirt about 120,greet
+Any stylish jackets?,ask_product
+can you show shirt minimal ~200,ask_product
+can you show derby shoes approximately 200,ask_product
+show me clean skirt budget 200,ask_product
+recommend boots approximately 200,ask_product
+i need footwear max 200 in preppy aesthetic,ask_product
+i need a clean outerwear below 200,ask_product
+find me chic boots,ask_price
+looking for jeans from 56 to 104,ask_price
+can you show a minimalist tea dress about 80,ask_price
+recommend retro summer dress,ask_product
+show me skirt from 84 to 156 in athletic vibe,ask_product
+i need a preppy ankle boots max 120,ask_product
+find me shirt from 140 to 260,goodbye
+can you show classic handbag,goodbye
+looking for minimalist shirt,goodbye
+find me a clean jacket below 80,greet
+find me skirt max 80 in elegant aesthetic,greet
+i need jeans cap at 80,greet
+i need hype summer dress,ask_price
+recommend athletic boots,ask_price
+recommend refined derby shoes max 50,ask_price
+can you show jacket approximately 200 in hype style,ask_product
+find me sporty handbag approximately 200,ask_product
+find me vintage handbag from 140 to 260,ask_product
+find me shoes elegant budget 150,ask_product
+looking for midi dress about 150,ask_product
+recommend everyday jacket approximately 150,ask_product
+find me ankle boots athleisure cap at 50,ask_style
+recommend a elegant parka approximately 50,ask_style
+show me shirt retro budget 50,ask_style
+Do you have sporty outfits?,ask_style
+looking for a minimalist jeans max 200,ask_style
+show me a urban shirt max 200,ask_style
+i need smart shirt approximately 200,ask_style
+pull up tea dress max 80,greet
+looking for a minimalist jeans from 56 to 104,greet
+looking for grunge parka,greet
+recommend leather shoes in the range of 84 and 156 in streetwear aesthetic,ask_product
+can you show elegant skirt,ask_product
+find me formal shirt below 120,ask_product
+Do you have any shoes?,ask_product
+recommend running shoes less than 120,ask_product
+can you show overcoat max 120 in streetwear aesthetic,ask_product
+can you show handbag below 120 in clean aesthetic,ask_product
+find me classic shirt approximately 80,ask_style
+can you show overcoat ~ 80,ask_style
+looking for preppy handbag,ask_style
+Any low-cost jackets?,ask_price
+i need combat boots athletic about 150,ask_price
+can you show running shoes athleisure less than 150,ask_price
+recommend casual coat,ask_price
+i need a urban derby shoes between 140 and 260,greet
+i need sneakers below 200,greet
+find me collegiate dress max 200,greet
+see you next time,goodbye
+i need skirt in the range of 84 and 156,goodbye
+can you show retro leather shoes approximately 120,goodbye
+recommend edgy ankle boots,goodbye
+find me collegiate skirt under 50,ask_style
+find me dress approximately 50 in minimal style,ask_style
+i need skirt laid back ~50,ask_style
+find me retro jeans,ask_style
+show me a athletic skirt below 200,ask_style
+looking for a collegiate skirt cap at 200,ask_style
+recommend parka elegant budget 50,greet
+recommend skirt dressy ~50,greet
+i'd like overcoat cap at 50 in streetwear vibe,greet
+i'd like overcoat approx 50,ask_style
+find me coat ~ 50 in laid back style,ask_style
+recommend a edgy summer dress from 35 and 65,ask_style
+I'm looking for a jacket,ask_product
+can you show elegant summer dress from 140 and 260,ask_product
+can you show preppy combat boots approximately 200,ask_product
+can you show elegant shirt below 200,ask_product
+pull up overcoat from 70 to 130,ask_style
+i'd like a athletic jeans budget 100,ask_style
+i want shirt retro below 100,ask_style
+i need retro coat,ask_product
+find me shirt from 70 to 130,ask_product
+looking for summer dress about 100 in refined vibe,ask_product
+Is there a discount section?,ask_price
+pull up running shoes below 150 in dressy vibe,ask_price
+i need handbag below 150 in laid back aesthetic,ask_price
+find me minimal running shoes,ask_price
+What’s the cheapest you have?,ask_price
+i need parka ~80,ask_price
+looking for edgy dress,ask_price
+i'd like sneakers about 80 in athletic vibe,ask_price
+how are you,greet
+find me laid back dress about 80,greet
+looking for retro jeans max 80,greet
+can you show handbag ~80,greet
+find me summer dress preppy cap at 80,ask_product
+recommend edgy trainers,ask_product
+looking for shirt approx 80,ask_product
+looking for elegant leather shoes,goodbye
+looking for ankle boots from 84 to 156,goodbye
+find me shoes collegiate about 120,goodbye
+i'd like retro coat about 100,goodbye
+can you show shirt retro ~100,goodbye
+pull up leather shoes under 100 in elegant aesthetic,goodbye
+find me skirt around 100 in formal vibe,ask_price
+looking for trainers laid back below 100,ask_price
+looking for a elegant dress budget 100,ask_price
+recommend combat boots classic from 35 to 65,ask_price
+recommend coat minimalist about 50,ask_price
+find me skirt between 35 and 65,ask_price
+looking for shirt less than 50,ask_product
+i need retro handbag,ask_product
+pull up handbag chic budget 50,ask_product
+cheers,goodbye
+i need parka below 200 in retro aesthetic,goodbye
+looking for retro jeans ~200,goodbye
+show me skirt cap at 200 in chic vibe,goodbye
+find me preppy coat,ask_product
+can you show refined jeans,ask_product
+recommend shirt grunge less than 100,ask_product
+looking for shirt around 200 in sporty style,ask_product
+can you show a retro ankle boots from 140 to 260,ask_product
+can you show coat edgy about 200,ask_product
+pull up a urban trainers cap at 100,ask_product
+find me shirt from 70 to 130 in elegant vibe,ask_product
+looking for streetwear parka ~100,ask_product
+can you show dressy running shoes approximately 150,ask_price
+can you show preppy shirt,ask_price
+i need a elegant shirt less than 150,ask_price
+recommend edgy combat boots below 150,greet
+can you show jeans edgy under 150,greet
+can you show tea dress dressy max 150,greet
+can you show everyday handbag,greet
+recommend overcoat collegiate from 105 to 195,greet
+can you show retro combat boots under 150,greet
+recommend jeans about 150 in dressy aesthetic,ask_price
+find me minimalist handbag,ask_price
+show me a smart summer dress less than 150,ask_price
+i need trainers from 70 to 130,greet
+can you show midi dress grunge approximately 100,greet
+find me a classic tea dress less than 100,greet
+recommend jeans below 100,goodbye
+recommend urban ankle boots,goodbye
+looking for collegiate skirt less than 100,goodbye
+can you show elegant shirt,ask_style
+find me jeans less than 200,ask_style
+looking for dress less than 200,ask_style
+can you show midi dress cap at 80 in laid back vibe,goodbye
+can you show parka minimal max 80,goodbye
+find me combat boots below 80,goodbye
+find me handbag collegiate less than 200,ask_product
+looking for sporty handbag below 200,ask_product
+i need clean handbag,ask_product
+Got any running shoes?,ask_product
+i need elegant parka,ask_product
+recommend a grunge leather shoes about 120,ask_product
+i need a casual overcoat ~120,ask_product
+looking for chic tea dress,ask_price
+looking for trainers below 100,ask_price
+find me shirt between 70 and 130 in formal style,ask_price
+can you show a collegiate skirt about 50,ask_style
+looking for running shoes retro in the range of 35 and 65,ask_style
+recommend a formal coat from 35 to 65,ask_style
+Price range under $80,ask_price
+looking for athletic trainers about 80,ask_price
+i need a dressy parka less than 80,ask_price
+can you show streetwear outerwear budget 80,ask_price
+i need a smart ankle boots from 70 to 130,ask_product
+i need handbag dressy below 100,ask_product
+can you show sneakers less than 100 in retro aesthetic,ask_product
+appreciate your help,goodbye
+recommend athleisure jeans under 150,goodbye
+can you show a retro shirt less than 150,goodbye
+i need jeans budget 150 in everyday style,goodbye
+i need combat boots from 105 to 195 in collegiate aesthetic,ask_style
+i need a minimal handbag below 150,ask_style
+i need parka about 150,ask_style
+i need a preppy outerwear about 200,goodbye
+i need a collegiate outerwear less than 200,goodbye
+find me shoes cap at 200,goodbye
+find me jacket ~50 in elegant vibe,ask_price
+i need leather shoes budget 50,ask_price
+looking for outerwear approx 50,ask_price
+recommend jeans less than 200 in hype vibe,greet
+can you show refined jeans,greet
+i need a collegiate boots approx 200,greet
+can you show retro ankle boots,ask_product
+recommend retro trainers,ask_product
+pull up handbag ~80,ask_product
+looking for minimal dress about 100,goodbye
+recommend combat boots elegant approx 100,goodbye
+i'd like casual combat boots budget 100,goodbye
+i need vintage jeans,goodbye
+show me refined skirt,goodbye
+looking for summer dress less than 50,goodbye
+recommend shirt edgy about 200,ask_style
+can you show smart jacket,ask_style
+i need a everyday jacket less than 200,ask_style
+find me athleisure combat boots about 120,ask_style
+recommend a minimal running shoes max 120,ask_style
+find me jeans around 120 in elegant vibe,ask_style
+i need shirt cap at 80 in grunge style,ask_product
+i need sneakers max 80,ask_product
+find me a edgy handbag ~80,ask_product
+recommend overcoat casual between 35 and 65,ask_product
+can you show a retro skirt about 50,ask_product
+can you show collegiate handbag about 50,ask_product
+hey,greet
+find me edgy coat in the range of 140 and 260,greet
+i need parka approximately 200 in grunge style,greet
+find me a laid back shirt cap at 200,greet
+recommend jeans max 100,ask_price
+looking for classic shoes,ask_price
+recommend chic jeans budget 100,ask_price
+looking for jeans retro budget 50,goodbye
+i want summer dress from 35 to 65 in casual aesthetic,goodbye
+i need elegant handbag from 35 to 65,goodbye
+looking for overcoat elegant from 84 to 156,goodbye
+i want a retro parka max 120,goodbye
+recommend sporty combat boots,goodbye
+recommend sneakers below 50,goodbye
+pull up combat boots urban less than 50,goodbye
+recommend a hype shirt below 50,goodbye
+looking for casual jeans,ask_style
+i need athleisure leather shoes about 200,ask_style
+looking for a retro skirt about 200,ask_product
+can you show dress minimalist cap at 200,ask_product
+looking for preppy skirt about 200,ask_product
+i want outerwear max 50,ask_style
+find me a streetwear outerwear about 50,ask_style
+find me jeans clean cap at 50,ask_style
+i'd like handbag approx 100 in grunge aesthetic,greet
+recommend clean combat boots from 70 to 130,greet
+find me a retro skirt below 100,greet
+i need skirt cap at 200 in retro vibe,goodbye
+recommend a minimalist summer dress less than 200,goodbye
+looking for minimalist leather shoes,goodbye
+recommend skirt less than 150,goodbye
+recommend shoes minimal approximately 150,goodbye
+looking for sneakers cap at 150,goodbye
+can you show skirt budget 50,goodbye
+recommend parka cap at 50,goodbye
+find me shirt about 50 in vintage style,goodbye
+i need parka elegant cap at 80,ask_product
+i need derby shoes urban from 56 to 104,ask_product
+recommend retro shirt,ask_product
+can you show a retro sneakers from 70 and 130,greet
+recommend trainers approximately 100 in classic style,greet
+looking for everyday leather shoes about 100,greet
+find me a retro sneakers budget 80,ask_price
+looking for a minimal running shoes cap at 80,ask_price
+find me running shoes everyday cap at 80,ask_price
+i want retro outerwear below 80,goodbye
+looking for jacket streetwear max 80,goodbye
+i need summer dress athletic from 56 to 104,goodbye
+i want elegant handbag,goodbye
+recommend a retro jeans under 50,goodbye
+i need combat boots less than 50 in retro aesthetic,goodbye
+looking for formal midi dress from 84 to 156,ask_product
+find me handbag approximately 120 in retro vibe,ask_product
+looking for skirt ~120 in smart vibe,ask_product
+I'm on a budget,ask_price
+i need minimalist shoes,ask_price
+recommend skirt between 56 and 104,ask_price
+i need laid back parka in the range of 56 and 104,ask_price
+looking for outerwear retro cap at 50,ask_product
+show me parka from 35 to 65 in edgy style,ask_product
+show me leather shoes collegiate cap at 50,ask_product
+looking for a preppy derby shoes max 80,greet
+looking for retro coat,greet
+recommend classic skirt approximately 80,greet
+recommend athletic trainers,greet
+find me a retro sneakers ~150,greet
+i need a edgy handbag below 150,greet
+i need overcoat less than 80 in smart aesthetic,ask_style
+find me skirt below 80 in chic style,ask_style
+can you show shirt below 80 in chic style,ask_style
+recommend shirt from 56 to 104,ask_product
+recommend sporty parka approximately 80,ask_product
+looking for a elegant handbag below 80,ask_product
+i need jeans from 35 to 65,ask_style
+find me skirt everyday about 50,ask_style
+can you show everyday shirt less than 50,ask_style
+recommend elegant ankle boots approximately 100,ask_product
+find me shirt approximately 100,ask_product
+recommend minimal tea dress ~100,ask_product
+recommend urban sneakers,greet
+can you show a vintage handbag approximately 100,greet
+recommend minimal running shoes,greet
+looking for a elegant leather shoes about 150,ask_product
+find me handbag from 105 to 195,ask_product
+i need athleisure jeans,ask_product
+recommend a formal ankle boots max 80,greet
+i need boots max 80 in retro aesthetic,greet
+looking for a dressy skirt budget 80,greet
+recommend retro jeans,greet
+i want chic outerwear,greet
+looking for grunge footwear,greet
+i want a chic skirt below 50,ask_price
+can you show retro footwear,ask_price
+recommend a hype running shoes max 50,ask_price
+find me a athletic trainers below 150,goodbye
+pull up overcoat about 150 in laid back style,goodbye
+recommend elegant running shoes from 105 and 195,goodbye
+can you show minimalist coat cap at 120,ask_product
+looking for grunge sneakers max 120,ask_product
+looking for summer dress retro approximately 120,ask_product
+looking for skirt edgy less than 80,ask_style
+recommend outerwear collegiate in the range of 56 and 104,ask_style
+recommend shoes cap at 80 in classic style,ask_style
+can you show a classic trainers below 80,ask_price
+looking for retro shirt,ask_price
+i want a collegiate skirt budget 80,ask_price
+looking for shirt collegiate max 100,ask_product
+i need formal handbag,ask_product
+find me combat boots formal approximately 100,ask_product
+recommend skirt collegiate budget 150,ask_product
+recommend elegant midi dress,ask_product
+i need midi dress less than 150 in elegant vibe,ask_product
+pull up a athleisure sneakers less than 150,ask_style
+looking for hype shirt,ask_style
+looking for shirt elegant below 150,ask_style
+recommend minimal footwear about 150,greet
+find me preppy shirt,greet
+i want parka approximately 150,greet
+recommend a classic jeans below 200,ask_price
+looking for minimalist derby shoes in the range of 140 and 260,ask_price
+recommend parka classic cap at 200,ask_price
+looking for a grunge handbag less than 100,ask_price
+looking for classic derby shoes budget 100,ask_price
+can you show handbag retro approximately 100,ask_price
+good morning,greet
+can you show combat boots from 140 to 260 in preppy style,greet
+looking for skirt max 200 in athleisure style,greet
+looking for tea dress vintage cap at 200,greet
+recommend shirt max 200,ask_style
+can you show a hype skirt below 200,ask_style
+looking for overcoat cap at 200,ask_style
+can you show shirt budget 200 in elegant style,greet
+looking for elegant parka,greet
+can you show a retro overcoat about 200,greet
+can you show running shoes from 84 to 156 in clean style,ask_style
+looking for chic shirt,ask_style
+pull up athletic shirt less than 120,ask_style
+recommend everyday footwear,ask_style
+find me minimalist running shoes approximately 50,ask_style
+recommend a classic boots max 50,ask_style
+recommend elegant footwear less than 50,ask_product
+i need athletic shirt cap at 50,ask_product
+looking for streetwear overcoat,ask_product
+recommend dressy overcoat approximately 80,ask_product
+find me casual skirt,ask_product
+find me collegiate jeans budget 80,ask_product
+i need edgy leather shoes,ask_product
+looking for smart shoes less than 100,ask_product
+i need a chic skirt approximately 100,ask_product
+can you show parka budget 80,ask_product
+can you show footwear from 56 to 104,ask_product
+recommend grunge ankle boots approximately 200,ask_product
+find me shirt below 200,ask_product
+looking for parka less than 200 in refined vibe,ask_product
+find me formal shirt budget 200,goodbye
+can you show classic ankle boots less than 200,goodbye
+i need a urban jeans cap at 200,goodbye
+i need jeans less than 50,goodbye
+can you show minimalist coat from 35 to 65,goodbye
+i want running shoes max 50,goodbye
+i need retro skirt around 100,greet
+find me shirt below 100,greet
+pull up everyday jacket,greet
+i need combat boots less than 150 in casual aesthetic,ask_style
+looking for a chic outerwear about 150,ask_style
+can you show edgy handbag in the range of 105 and 195,ask_style
+recommend handbag less than 50 in casual vibe,goodbye
+i want vintage coat,goodbye
+find me jacket ~50 in elegant style,goodbye
+i need skirt approximately 50 in vintage vibe,goodbye
+i'd like sneakers max 50,goodbye
+find me a athletic jeans below 50,goodbye
+looking for chic ankle boots from 70 to 130,greet
+can you show footwear about 100,greet
+recommend a preppy running shoes ~ 100,greet
+find me hype outerwear approx 50,ask_price
+looking for refined parka max 50,ask_price
+can you show overcoat approximately 50,ask_price
+find me smart combat boots approximately 50,greet
+can you show shirt below 50,greet
+looking for a grunge dress below 50,greet
+can you show a elegant combat boots cap at 80,goodbye
+can you show shirt minimalist below 80,goodbye
+find me handbag formal below 80,goodbye
+recommend streetwear trainers from 84 to 156,ask_price
+recommend boots below 120 in elegant style,ask_price
+looking for preppy ankle boots about 120,ask_price
+find me running shoes below 200,ask_style
+can you show a athletic midi dress between 140 and 260,ask_style
+find me dressy midi dress under 200,ask_style
+i need coat about 100,ask_product
+show me retro coat,ask_product
+pull up elegant outerwear less than 100,ask_product
+recommend a athletic shirt max 200,goodbye
+find me trainers retro about 200,goodbye
+find me jacket budget 200,goodbye
+can you show shirt between 140 and 260,ask_price
+recommend boots streetwear ~200,ask_price
+i need a athletic jeans cap at 200,ask_price
+i need shirt from 84 to 156,greet
+recommend casual combat boots approximately 120,greet
+recommend a sporty ankle boots from 84 to 156,greet
+find me shoes edgy about 80,ask_product
+can you show tea dress laid back budget 80,ask_product
+i need collegiate running shoes cap at 80,ask_product
+looking for tea dress preppy between 105 and 195,ask_product
+pull up jacket ~ 150,ask_product
+find me trainers collegiate less than 150,ask_product
+recommend collegiate dress,greet
+can you show a edgy sneakers budget 50,greet
+can you show laid back summer dress,greet
+find me jeans ~ 100 in collegiate style,goodbye
+can you show boots laid back cap at 100,goodbye
+i need preppy skirt less than 100,goodbye
+i want parka elegant approximately 200,ask_price
+find me sneakers refined max 200,ask_price
+i need elegant sneakers about 200,ask_price
+i need parka below 80 in chic style,goodbye
+recommend shirt urban ~80,goodbye
+recommend a retro trainers below 80,goodbye
+i need a everyday shoes below 150,ask_style
+find me minimal trainers below 150,ask_style
+find me retro parka approximately 150,ask_style
+recommend urban outerwear,goodbye
+find me jacket approximately 150 in smart aesthetic,goodbye
+i need minimal jeans,goodbye
+show me coat from 56 to 104,ask_price
+can you show hype outerwear about 80,ask_price
+i'd like classic shirt under 80,ask_price
+pull up shirt ~100 in smart vibe,ask_price
+can you show coat ~100,ask_price
+can you show skirt elegant between 70 and 130,ask_price
+recommend boots budget 120 in classic style,goodbye
+i need dressy parka,goodbye
+looking for handbag below 120,goodbye
+recommend a grunge jeans budget 150,greet
+recommend a smart boots cap at 150,greet
+i'd like preppy jeans,greet
+find me dress retro less than 120,goodbye
+recommend retro skirt,goodbye
+can you show a smart overcoat from 84 to 156,goodbye
+looking for a retro combat boots less than 100,ask_price
+i'd like streetwear jeans ~100,ask_price
+i want collegiate handbag below 100,ask_price
+can you show a minimal skirt max 150,ask_style
+i need elegant handbag less than 150,ask_style
+recommend summer dress max 150,ask_style
+show me refined skirt,ask_price
+recommend elegant ankle boots approximately 50,ask_price
+can you show edgy shirt about 50,ask_price
+recommend clean running shoes,greet
+recommend leather shoes elegant ~200,greet
+looking for sneakers less than 200,greet
+i need jeans hype from 70 to 130,ask_style
+pull up midi dress vintage under 100,ask_style
+can you show leather shoes from 70 and 130 in clean style,ask_style
+find me sneakers in the range of 35 and 65,ask_style
+i need jeans less than 50 in refined aesthetic,ask_style
+find me a sporty boots less than 50,ask_style
+find me clean shoes,goodbye
+recommend casual shirt,goodbye
+find me combat boots cap at 200 in collegiate aesthetic,goodbye
+recommend trainers approx 120 in elegant aesthetic,ask_price
+i want handbag below 120,ask_price
+i need retro running shoes,ask_price
+i need elegant overcoat approximately 100,goodbye
+i need running shoes max 100 in minimal aesthetic,goodbye
+find me summer dress retro less than 100,goodbye
+i need athletic tea dress,greet
+recommend hype skirt,greet
+i need handbag cap at 100 in vintage aesthetic,greet
+i need shirt from 140 to 260 in grunge style,ask_price
+can you show overcoat elegant cap at 200,ask_price
+i need laid back jeans,ask_price
+find me retro trainers,ask_style
+can you show boots in the range of 35 and 65 in preppy style,ask_style
+recommend retro leather shoes max 50,ask_style
+i'd like urban boots less than 50,ask_price
+recommend handbag elegant approximately 50,ask_price
+looking for a dressy midi dress approximately 50,ask_price
+find me jacket ~ 200 in elegant vibe,ask_price
+looking for parka ~200,ask_price
+recommend a streetwear skirt ~200,ask_price
+i want refined footwear approximately 50,greet
+find me vintage derby shoes,greet
+recommend jeans less than 50 in preppy style,greet
+can you show shirt from 70 to 130,goodbye
+can you show skirt edgy approximately 100,goodbye
+can you show a laid back footwear under 100,goodbye
+find me footwear from 56 to 104,ask_price
+can you show grunge running shoes ~80,ask_price
+i want grunge jacket max 80,ask_price
+recommend skirt about 120,ask_price
+recommend retro dress,ask_price
+recommend parka about 120,ask_price
+i need streetwear dress from 35 to 65,ask_price
+looking for coat elegant budget 50,ask_price
+looking for combat boots retro approximately 50,ask_price
+can you show midi dress from 84 and 156,ask_style
+recommend vintage running shoes under 120,ask_style
+looking for a grunge handbag less than 120,ask_style
+can you show minimal overcoat,ask_product
+recommend overcoat dressy less than 150,ask_product
+recommend smart coat less than 150,ask_product
+can you show running shoes about 80,greet
+pull up trainers elegant below 80,greet
+can you show a elegant skirt max 80,greet
+recommend summer dress athletic below 80,ask_style
+looking for a edgy handbag less than 80,ask_style
+looking for preppy running shoes max 80,ask_style
+recommend a hype coat below 120,ask_style
+can you show outerwear cap at 120,ask_style
+i need classic handbag,ask_style
+i'd like a dressy handbag max 80,ask_price
+can you show skirt budget 80,ask_price
+find me overcoat grunge from 56 to 104,ask_price
+can you show footwear less than 120 in elegant aesthetic,greet
+recommend a dressy leather shoes between 84 and 156,greet
+recommend a formal running shoes cap at 120,greet
+recommend skirt from 35 to 65,goodbye
+recommend overcoat max 50,goodbye
+i need grunge derby shoes,goodbye
+looking for leather shoes from 35 to 65 in elegant aesthetic,ask_price
+i need elegant running shoes below 50,ask_price
+find me parka max 50 in elegant aesthetic,ask_price
+i need coat athleisure from 70 and 130,ask_price
+i need skirt budget 100 in formal style,ask_price
+show me a retro skirt approx 100,ask_price
+i need a smart handbag from 35 and 65,goodbye
+looking for elegant dress from 35 to 65,goodbye
+looking for handbag less than 50,goodbye
+looking for everyday tea dress ~200,ask_style
+looking for a minimalist derby shoes approximately 200,ask_style
+find me collegiate skirt,ask_style
+i'd like retro sneakers,ask_style
+i'd like boots max 200 in edgy aesthetic,ask_style
+i need parka from 140 and 260,ask_style
+i need edgy skirt,ask_price
+looking for skirt below 200,ask_price
+show me casual skirt max 200,ask_price
+looking for minimalist midi dress,greet
+i need ankle boots below 100,greet
+find me edgy handbag,greet
+looking for edgy ankle boots ~80,greet
+looking for sporty jacket,greet
+i need running shoes cap at 80,greet
+looking for a minimalist shoes less than 80,ask_price
+find me a dressy jeans below 80,ask_price
+i want ankle boots everyday budget 80,ask_price
+i need dress athleisure approximately 120,ask_style
+i want ankle boots from 84 to 156,ask_style
+looking for running shoes retro less than 120,ask_style
+looking for a laid back jeans from 35 to 65,goodbye
+recommend parka elegant approx 50,goodbye
+can you show ankle boots from 35 to 65,goodbye
+looking for smart coat,goodbye
+i need retro handbag max 150,goodbye
+looking for parka from 105 to 195 in streetwear vibe,goodbye
+looking for trainers between 105 and 195,greet
+can you show shoes below 150,greet
+find me retro jeans max 150,greet
+find me a edgy footwear below 50,goodbye
+i need overcoat edgy less than 50,goodbye
+recommend formal overcoat less than 50,goodbye
+looking for a clean leather shoes ~150,ask_style
+recommend refined skirt ~150,ask_style
+recommend sporty jeans,ask_style
+i need jacket from 140 to 260 in dressy aesthetic,ask_product
+i want a minimal overcoat ~200,ask_product
+find me jeans retro cap at 200,ask_product
+can you show minimalist tea dress,greet
+looking for laid back jeans under 150,greet
+i need parka minimalist cap at 150,greet
+i need jeans casual less than 120,ask_product
+i want classic combat boots less than 120,ask_product
+recommend jeans max 120 in dressy style,ask_product
+find me handbag approximately 50 in elegant style,ask_style
+i need shoes budget 50 in dressy style,ask_style
+recommend shirt max 50,ask_style
+i need handbag budget 100,ask_price
+can you show trainers streetwear under 100,ask_price
+i need skirt less than 100 in clean aesthetic,ask_price
+recommend shirt about 100 in elegant vibe,ask_price
+i need casual coat,ask_price
+i want minimalist shoes,ask_price
+I'm not sure yet.,undecided
+i need outerwear ~150,undecided
+find me outerwear from 105 to 195 in retro vibe,undecided
+i need a elegant tea dress about 150,undecided
+Let me think about it.,undecided
+i'd like coat from 105 to 195 in hype aesthetic,undecided
+find me a casual jeans less than 150,undecided
+looking for handbag edgy cap at 150,undecided
+Maybe later.,undecided
+find me retro shirt about 50,undecided
+find me overcoat edgy from 35 to 65,undecided
+recommend athleisure jacket,undecided
+I need more time to decide.,undecided
+i need combat boots from 105 to 195,undecided
+find me a grunge skirt approximately 150,undecided
+i need ankle boots urban from 105 to 195,undecided
+It's hard to say.,undecided
+looking for preppy shirt from 84 to 156,undecided
+recommend vintage tea dress from 84 to 156,undecided
+find me dress budget 120 in casual aesthetic,undecided
+I can't decide right now.,undecided
+looking for a dressy trainers max 120,undecided
+find me casual handbag,undecided
+find me jacket budget 120,undecided
+I don't know what I want.,undecided
+i need jeans less than 80,undecided
+recommend summer dress clean from 56 to 104,undecided
+i need jacket below 80 in edgy vibe,undecided
+"Everything looks good, I can't choose.",undecided
+find me footwear less than 120,undecided
+i need jeans minimal cap at 120,undecided
+looking for handbag formal ~120,undecided
+I might come back to this.,undecided
+find me leather shoes max 50,undecided
+i want a laid back parka budget 50,undecided
+i want a smart coat max 50,undecided
+Still deciding.,undecided
+recommend jeans less than 200 in urban aesthetic,undecided
+find me shirt budget 200 in hype aesthetic,undecided
+i'd like overcoat streetwear about 200,undecided
+I feel undecided.,undecided
+i want jeans around 100 in hype aesthetic,undecided
+find me a athleisure jeans max 100,undecided
+looking for sneakers below 100 in hype vibe,undecided
+Nothing stands out to me yet.,undecided
+can you show a retro ankle boots budget 150,undecided
+looking for a grunge ankle boots ~ 150,undecided
+can you show a retro jeans about 150,undecided
+I'm on the fence.,undecided
+i want hype running shoes,undecided
+find me everyday shirt ~ 100,undecided
+looking for running shoes cap at 100,undecided
+Not ready to choose.,undecided
+find me urban dress,undecided
+i'd like dressy skirt about 200,undecided
+pull up athleisure handbag,undecided
+Give me a moment to think.,undecided
+looking for collegiate combat boots less than 200,undecided
+show me footwear about 200,undecided
+looking for handbag cap at 200,undecided
+I need a minute.,undecided
+i want grunge midi dress approximately 80,undecided
+pull up ankle boots max 80 in streetwear aesthetic,undecided
+i need dressy parka from 56 to 104,undecided
+It's a tough call.,undecided
+find me a classic handbag ~100,undecided
+recommend a casual boots from 70 to 130,undecided
+i need refined ankle boots from 70 to 130,undecided
+Let me look a bit more.,undecided
+recommend handbag elegant approximately 120,undecided
+looking for a grunge shirt budget 120,undecided
+recommend minimalist parka ~120,undecided
+I'm torn between options.,undecided
+i need a refined shoes approximately 200,undecided
+looking for ankle boots below 200 in classic aesthetic,undecided
+looking for trainers less than 200,undecided
+I need to consider my options.,undecided
+can you show footwear less than 100 in preppy vibe,undecided
+find me footwear clean about 100,undecided
+can you show smart summer dress below 100,undecided
+I'm thinking it over.,undecided
+looking for a athleisure jeans approximately 50,undecided
+can you show shirt between 35 and 65 in collegiate aesthetic,undecided
+recommend leather shoes preppy below 50,undecided
+I'm hesitating right now.,undecided
+can you show skirt edgy between 105 and 195,undecided
+can you show sporty parka,undecided
+can you show running shoes less than 150 in preppy vibe,undecided
+I just can't decide yet.,undecided
+recommend handbag less than 100 in elegant vibe,undecided
+find me skirt ~100 in elegant vibe,undecided
+find me handbag max 100,undecided
+"They're all nice, I don't know.",undecided
+looking for overcoat minimal from 56 to 104,undecided
+find me a everyday midi dress below 80,undecided
+find me retro jeans,undecided
+Let me think this through.,undecided
+can you show ankle boots under 120,undecided
+i need summer dress athleisure about 120,undecided
+can you show shirt approximately 120 in refined aesthetic,undecided
+I want to be sure before choosing.,undecided
+can you show hype outerwear approximately 100,undecided
+find me preppy handbag,undecided
+looking for combat boots max 100 in refined vibe,undecided
+I'm unsure right now.,undecided
+find me skirt from 84 and 156 in collegiate style,undecided
+recommend a preppy handbag below 120,undecided
+find me running shoes approximately 120 in classic vibe,undecided
+Let me take a moment.,undecided
+looking for a minimal skirt approximately 100,undecided
+find me midi dress athleisure cap at 100,undecided
+can you show coat vintage ~100,undecided
+This is a difficult decision.,undecided
+recommend athleisure jeans ~50,undecided
+looking for coat budget 50 in smart style,undecided
+recommend ankle boots retro cap at 50,undecided
+I need some time.,undecided
+find me dress retro less than 200,undecided
+can you show a elegant trainers from 140 to 260,undecided
+i'd like laid back shirt,undecided
+I like too many of them.,undecided
+recommend handbag max 150,undecided
+i need jeans from 105 and 195 in minimalist style,undecided
+recommend a elegant boots about 150,undecided
+It's not an easy choice.,undecided
+pull up jeans about 50 in casual aesthetic,undecided
+i need shirt below 50 in elegant vibe,undecided
+looking for footwear approximately 50,undecided
+I'm really not sure yet.,undecided
+recommend skirt classic cap at 150,undecided
+i need skirt streetwear about 150,undecided
+recommend derby shoes cap at 150,undecided
+Everything looks nice.,undecided
+i need a minimalist jeans around 100,undecided
+find me dressy combat boots,undecided
+can you show handbag elegant approximately 100,undecided
+Can I think a little more?,undecided
+find me retro jacket less than 50,undecided
+can you show casual combat boots,undecided
+find me everyday coat in the range of 35 and 65,undecided
+I’m still weighing my options.,undecided
+looking for a chic shirt cap at 100,undecided
+can you show casual overcoat about 100,undecided
+looking for shirt casual about 100,undecided
+I don’t feel ready to decide.,undecided
+looking for a urban shoes about 50,undecided
+i need retro overcoat,undecided
+recommend combat boots chic max 50,undecided
+I want to explore a bit more first.,undecided
+i need jeans from 140 and 260 in dressy style,undecided
+can you show leather shoes formal max 200,undecided
+find me preppy boots ~200,undecided
+I'm a little overwhelmed.,undecided
+i want shirt preppy approximately 50,undecided
+find me dressy shirt,undecided
+looking for jacket max 50 in athleisure aesthetic,undecided
+I just need some time.,undecided
+find me shirt from 35 to 65 in retro aesthetic,undecided
+looking for retro shirt cap at 50,undecided
+can you show minimal summer dress from 35 and 65,undecided
+Nothing really stands out yet.,undecided
+i need shirt less than 150,undecided
+i'd like chic trainers,undecided
+looking for tea dress about 150 in elegant style,undecided
+It’s hard to make a decision.,undecided
+i need laid back skirt budget 200,undecided
+find me formal trainers,undecided
+i need shirt retro budget 200,undecided
+I think I’ll browse a little more.,undecided
+recommend formal running shoes from 70 to 130,undecided
+find me casual dress approximately 100,undecided
+pull up a edgy handbag max 100,undecided
+I might come back later.,undecided
+can you show preppy shoes,undecided
+i need a formal shirt max 50,undecided
+can you show jeans cap at 50 in hype style,undecided
+Can I get back to you?,undecided
+i want jacket below 100 in smart style,undecided
+find me jeans hype ~ 100,undecided
+find me handbag edgy from 70 to 130,undecided
+I want to check more options.,undecided
+pull up chic handbag,undecided
+find me a retro tea dress from 140 to 260,undecided
+i need tea dress in the range of 140 and 260,undecided
+I don't want to rush this.,undecided
+can you show urban running shoes,undecided
+i need leather shoes ~ 150,undecided
+can you show a elegant shirt less than 150,undecided
+I’m browsing casually for now.,undecided
+can you show handbag less than 50,undecided
+can you show coat clean approx 50,undecided
+i want jeans less than 50,undecided
+I’ll think about it.,undecided
+recommend trainers laid back about 50,undecided
+find me leather shoes below 50 in minimalist aesthetic,undecided
+i need a refined overcoat less than 50,undecided
+Let me sleep on it.,undecided
+looking for preppy coat,undecided
+looking for coat ~200 in refined style,undecided
+i need athletic handbag,undecided
+Thanks!,thank_you
+can you show jeans from 35 to 65 in sporty aesthetic,thank_you
+can you show jeans classic less than 50,thank_you
+recommend shirt from 35 to 65,thank_you
+Thank you.,thank_you
+find me a minimalist skirt less than 50,thank_you
+can you show coat cap at 50,thank_you
+looking for clean skirt ~50,thank_you
+Thank you so much.,thank_you
+looking for summer dress approximately 80,thank_you
+i need handbag budget 80,thank_you
+i need jeans retro below 80,thank_you
+Thanks a lot.,thank_you
+can you show dressy handbag max 120,thank_you
+recommend trainers refined approximately 120,thank_you
+i need outerwear minimal approximately 120,thank_you
+Thanks for your help.,thank_you
+find me shirt sporty approx 150,thank_you
+looking for smart coat,thank_you
+find me boots cap at 150 in athletic vibe,thank_you
+I appreciate it.,thank_you
+find me classic sneakers,thank_you
+i'd like a retro combat boots budget 120,thank_you
+i need outerwear max 120,thank_you
+Much appreciated.,thank_you
+can you show tea dress around 50 in athleisure vibe,thank_you
+can you show streetwear parka,thank_you
+show me a edgy ankle boots ~ 50,thank_you
+Really appreciate that.,thank_you
+looking for retro handbag less than 120,thank_you
+find me jeans cap at 120,thank_you
+pull up overcoat about 120,thank_you
+Thanks again!,thank_you
+find me elegant parka,thank_you
+find me minimal jeans max 200,thank_you
+recommend jacket approx 200 in retro vibe,thank_you
+Many thanks.,thank_you
+find me parka max 200,thank_you
+looking for footwear urban budget 200,thank_you
+can you show a chic handbag from 140 to 260,thank_you
+Thank you very much.,thank_you
+i need midi dress max 80,thank_you
+looking for minimal midi dress,thank_you
+looking for tea dress less than 80,thank_you
+Thanks for the suggestions.,thank_you
+i'd like jeans smart approximately 50,thank_you
+can you show a streetwear trainers about 50,thank_you
+looking for shoes smart less than 50,thank_you
+"Thanks, that helps!",thank_you
+can you show handbag ~ 150,thank_you
+find me edgy shoes approximately 150,thank_you
+find me a collegiate jeans cap at 150,thank_you
+Appreciate your support.,thank_you
+looking for a elegant skirt less than 80,thank_you
+find me retro shoes ~80,thank_you
+recommend shoes edgy about 80,thank_you
+Thanks for assisting.,thank_you
+recommend trainers elegant ~150,thank_you
+looking for collegiate outerwear,thank_you
+recommend handbag from 105 to 195,thank_you
+Cheers!,thank_you
+i need retro coat between 105 and 195,thank_you
+looking for hype jeans,thank_you
+looking for overcoat in the range of 105 and 195 in vintage vibe,thank_you
+Cheers for that.,thank_you
+can you show sporty handbag,thank_you
+recommend formal shirt,thank_you
+find me handbag retro ~120,thank_you
+Thanks for the info.,thank_you
+can you show shirt athleisure from 84 and 156,thank_you
+find me shirt approximately 120 in smart aesthetic,thank_you
+i need smart summer dress below 120,thank_you
+Thank you kindly.,thank_you
+recommend streetwear jeans,thank_you
+recommend urban jeans less than 100,thank_you
+looking for dress everyday less than 100,thank_you
+Thank you for the help.,thank_you
+i need minimalist shirt,thank_you
+find me shoes about 100,thank_you
+recommend shirt less than 100,thank_you
+I’m grateful.,thank_you
+find me collegiate leather shoes,thank_you
+recommend coat less than 120,thank_you
+can you show handbag around 120,thank_you
+Thanks a ton!,thank_you
+find me jacket under 80 in edgy aesthetic,thank_you
+can you show sporty coat ~80,thank_you
+i need preppy combat boots,thank_you
+Thank you heaps.,thank_you
+i need elegant handbag below 120,thank_you
+can you show streetwear running shoes ~120,thank_you
+can you show everyday shirt cap at 120,thank_you
+"Really grateful, thanks!",thank_you
+i'd like skirt retro cap at 100,thank_you
+i want outerwear cap at 100,thank_you
+recommend a minimal handbag budget 100,thank_you
+Thanks a bunch.,thank_you
+looking for handbag less than 100 in collegiate aesthetic,thank_you
+recommend tea dress preppy cap at 100,thank_you
+find me a athleisure coat max 100,thank_you
+Appreciate the recommendation.,thank_you
+recommend outerwear from 84 to 156 in chic style,thank_you
+i need derby shoes below 120 in clean vibe,thank_you
+i need athletic trainers max 120,thank_you
+"Thanks, very useful!",thank_you
+i need handbag athleisure approx 200,thank_you
+recommend athletic shirt,thank_you
+find me shirt in the range of 140 and 260 in retro aesthetic,thank_you
+Thanks for your guidance.,thank_you
+looking for jeans cap at 50,thank_you
+i need sneakers less than 50,thank_you
+i need chic trainers less than 50,thank_you
+Appreciate it a lot.,thank_you
+recommend jeans budget 100,thank_you
+recommend preppy tea dress about 100,thank_you
+can you show a dressy skirt approx 100,thank_you
+"Thanks, that was great!",thank_you
+find me jeans minimal below 100,thank_you
+looking for retro outerwear between 70 and 130,thank_you
+i'd like tea dress in the range of 70 and 130 in classic style,thank_you
+Thanks so much for this.,thank_you
+find me a sporty shoes ~200,thank_you
+can you show overcoat below 200,thank_you
+show me retro overcoat,thank_you
+Thank you so so much.,thank_you
+looking for boots grunge approximately 150,thank_you
+can you show combat boots between 105 and 195 in retro vibe,thank_you
+find me clean dress under 150,thank_you
+I really appreciate your time.,thank_you
+i'd like trainers minimalist cap at 100,thank_you
+show me ankle boots from 70 to 130 in preppy style,thank_you
+recommend a dressy jacket below 100,thank_you
+Grateful for your advice.,thank_you
+i need collegiate handbag,thank_you
+i want running shoes ~ 80 in clean vibe,thank_you
+find me elegant overcoat from 56 and 104,thank_you
+Thanks for the input.,thank_you
+i need shirt elegant about 200,thank_you
+looking for handbag ~200 in clean style,thank_you
+i need a elegant sneakers between 140 and 260,thank_you
+Thanks for being helpful.,thank_you
+can you show shirt elegant about 50,thank_you
+looking for running shoes less than 50,thank_you
+show me skirt from 35 to 65 in smart vibe,thank_you
+I appreciate your time.,thank_you
+recommend handbag streetwear budget 120,thank_you
+i'd like a elegant tea dress below 120,thank_you
+looking for a urban handbag budget 120,thank_you
+"Thank you, that's helpful.",thank_you
+i need laid back shoes,thank_you
+i need elegant handbag budget 150,thank_you
+looking for shirt below 150,thank_you
+Thanks! That helps a lot.,thank_you
+can you show skirt below 80,thank_you
+i need handbag from 56 and 104 in streetwear aesthetic,thank_you
+find me shoes max 80,thank_you
+"Thank you, this is great!",thank_you
+find me shirt ~200 in retro aesthetic,thank_you
+i need shirt retro max 200,thank_you
+i want hype boots,thank_you
+"Appreciate it, mate.",thank_you
+recommend minimalist dress approximately 150,thank_you
+i need chic jeans about 150,thank_you
+find me a collegiate skirt max 150,thank_you
+"You’ve been great, thanks.",thank_you
+recommend a streetwear skirt from 140 to 260,thank_you
+i need summer dress elegant approx 200,thank_you
+looking for skirt max 200 in casual style,thank_you
+Thanks a million.,thank_you
+pull up casual outerwear,thank_you
+find me a edgy summer dress from 35 and 65,thank_you
+i need a retro skirt ~50,thank_you
+Thanks — very helpful.,thank_you
+find me collegiate skirt budget 80,thank_you
+looking for derby shoes ~80 in retro style,thank_you
+show me elegant handbag,thank_you
+Thanks a lot for the tips.,thank_you
+recommend everyday parka,thank_you
+recommend jeans budget 150,thank_you
+recommend elegant shoes,thank_you
+Big thanks!,thank_you
+can you show handbag from 105 to 195 in athletic style,thank_you
+recommend jeans cap at 150,thank_you
+can you show skirt about 150 in chic style,thank_you
+Sincerely appreciate it.,thank_you
+i'd like combat boots below 200 in preppy aesthetic,thank_you
+i need preppy ankle boots about 200,thank_you
+find me jeans about 200 in smart style,thank_you
+Thank you indeed.,thank_you
+can you show sporty combat boots,thank_you
+i need a grunge midi dress approximately 100,thank_you
+recommend retro dress approximately 100,thank_you
+"Appreciate it, thank you.",thank_you
+looking for a elegant midi dress ~80,thank_you
+i need tea dress cap at 80,thank_you
+pull up dressy ankle boots less than 80,thank_you
+I’ll go with those,confirmation
+recommend a classic jeans max 100,confirmation
+recommend shirt minimal from 70 to 130,confirmation
+recommend a elegant ankle boots max 100,confirmation
+Just what I had in mind 👍,confirmation
+recommend retro overcoat,confirmation
+i need boots about 200 in refined vibe,confirmation
+i'd like elegant skirt,confirmation
+Yeah,confirmation
+i need handbag approximately 200,confirmation
+i need dress under 200,confirmation
+pull up skirt below 200,confirmation
+"Thanks, that’s helpful",confirmation
+find me boots minimalist less than 100,confirmation
+show me handbag grunge budget 100,confirmation
+recommend a casual handbag max 100,confirmation
+Exactly,confirmation
+i need dress from 35 and 65 in minimal vibe,confirmation
+looking for skirt about 50 in grunge style,confirmation
+can you show a urban jacket approximately 50,confirmation
+"Definitely Sure, this works.",confirmation
+find me a dressy shirt ~ 100,confirmation
+find me shirt dressy from 70 to 130,confirmation
+find me edgy handbag from 70 and 130,confirmation
+Looks great,confirmation
+pull up overcoat cap at 50,confirmation
+show me casual shirt,confirmation
+i need skirt minimal cap at 50,confirmation
+Yes,confirmation
+looking for retro overcoat,confirmation
+looking for overcoat retro less than 120,confirmation
+looking for shirt from 84 to 156,confirmation
+Fine with me,confirmation
+can you show streetwear combat boots max 100,confirmation
+can you show refined jeans in the range of 70 and 130,confirmation
+find me retro midi dress ~100,confirmation
+Great!,confirmation
+i need dressy skirt,confirmation
+recommend a grunge coat cap at 100,confirmation
+pull up athletic footwear,confirmation
+That’s nice,confirmation
+looking for jeans from 35 and 65 in grunge vibe,confirmation
+pull up sneakers cap at 50 in sporty style,confirmation
+looking for elegant jeans,confirmation
+Sweet,confirmation
+i need vintage handbag less than 80,confirmation
+recommend jacket less than 80,confirmation
+i need dress athletic max 80,confirmation
+Looks good to me? Looks good.,confirmation
+recommend handbag below 50,confirmation
+looking for a formal parka budget 50,confirmation
+can you show leather shoes cap at 50 in hype style,confirmation
+I like what I see,confirmation
+i want midi dress chic below 150,confirmation
+can you show tea dress hype cap at 150,confirmation
+find me shirt under 150,confirmation
+Definitely These match my needs.,confirmation
+looking for handbag streetwear below 50,confirmation
+recommend everyday outerwear cap at 50,confirmation
+recommend shirt laid back less than 50,confirmation
+These match my needs? Looks good.,confirmation
+i want shirt hype less than 100,confirmation
+find me collegiate shirt max 100,confirmation
+can you show skirt about 100,confirmation
+Looks promising — I like that.,confirmation
+i'd like parka from 35 to 65 in preppy vibe,confirmation
+can you show retro outerwear less than 50,confirmation
+recommend laid back dress,confirmation
+They’re fine,confirmation
+can you show leather shoes approximately 100 in streetwear style,confirmation
+i need jacket retro less than 100,confirmation
+recommend smart jeans approximately 100,confirmation
+Looks good to me,confirmation
+can you show retro skirt,confirmation
+find me coat refined below 150,confirmation
+recommend leather shoes hype below 150,confirmation
+That’s it,confirmation
+pull up skirt casual budget 120,confirmation
+recommend a laid back sneakers cap at 120,confirmation
+can you show boots less than 120 in classic aesthetic,confirmation
+I think I like them? Looks good.,confirmation
+can you show a dressy summer dress between 35 and 65,confirmation
+find me combat boots preppy max 50,confirmation
+looking for vintage jeans ~50,confirmation
+"Cool, I’ll take a look",confirmation
+recommend minimal shirt cap at 150,confirmation
+i need footwear ~150 in vintage aesthetic,confirmation
+i want urban parka less than 150,confirmation
+I like those,confirmation
+recommend a formal shirt between 105 and 195,confirmation
+i'd like overcoat hype less than 150,confirmation
+pull up elegant jacket,confirmation
+Just what I had in mind,confirmation
+i need a athleisure handbag between 105 and 195,confirmation
+recommend refined dress,confirmation
+pull up skirt below 150,confirmation
+I think I like them,confirmation
+i need handbag around 100,confirmation
+i want trainers max 100,confirmation
+show me a elegant skirt budget 100,confirmation
+Nice selection. That should work.,confirmation
+find me jeans cap at 100,confirmation
+looking for shoes approximately 100 in laid back aesthetic,confirmation
+looking for derby shoes approximately 100 in classic aesthetic,confirmation
+Looks promising,confirmation
+can you show overcoat approximately 120 in smart aesthetic,confirmation
+looking for elegant parka,confirmation
+looking for a minimal jeans budget 120,confirmation
+Wonderful,confirmation
+i need a retro coat below 200,confirmation
+find me formal ankle boots less than 200,confirmation
+i need dress elegant approx 200,confirmation
+These will work,confirmation
+i need a everyday jeans approximately 120,confirmation
+recommend jacket minimalist below 120,confirmation
+looking for jeans ~120 in edgy aesthetic,confirmation
+Love them,confirmation
+i need running shoes max 200,confirmation
+i'd like a elegant jeans about 200,confirmation
+looking for ankle boots approx 200 in casual vibe,confirmation
+Fine with me 👍,confirmation
+can you show boots elegant budget 80,confirmation
+i need jeans clean less than 80,confirmation
+i need dress everyday below 80,confirmation
+"Hmm, They’re fine I guess.",confirmation
+find me shirt less than 150 in clean style,confirmation
+i need jacket approximately 150 in edgy vibe,confirmation
+looking for dress below 150 in retro vibe,confirmation
+Those are just what I need? Looks good.,confirmation
+recommend laid back running shoes cap at 80,confirmation
+can you show combat boots budget 80 in elegant style,confirmation
+looking for handbag cap at 80 in elegant style,confirmation
+Yeah 👍,confirmation
+recommend everyday jacket,confirmation
+show me skirt collegiate in the range of 140 and 260,confirmation
+recommend handbag grunge budget 200,confirmation
+These are good,confirmation
+find me outerwear from 70 and 130,confirmation
+recommend jeans hype in the range of 70 and 130,confirmation
+looking for jacket ~100 in edgy vibe,confirmation
+"Sure, this works — cool!",confirmation
+recommend ankle boots about 100 in chic style,confirmation
+i need a streetwear shirt about 100,confirmation
+looking for skirt hype budget 100,confirmation
+Perfect? Looks good.,confirmation
+find me a minimalist derby shoes from 35 to 65,confirmation
+i need dressy skirt ~50,confirmation
+find me elegant jeans,confirmation
+Nice selection,confirmation
+find me summer dress from 56 to 104 in urban style,confirmation
+looking for a clean handbag from 56 to 104,confirmation
+recommend athletic derby shoes less than 80,confirmation
+These match my needs,confirmation
+looking for dressy shirt,confirmation
+recommend elegant midi dress,confirmation
+can you show a clean parka below 200,confirmation
+That's exactly what I wanted,confirmation
+looking for clean skirt,confirmation
+looking for parka cap at 120,confirmation
+pull up boots below 120,confirmation
+I'd say I like those.,confirmation
+find me everyday trainers about 200,confirmation
+i need running shoes about 200 in sporty aesthetic,confirmation
+i need footwear edgy below 200,confirmation
+Those are just what I need,confirmation
+looking for minimal combat boots,confirmation
+show me jeans less than 200 in collegiate style,confirmation
+can you show shirt less than 200 in streetwear style,confirmation
+Great!. Appreciate it!,confirmation
+looking for shoes budget 80,confirmation
+recommend overcoat dressy below 80,confirmation
+i need a everyday running shoes budget 80,confirmation
+Good choices,confirmation
+i need sporty boots,confirmation
+looking for midi dress less than 80 in vintage style,confirmation
+recommend formal overcoat between 56 and 104,confirmation
+These match my needs — I like that.,confirmation
+can you show preppy jeans between 35 and 65,confirmation
+recommend grunge boots below 50,confirmation
+i want casual shoes,confirmation
+Perfect,confirmation
+can you show handbag less than 200 in refined aesthetic,confirmation
+i want shoes below 200,confirmation
+i want shoes less than 200 in classic style,confirmation
+These will work — I like that.,confirmation
+recommend running shoes preppy between 140 and 260,confirmation
+looking for a urban running shoes about 200,confirmation
+find me a dressy running shoes below 200,confirmation
+Good choices. Appreciate it!,confirmation
+i need retro boots,confirmation
+can you show a dressy shirt about 100,confirmation
+i need a edgy combat boots approximately 100,confirmation
+Nice selection? Looks good.,confirmation
+looking for elegant coat,confirmation
+pull up grunge shirt ~80,confirmation
+find me a streetwear dress cap at 80,confirmation
+"Sure, this works",confirmation
+find me sneakers ~100,confirmation
+find me skirt cap at 100 in elegant aesthetic,confirmation
+looking for a edgy ankle boots approximately 100,confirmation
+"Yeah, Can I get different ones?",reject
+can you show elegant tea dress below 150,reject
+recommend vintage shirt,reject
+find me a dressy jacket max 150,reject
+Not my style,reject
+i need running shoes budget 150 in casual style,reject
+i need a elegant jeans approx 150,reject
+i need shirt about 150,reject
+Not interested,reject
+can you show retro jeans below 150,reject
+pull up skirt ~150 in elegant vibe,reject
+find me parka max 150,reject
+"Hmm, Not what I’m looking for I guess.",reject
+recommend minimalist summer dress,reject
+looking for shirt max 120,reject
+recommend jeans below 120,reject
+I don’t like these? Looks good.,reject
+recommend handbag max 100,reject
+can you show chic combat boots under 100,reject
+looking for refined sneakers,reject
+Too expensive,reject
+recommend overcoat approximately 100 in streetwear vibe,reject
+i need derby shoes classic max 100,reject
+show me clean coat approximately 100,reject
+That’s not what I meant,reject
+recommend a edgy shirt budget 100,reject
+can you show overcoat less than 100,reject
+recommend preppy sneakers from 70 and 130,reject
+Nope,reject
+recommend jeans less than 100 in edgy aesthetic,reject
+can you show a vintage skirt max 100,reject
+looking for jeans about 100 in retro style,reject
+That’s not what I meant. That should work.,reject
+recommend collegiate shoes,reject
+can you show overcoat between 105 and 195,reject
+can you show overcoat from 105 to 195 in edgy vibe,reject
+Definitely I don’t see anything I want.,reject
+recommend skirt from 56 to 104,reject
+recommend laid back jeans max 80,reject
+looking for a preppy summer dress approx 80,reject
+These aren’t what I want,reject
+find me sneakers elegant approx 150,reject
+looking for skirt below 150 in streetwear aesthetic,reject
+looking for skirt max 150 in minimal style,reject
+Not what I had in mind,reject
+i'd like footwear streetwear below 200,reject
+find me a elegant ankle boots from 140 to 260,reject
+recommend jacket vintage about 200,reject
+I’ll pass on these,reject
+looking for combat boots less than 100,reject
+looking for elegant jacket below 100,reject
+i want a dressy combat boots approximately 100,reject
+I'd say Don’t like them.,reject
+looking for classic dress budget 200,reject
+i need handbag between 140 and 260 in retro style,reject
+looking for parka budget 200 in refined aesthetic,reject
+Don’t like them,reject
+recommend everyday footwear less than 80,reject
+recommend skirt below 80,reject
+looking for trainers from 56 to 104 in formal aesthetic,reject
+"Hmm, Too cheap I guess.",reject
+looking for a elegant tea dress cap at 100,reject
+show me athleisure handbag,reject
+looking for derby shoes ~100,reject
+"Hmm, Not really I guess.",reject
+i need edgy sneakers from 140 to 260,reject
+recommend jacket about 200 in urban style,reject
+find me elegant summer dress,reject
+This doesn’t help,reject
+can you show a elegant overcoat cap at 50,reject
+looking for urban running shoes less than 50,reject
+i need a elegant parka budget 50,reject
+Too sporty,reject
+pull up grunge outerwear,reject
+can you show classic skirt,reject
+find me parka laid back from 140 to 260,reject
+They’re not quite right,reject
+recommend a elegant sneakers cap at 200,reject
+can you show tea dress approximately 200,reject
+find me overcoat less than 200 in hype vibe,reject
+Nothing stands out,reject
+find me retro outerwear,reject
+find me shirt cap at 80 in retro style,reject
+i want skirt less than 80 in preppy vibe,reject
+Not sure about these,reject
+show me a retro outerwear in the range of 105 and 195,reject
+find me leather shoes about 150 in vintage vibe,reject
+recommend footwear collegiate about 150,reject
+Nothing good here,reject
+recommend midi dress about 80 in athletic aesthetic,reject
+find me preppy trainers,reject
+pull up shirt cap at 80 in casual aesthetic,reject
+Not suitable,reject
+recommend skirt below 200 in preppy style,reject
+recommend a classic running shoes approximately 200,reject
+i need outerwear from 140 to 260 in athletic vibe,reject
+Not useful,reject
+i need running shoes under 120,reject
+can you show a retro summer dress approximately 120,reject
+find me chic overcoat,reject
+Too cheap,reject
+can you show trainers athletic from 70 and 130,reject
+can you show ankle boots from 70 to 130 in preppy vibe,reject
+can you show shirt max 100,reject
+Not useful. Appreciate it!,reject
+looking for shirt sporty less than 200,reject
+find me a athleisure midi dress about 200,reject
+recommend a dressy skirt below 200,reject
+These don’t fit my needs? Looks good.,reject
+i'd like a elegant shirt below 200,reject
+find me sneakers smart about 200,reject
+i want preppy boots,reject
+No. That should work.,reject
+show me elegant derby shoes,reject
+can you show coat budget 120 in streetwear vibe,reject
+pull up elegant overcoat,reject
+Not my style. That should work.,reject
+can you show grunge handbag approximately 200,reject
+i need handbag cap at 200 in elegant aesthetic,reject
+looking for handbag everyday less than 200,reject
+Not for me,reject
+looking for coat budget 100,reject
+recommend boots casual ~100,reject
+looking for a laid back derby shoes ~100,reject
+These don’t fit my needs — I like that.,reject
+find me a minimal parka ~200,reject
+i need handbag max 200 in everyday style,reject
+i need a elegant leather shoes ~200,reject
+No,reject
+i'd like a dressy skirt approximately 150,reject
+i need dressy skirt from 105 to 195,reject
+recommend edgy footwear,reject
+Show me others,reject
+i need jeans in the range of 105 and 195 in dressy style,reject
+can you show laid back midi dress,reject
+recommend preppy boots from 105 to 195,reject
+Definitely Too formal.,reject
+pull up a hype jeans below 150,reject
+i need handbag about 150 in minimalist aesthetic,reject
+looking for athleisure jeans cap at 150,reject
+Definitely Too sporty.,reject
+find me hype summer dress below 120,reject
+can you show collegiate running shoes,reject
+i need boots refined around 120,reject
+Not what I had in mind — cool!,reject
+recommend sporty jeans ~50,reject
+recommend a edgy summer dress from 35 and 65,reject
+can you show handbag cap at 50 in collegiate aesthetic,reject
+Too cheap 👍,reject
+find me casual dress around 100,reject
+find me shirt grunge max 100,reject
+recommend retro jeans about 100,reject
+I’d like to see other options,reject
+recommend sporty skirt less than 80,reject
+i need a elegant shirt below 80,reject
+i want leather shoes budget 80 in vintage vibe,reject
+I don’t see anything I want,reject
+i need a hype skirt cap at 50,reject
+looking for clean jeans in the range of 35 and 65,reject
+i want a edgy handbag around 50,reject
+Not really,reject
+can you show jeans max 150 in dressy vibe,reject
+pull up collegiate shirt,reject
+can you show minimal summer dress,reject
+Show me others. Appreciate it!,reject
+i'd like collegiate leather shoes,reject
+i need hype skirt,reject
+can you show shirt approx 80,reject
+"Hmm, I’d like to see other options I guess.",reject
+i need a grunge coat less than 200,reject
+find me elegant handbag ~200,reject
+recommend boots vintage from 140 to 260,reject
+Not what I’m looking for. That should work.,reject
+can you show running shoes grunge less than 100,reject
+looking for a chic parka below 100,reject
+can you show a retro jeans about 100,reject
+None of these work,reject
+looking for jeans clean cap at 50,reject
+i want a athleisure coat between 35 and 65,reject
+show me jeans formal max 50,reject
+Not suitable 👍,reject
+find me combat boots between 70 and 130,reject
+find me sneakers elegant below 100,reject
+recommend a vintage parka approximately 100,reject
+"Yeah, These don’t fit my needs",reject
+can you show running shoes max 50 in streetwear style,reject
+looking for jeans urban less than 50,reject
+recommend skirt max 50,reject
+Can I get different ones?,reject
+recommend casual shirt cap at 100,reject
+show me a elegant trainers less than 100,reject
+looking for grunge outerwear,reject
+"Yeah, Not sure about these",reject
+i need a clean jeans ~200,reject
+i need minimal jeans,reject
+can you show jacket budget 200,reject
+Not interested — I like that.,reject
+recommend shirt edgy from 140 to 260,reject
+i need a grunge trainers around 200,reject
+i'd like hype running shoes,reject
+That’s not what I meant? Looks good.,reject
+can you show derby shoes from 105 to 195,reject
+i need sneakers grunge less than 150,reject
+looking for combat boots below 150,reject
+I don’t like these,reject
+looking for minimalist trainers,reject
+show me parka budget 50 in elegant vibe,reject
+can you show footwear cap at 50,reject
+"Hmm, I don’t see anything I want I guess.",reject
+can you show grunge combat boots,reject
+i need retro skirt,reject
+show me trainers approximately 100,reject
+These don’t fit my needs,reject
+i need streetwear skirt below 80,reject
+recommend dress elegant in the range of 56 and 104,reject
+i need jeans from 56 to 104,reject
+"Yeah, No",reject
+looking for skirt from 105 and 195,reject
+recommend elegant shirt,reject
+looking for summer dress less than 150,reject
+Nothing stands out? Looks good.,reject
+recommend midi dress below 200,reject
+recommend athleisure shirt,reject
+can you show a collegiate coat below 200,reject
+Can I get different ones?. That should work.,reject
+can you show overcoat retro below 150,reject
+can you show a clean boots under 150,reject
+recommend jacket approximately 150 in minimalist style,reject
+"Hmm, Not what I had in mind I guess.",reject
+can you show a athleisure parka in the range of 105 and 195,reject
+recommend a streetwear running shoes cap at 150,reject
+looking for retro summer dress,reject
+Not what I’m looking for,reject
+recommend elegant summer dress budget 200,reject
+find me skirt less than 200,reject
+recommend grunge combat boots less than 200,reject
+Too formal,reject
+i need retro combat boots,reject
+i want parka from 105 to 195,reject
+i want a vintage jeans from 105 to 195,reject
+Definitely I’m done.,done
+looking for midi dress ~ 200 in athleisure style,done
+i need trainers under 200,done
+recommend urban tea dress from 140 to 260,done
+That’s everything. That should work.,done
+find me overcoat less than 100,done
+find me ankle boots smart about 100,done
+find me jacket less than 100 in preppy aesthetic,done
+That’ll be all,done
+recommend overcoat elegant ~100,done
+recommend parka sporty ~ 100,done
+recommend a retro jeans below 100,done
+I'm okay now. That should work.,done
+pull up sneakers ~100,done
+recommend skirt grunge below 100,done
+find me jeans edgy about 100,done
+Enough for today,done
+recommend jeans vintage approximately 120,done
+looking for a retro leather shoes from 84 to 156,done
+find me outerwear about 120,done
+I'm done shopping,done
+pull up shirt about 50,done
+can you show shoes about 50,done
+find me preppy jeans about 50,done
+Nothing else,done
+i need everyday overcoat,done
+find me handbag max 120 in retro vibe,done
+i need combat boots approx 120 in elegant vibe,done
+All good now? Looks good.,done
+recommend chic handbag cap at 80,done
+i need a preppy jacket less than 80,done
+recommend a elegant jeans from 56 to 104,done
+I'm finished here — I like that.,done
+looking for retro overcoat max 50,done
+i need a elegant overcoat budget 50,done
+find me a dressy jacket approximately 50,done
+I'm okay now,done
+find me minimalist coat,done
+looking for handbag cap at 50 in grunge style,done
+recommend running shoes from 35 and 65 in sporty aesthetic,done
+I’m finished,done
+find me skirt budget 50 in dressy aesthetic,done
+find me classic jeans,done
+i need handbag preppy below 50,done
+No more help needed,done
+show me tea dress about 200,done
+i need jeans max 200 in collegiate aesthetic,done
+show me edgy skirt,done
+Nothing else. Appreciate it!,done
+looking for clean skirt max 120,done
+recommend shirt less than 120,done
+find me a minimalist overcoat from 84 to 156,done
+I’m leaving,done
+find me running shoes under 120,done
+i need skirt dressy about 120,done
+can you show edgy coat,done
+No more help needed? Looks good.,done
+looking for preppy coat,done
+recommend chic footwear approximately 120,done
+looking for a collegiate handbag below 120,done
+Definitely I'm done shopping.,done
+show me sporty overcoat ~150,done
+pull up shirt budget 150 in sporty style,done
+i need retro overcoat about 150,done
+"Thanks, I’m all set",done
+i want skirt max 50,done
+recommend a elegant skirt budget 50,done
+looking for refined coat,done
+"Hmm, Nope, that's all I guess.",done
+i'd like smart shoes less than 100,done
+find me jeans ~100 in clean vibe,done
+i want shirt casual less than 100,done
+I don’t want more,done
+can you show handbag max 80,done
+looking for sneakers from 56 to 104,done
+find me shirt approximately 80,done
+I’m done looking,done
+can you show outerwear max 100,done
+find me jacket from 70 to 130,done
+recommend sneakers vintage max 100,done
+Definitely I’m finished.,done
+find me shirt cap at 100,done
+can you show handbag budget 100 in collegiate vibe,done
+can you show a formal summer dress under 100,done
+No thanks,done
+find me footwear approximately 200,done
+i need sneakers streetwear ~200,done
+can you show outerwear under 200 in dressy style,done
+"Nope, that's all",done
+find me chic handbag under 120,done
+can you show midi dress cap at 120 in classic vibe,done
+find me vintage tea dress less than 120,done
+"No, I'm good",done
+looking for streetwear tea dress,done
+can you show shirt approximately 50 in vintage aesthetic,done
+i want streetwear handbag,done
+Done for now,done
+looking for derby shoes ~80,done
+can you show streetwear handbag,done
+looking for handbag collegiate from 56 to 104,done
+I’m done,done
+can you show athleisure footwear,done
+looking for classic shirt,done
+i need parka ~80,done
+That’s all for today,done
+i need shirt cap at 120 in laid back aesthetic,done
+recommend shirt budget 120 in elegant vibe,done
+i need grunge handbag about 120,done
+I'd say Done for now.,done
+looking for leather shoes urban about 120,done
+i'd like dress from 84 to 156 in elegant style,done
+recommend jeans chic budget 120,done
+That’s everything,done
+looking for a elegant handbag in the range of 84 and 156,done
+can you show shirt ~120 in chic style,done
+recommend minimalist derby shoes,done
+No further help 👍,done
+looking for jeans max 100,done
+can you show vintage boots below 100,done
+i need derby shoes elegant max 100,done
+That's all I wanted — I like that.,done
+looking for classic boots,done
+i need minimal jeans about 200,done
+looking for a streetwear running shoes budget 200,done
+I don’t need anything else,done
+i need a laid back jeans about 120,done
+i need leather shoes elegant from 84 to 156,done
+i need chic shirt approximately 120,done
+That’s it for now,done
+looking for a vintage skirt from 84 and 156,done
+can you show dress collegiate about 120,done
+looking for trainers refined ~120,done
+I'd say I’m finished.,done
+looking for jeans budget 120 in clean style,done
+looking for outerwear laid back approximately 120,done
+looking for handbag ~120,done
+Enough for today? Looks good.,done
+find me skirt ~120,done
+find me shirt budget 120 in smart vibe,done
+can you show casual parka max 120,done
+I'm finished here,done
+looking for elegant handbag less than 50,done
+find me coat approx 50 in hype aesthetic,done
+show me shirt from 35 to 65 in athletic style,done
+No further help,done
+recommend summer dress dressy from 84 to 156,done
+i need coat urban less than 120,done
+recommend shirt budget 120,done
+That’s all,done
+i need retro leather shoes,done
+find me a casual parka below 100,done
+i want a preppy trainers from 70 and 130,done
+I’m satisfied,done
+i need elegant shirt,done
+recommend a laid back handbag about 100,done
+i need a elegant skirt max 100,done
+I’ll come back later,done
+i need a formal handbag cap at 80,done
+find me clean tea dress,done
+can you show a elegant shoes from 56 to 104,done
+All good now,done
+looking for overcoat ~50 in retro style,done
+can you show retro shoes between 35 and 65,done
+i need shirt cap at 50 in streetwear vibe,done
+I’m good,done
+can you show clean jacket cap at 120,done
+i need a elegant shirt below 120,done
+pull up jeans grunge cap at 120,done
+"No, thank you",done
+looking for combat boots casual under 120,done
+can you show retro coat,done
+find me overcoat less than 120 in grunge style,done
+I’ve seen enough,done
+looking for elegant shoes,done
+i need elegant boots budget 200,done
+find me skirt vintage approximately 200,done
+That's all I wanted,done
+find me athleisure skirt approximately 50,done
+i need classic coat max 50,done
+find me overcoat below 50,done
+Thank you,thank_you
+i need leather shoes collegiate from 105 to 195,thank_you
+find me vintage derby shoes approximately 150,thank_you
+recommend a sporty trainers about 150,thank_you
+Cheers,thank_you
+looking for boots approximately 200,thank_you
+show me leather shoes budget 200 in hype aesthetic,thank_you
+looking for handbag below 200 in everyday aesthetic,thank_you
+Thanks a lot,thank_you
+i need edgy skirt,thank_you
+find me a grunge trainers below 200,thank_you
+i'd like a elegant handbag from 140 to 260,thank_you
+Thanks so much,thank_you
+i need vintage jacket budget 150,thank_you
+i need skirt below 150,thank_you
+find me a elegant midi dress about 150,thank_you
+Many thanks,thank_you
+i need retro parka,thank_you
+find me elegant combat boots,thank_you
+i need ankle boots athletic cap at 80,thank_you
+Thanks again,thank_you
+find me athleisure jeans,thank_you
+i need a preppy derby shoes from 56 to 104,thank_you
+recommend a formal jacket below 80,thank_you
+Thanks,thank_you
+find me casual footwear less than 200,thank_you
+i'd like hype overcoat,thank_you
+find me footwear urban budget 200,thank_you
+Much appreciated,thank_you
+looking for shirt grunge about 100,thank_you
+can you show skirt urban in the range of 70 and 130,thank_you
+looking for handbag urban between 70 and 130,thank_you
+Appreciate it,thank_you
+looking for combat boots less than 50,thank_you
+i need a minimal tea dress in the range of 35 and 65,thank_you
+recommend a collegiate jeans below 50,thank_you
+I’m grateful,thank_you
+i need shirt vintage around 80,thank_you
+looking for a elegant jeans ~80,thank_you
+recommend a hype running shoes about 80,thank_you
+"Well, Thanks a lot.",thank_you
+recommend a formal jacket budget 50,thank_you
+looking for clean skirt,thank_you
+i need grunge shirt,thank_you
+"You know, Appreciate it.",thank_you
+recommend skirt retro between 140 and 260,thank_you
+i need edgy parka,thank_you
+i need midi dress minimalist budget 200,thank_you
+"Sure, Many thanks works.",thank_you
+looking for grunge overcoat,thank_you
+i need derby shoes hype ~50,thank_you
+looking for skirt cap at 50 in preppy aesthetic,thank_you
+Thanks a lot — just saying.,thank_you
+i need handbag refined about 50,thank_you
+find me minimal skirt less than 50,thank_you
+pull up smart parka,thank_you
+"You know, Much appreciated.",thank_you
+i need skirt casual approximately 100,thank_you
+i need a retro dress less than 100,thank_you
+i need footwear everyday under 100,thank_you
+"Hmm, Thank you I guess.",thank_you
+i need formal handbag,thank_you
+can you show urban coat about 120,thank_you
+show me a vintage handbag from 84 and 156,thank_you
+can you show jacket under 50,thank_you
+looking for overcoat from 35 to 65,thank_you
+looking for a collegiate trainers approximately 50,thank_you
+"Well, Thanks again.",thank_you
+looking for refined leather shoes,thank_you
+pull up refined trainers less than 100,thank_you
+looking for tea dress below 100,thank_you
+"Yeah, I’m grateful kinda.",thank_you
+looking for a refined leather shoes budget 200,thank_you
+recommend athleisure shoes,thank_you
+can you show refined jacket,thank_you
+recommend handbag ~120 in smart vibe,thank_you
+looking for coat budget 120 in streetwear aesthetic,thank_you
+looking for preppy jeans,thank_you
+Cheers — just saying.,thank_you
+recommend minimalist overcoat,thank_you
+recommend elegant coat,thank_you
+find me casual shoes,thank_you
+"You know, Many thanks.",thank_you
+i need coat ~120 in everyday aesthetic,thank_you
+i need grunge shirt max 120,thank_you
+i'd like smart shirt,thank_you
+Let me think... I’m grateful.,thank_you
+pull up hype running shoes,thank_you
+i need jeans streetwear approx 150,thank_you
+can you show smart parka approximately 150,thank_you
+"Well, Thank you.",thank_you
+i need overcoat less than 80 in preppy vibe,thank_you
+can you show overcoat approx 80,thank_you
+looking for running shoes grunge from 56 to 104,thank_you
+recommend a retro jacket approximately 50,thank_you
+looking for a vintage ankle boots max 50,thank_you
+i want laid back combat boots,thank_you
+Many thanks!,thank_you
+can you show jeans cap at 100 in dressy aesthetic,thank_you
+i need leather shoes cap at 100 in elegant style,thank_you
+looking for casual running shoes,thank_you
+Much appreciated!,thank_you
+i need a laid back overcoat cap at 200,thank_you
+looking for tea dress ~200,thank_you
+recommend a chic shirt ~200,thank_you
+Thank you... maybe.,thank_you
+i need clean combat boots,thank_you
+recommend coat budget 150 in everyday aesthetic,thank_you
+recommend summer dress preppy in the range of 105 and 195,thank_you
+"Hmm, Many thanks I guess.",thank_you
+find me grunge shoes approximately 80,thank_you
+recommend skirt edgy under 80,thank_you
+recommend athleisure tea dress from 56 to 104,thank_you
+find me vintage skirt below 120,thank_you
+recommend minimalist shirt,thank_you
+recommend grunge ankle boots,thank_you
+recommend formal parka from 140 and 260,thank_you
+show me handbag in the range of 140 and 260,thank_you
+find me elegant skirt,thank_you
+recommend ankle boots preppy below 150,thank_you
+i need a casual jeans cap at 150,thank_you
+Thank you — just saying.,thank_you
+i want a retro jeans below 120,thank_you
+looking for grunge footwear less than 120,thank_you
+i'd like refined shirt under 120,thank_you
+I’m grateful — I suppose.,thank_you
+show me clean jeans below 80,thank_you
+can you show running shoes retro ~80,thank_you
+recommend minimal derby shoes from 56 to 104,thank_you
+i'd like shirt approximately 80,thank_you
+i need grunge coat about 80,thank_you
+can you show footwear from 56 to 104,thank_you
+"Yeah, Thank you kinda.",thank_you
+can you show casual ankle boots,thank_you
+looking for a minimal boots max 150,thank_you
+recommend a grunge boots cap at 150,thank_you
+Thank you!,thank_you
+i need edgy boots,thank_you
+i'd like jeans collegiate ~50,thank_you
+looking for streetwear skirt budget 50,thank_you
+"Sure, Thanks so much works.",thank_you
+can you show retro parka max 50,thank_you
+recommend elegant overcoat,thank_you
+looking for boots casual about 50,thank_you
+find me smart skirt less than 120,thank_you
+i need a collegiate combat boots below 120,thank_you
+i need handbag about 120,thank_you
+can you show jacket ~150 in laid back aesthetic,thank_you
+looking for jeans ~150,thank_you
+recommend handbag less than 150 in laid back aesthetic,thank_you
+I need time,undecided
+i need a casual tea dress budget 80,undecided
+i need classic trainers,undecided
+recommend tea dress in the range of 56 and 104 in elegant vibe,undecided
+I’m not sure,undecided
+i need minimal derby shoes,undecided
+looking for smart sneakers,undecided
+find me coat less than 150,undecided
+Still unsure,undecided
+i'd like a athletic shirt max 100,undecided
+recommend grunge jeans,undecided
+recommend jacket collegiate cap at 100,undecided
+I haven't decided,undecided
+i want classic running shoes,undecided
+recommend midi dress around 200,undecided
+can you show summer dress below 200 in retro vibe,undecided
+Still deciding,undecided
+can you show chic parka,undecided
+can you show boots about 80 in elegant style,undecided
+i need handbag hype about 80,undecided
+I can't tell,undecided
+looking for jacket in the range of 105 and 195,undecided
+can you show handbag about 150 in elegant style,undecided
+show me a everyday sneakers approximately 150,undecided
+Maybe,undecided
+find me overcoat less than 120,undecided
+can you show shirt sporty max 120,undecided
+recommend skirt approximately 120 in chic vibe,undecided
+I don’t know,undecided
+looking for a formal ankle boots max 150,undecided
+find me streetwear running shoes approximately 150,undecided
+pull up clean leather shoes less than 150,undecided
+Not sure,undecided
+pull up tea dress edgy between 70 and 130,undecided
+i need edgy shirt,undecided
+i want casual skirt below 100,undecided
+Let me think,undecided
+can you show sporty jeans,undecided
+i need sneakers cap at 80,undecided
+recommend shirt between 56 and 104 in minimalist vibe,undecided
+"Well, I can't tell.",undecided
+find me jeans casual about 150,undecided
+looking for retro boots,undecided
+i need coat less than 150,undecided
+Not sure — I suppose.,undecided
+i need vintage summer dress less than 150,undecided
+can you show a casual footwear under 150,undecided
+recommend skirt cap at 150 in retro aesthetic,undecided
+I haven't decided — I suppose.,undecided
+find me a hype running shoes below 80,undecided
+can you show ankle boots approximately 80 in dressy aesthetic,undecided
+find me sneakers athleisure under 80,undecided
+I’m not sure — I suppose.,undecided
+can you show a minimal shoes about 200,undecided
+find me ankle boots approximately 200 in elegant style,undecided
+can you show overcoat less than 200,undecided
+I don’t know... maybe.,undecided
+looking for handbag approximately 200,undecided
+find me boots ~200,undecided
+show me grunge dress,undecided
+Maybe — I suppose.,undecided
+i need smart shirt from 56 to 104,undecided
+can you show combat boots elegant from 56 to 104,undecided
+find me outerwear laid back ~80,undecided
+Let me think... Maybe.,undecided
+looking for jeans from 70 and 130 in chic aesthetic,undecided
+recommend a elegant parka from 70 to 130,undecided
+looking for outerwear about 100,undecided
+"You know, Let me think.",undecided
+can you show collegiate jacket cap at 80,undecided
+recommend retro jeans less than 80,undecided
+recommend jeans ~80,undecided
+"Hmm, I haven't decided I guess.",undecided
+i'd like boots classic less than 120,undecided
+i need a retro outerwear from 84 to 156,undecided
+i need jeans approx 120 in minimal aesthetic,undecided
+Maybe — just saying.,undecided
+can you show vintage midi dress from 105 to 195,undecided
+i need dress clean about 150,undecided
+find me retro derby shoes less than 150,undecided
+Still deciding — just saying.,undecided
+can you show smart trainers,undecided
+find me skirt approximately 150 in preppy style,undecided
+looking for retro sneakers,undecided
+"You know, Maybe.",undecided
+looking for smart handbag,undecided
+can you show handbag retro between 35 and 65,undecided
+can you show ankle boots max 50,undecided
+recommend leather shoes less than 80 in urban style,undecided
+find me shirt everyday ~ 80,undecided
+i need tea dress under 80 in edgy style,undecided
+Let me think... Not sure.,undecided
+i'd like leather shoes dressy below 200,undecided
+i need formal skirt,undecided
+i need preppy coat ~200,undecided
+I’m not sure — just saying.,undecided
+looking for coat laid back below 50,undecided
+i need athleisure outerwear from 35 to 65,undecided
+find me a everyday leather shoes budget 50,undecided
+"Hmm, I can't tell I guess.",undecided
+recommend classic tea dress from 70 to 130,undecided
+i need sporty parka below 100,undecided
+i'd like everyday skirt around 100,undecided
+I need time!,undecided
+find me running shoes approximately 120 in grunge aesthetic,undecided
+recommend tea dress dressy below 120,undecided
+show me chic handbag approximately 120,undecided
+Let me think — just saying.,undecided
+find me midi dress approximately 150,undecided
+i need everyday skirt,undecided
+i need elegant ankle boots about 150,undecided
+"Sure, Let me think works.",undecided
+looking for coat athletic max 200,undecided
+find me elegant skirt,undecided
+looking for parka ~200,undecided
+find me overcoat elegant less than 100,undecided
+can you show a urban shirt cap at 100,undecided
+looking for laid back trainers,undecided
+"Well, Let me think.",undecided
+i'd like jeans from 84 to 156,undecided
+recommend preppy parka,undecided
+i need coat under 120 in classic vibe,undecided
+find me coat approximately 120 in athletic vibe,undecided
+find me jeans streetwear about 120,undecided
+i need dressy midi dress,undecided
+I need time — just saying.,undecided
+show me refined skirt cap at 200,undecided
+i'd like coat less than 200,undecided
+can you show dress smart below 200,undecided
+"Sure, I don’t know works.",undecided
+find me elegant tea dress,undecided
+recommend a refined skirt max 120,undecided
+recommend combat boots formal under 120,undecided
+find me a hype parka max 150,undecided
+looking for combat boots about 150,undecided
+find me skirt below 150 in everyday aesthetic,undecided
+Try something else,reject
+i need footwear below 80,reject
+find me collegiate jeans cap at 80,reject
+recommend grunge trainers,reject
+looking for a grunge trainers around 50,reject
+find me sneakers below 50 in preppy aesthetic,reject
+recommend preppy footwear about 50,reject
+None of these,reject
+recommend minimal shoes budget 200,reject
+can you show elegant jacket about 200,reject
+recommend jeans ~200 in retro aesthetic,reject
+i need a chic parka cap at 80,reject
+i want summer dress ~80,reject
+can you show laid back dress,reject
+Could I see others,reject
+i need classic footwear,reject
+find me retro jeans,reject
+i need a elegant jeans less than 50,reject
+These aren’t good,reject
+can you show hype handbag cap at 100,reject
+recommend shoes budget 100,reject
+find me a grunge handbag below 100,reject
+looking for retro boots in the range of 56 and 104,reject
+can you show tea dress clean below 80,reject
+can you show dressy running shoes less than 80,reject
+recommend elegant boots,reject
+looking for shirt about 100 in athleisure vibe,reject
+i need tea dress from 70 to 130 in elegant vibe,reject
+i need a retro skirt about 50,reject
+i need preppy outerwear,reject
+i need jeans athletic below 50,reject
+I’ll pass,reject
+find me urban handbag approximately 120,reject
+i need a elegant parka from 84 and 156,reject
+pull up casual overcoat,reject
+Try something else!,reject
+can you show overcoat budget 120 in refined style,reject
+i need shirt between 84 and 156 in formal aesthetic,reject
+recommend dress edgy approximately 120,reject
+These aren’t good — just saying.,reject
+looking for a streetwear sneakers about 50,reject
+looking for skirt max 50 in minimalist style,reject
+find me a clean overcoat below 50,reject
+"Hmm, None of these I guess.",reject
+looking for skirt retro max 120,reject
+can you show athletic tea dress ~120,reject
+find me a refined leather shoes from 84 and 156,reject
+"Well, Could I see others.",reject
+i need elegant skirt,reject
+looking for jacket ~ 80,reject
+i want chic tea dress,reject
+None of these — I suppose.,reject
+find me elegant shirt max 120,reject
+can you show a athleisure jeans less than 120,reject
+recommend dressy handbag about 120,reject
+"Yeah, These aren’t good kinda.",reject
+i'd like a preppy tea dress about 200,reject
+can you show running shoes about 200 in athleisure style,reject
+recommend a urban shirt approximately 200,reject
+"Well, Not for me.",reject
+recommend elegant jeans less than 150,reject
+recommend sneakers budget 150,reject
+looking for skirt max 150 in urban aesthetic,reject
+Let me think... No.,reject
+i want smart parka below 200,reject
+recommend elegant parka,reject
+can you show shirt less than 200,reject
+"Well, Not really.",reject
+find me shoes ~120,reject
+find me shirt in the range of 84 and 156 in smart aesthetic,reject
+looking for skirt ~ 120 in athletic vibe,reject
+Not really!,reject
+can you show urban boots,reject
+recommend outerwear athletic approximately 200,reject
+can you show a collegiate summer dress about 200,reject
+Could I see others!,reject
+looking for handbag urban max 50,reject
+i need midi dress from 35 to 65 in streetwear vibe,reject
+can you show retro summer dress max 50,reject
+None of these... maybe.,reject
+find me retro sneakers below 150,reject
+recommend casual handbag budget 150,reject
+i'd like athletic skirt,reject
+Not really — I suppose.,reject
+i need sneakers everyday max 200,reject
+i need minimalist outerwear less than 200,reject
+Nope... maybe.,reject
+i want a formal coat budget 200,reject
+can you show everyday ankle boots below 200,reject
+looking for streetwear shoes in the range of 140 and 260,reject
+Let me think... I’ll pass.,reject
+i need retro overcoat,reject
+i need shirt casual about 120,reject
+find me handbag under 120,reject
+can you show shirt from 70 to 130,reject
+find me retro dress,reject
+i'd like retro outerwear from 70 to 130,reject
+Could I see others... maybe.,reject
+looking for trainers formal under 80,reject
+can you show midi dress between 56 and 104 in clean aesthetic,reject
+i need elegant ankle boots,reject
+Let me think... Nope.,reject
+recommend derby shoes minimalist approximately 150,reject
+looking for handbag minimal approximately 150,reject
+recommend handbag budget 150 in clean style,reject
+Not for me!,reject
+recommend shoes approximately 120 in preppy vibe,reject
+can you show jeans ~120,reject
+i'd like a elegant jeans under 120,reject
+"Hmm, Nope I guess.",reject
+looking for midi dress refined below 120,reject
+can you show sneakers below 120 in laid back vibe,reject
+find me a classic trainers budget 120,reject
+Not for me — just saying.,reject
+recommend boots preppy from 35 to 65,reject
+looking for collegiate combat boots,reject
+can you show trainers vintage below 50,reject
+"Hmm, I’ll pass I guess.",reject
+recommend a dressy parka less than 100,reject
+i want skirt below 100,reject
+i need a sporty handbag about 100,reject
+show me retro jeans approximately 120,reject
+can you show a dressy shirt cap at 120,reject
+can you show urban trainers from 84 to 156,reject
+"Yeah, Try something else kinda.",reject
+pull up clean skirt,reject
+show me preppy sneakers under 150,reject
+find me sneakers hype less than 150,reject
+"You know, Not for me.",reject
+looking for athletic jeans,reject
+looking for dressy jacket about 100,reject
+can you show handbag cap at 100 in streetwear style,reject
+Let me think... None of these.,reject
+recommend parka less than 150 in laid back vibe,reject
+recommend parka approximately 150,reject
+i need shirt cap at 150 in minimalist vibe,reject
+can you show boots from 35 to 65 in smart aesthetic,reject
+i need formal shoes between 35 and 65,reject
+i need a elegant leather shoes around 50,reject
+"Sure, Not really works.",reject
+find me handbag approximately 100,reject
+looking for elegant combat boots,reject
+recommend summer dress ~100 in vintage aesthetic,reject
+Not really — just saying.,reject
+find me a minimal parka less than 120,reject
+looking for edgy handbag less than 120,reject
+show me retro coat in the range of 84 and 156,reject
+"Yeah, Not really kinda.",reject
+i want shirt below 200 in elegant vibe,reject
+find me tea dress ~200,reject
+show me shirt below 200 in minimal aesthetic,reject
+Not interested... maybe.,reject
+recommend footwear clean ~200,reject
+can you show a collegiate jeans from 140 to 260,reject
+show me jacket grunge below 200,reject
+"Sure, No works.",reject
+i need vintage boots from 35 to 65,reject
+i'd like a hype skirt below 50,reject
+looking for boots elegant less than 50,reject
+Let me think... Not interested.,reject
+i need boots cap at 100 in preppy style,reject
+i'd like elegant handbag,reject
+find me edgy sneakers less than 100,reject
+None of these — just saying.,reject
+find me a grunge coat ~120,reject
+can you show everyday parka,reject
+recommend a sporty handbag approximately 120,reject
+looking for preppy jacket,reject
+looking for dressy tea dress about 50,reject
+recommend trainers max 50 in retro vibe,reject
+Take care,goodbye
+recommend parka cap at 100 in refined aesthetic,goodbye
+recommend clean parka,goodbye
+can you show midi dress urban max 100,goodbye
+Bye for now,goodbye
+find me handbag around 50 in urban style,goodbye
+i need minimal parka,goodbye
+looking for clean tea dress,goodbye
+Later,goodbye
+can you show classic combat boots budget 120,goodbye
+can you show a dressy handbag from 84 and 156,goodbye
+can you show a athletic coat max 120,goodbye
+Bye,goodbye
+find me jeans from 140 to 260,goodbye
+i need a minimal dress about 200,goodbye
+recommend shirt sporty about 200,goodbye
+Talk soon,goodbye
+recommend a sporty combat boots approximately 50,goodbye
+recommend combat boots about 50 in casual style,goodbye
+i need laid back ankle boots,goodbye
+See you,goodbye
+can you show a athleisure footwear approximately 50,goodbye
+i need a urban skirt below 50,goodbye
+can you show handbag minimal budget 50,goodbye
+Goodbye,goodbye
+can you show everyday handbag,goodbye
+find me skirt retro about 200,goodbye
+can you show overcoat max 200,goodbye
+Catch you later,goodbye
+find me hype skirt less than 150,goodbye
+recommend retro trainers,goodbye
+recommend a urban trainers ~150,goodbye
+"Thanks, that’s all",goodbye
+i need streetwear outerwear less than 50,goodbye
+i need jeans chic budget 50,goodbye
+looking for a casual skirt max 50,goodbye
+I’m done,goodbye
+looking for elegant jeans below 120,goodbye
+show me edgy combat boots approximately 120,goodbye
+i want refined shirt below 120,goodbye
+"Well, Thanks, that’s all.",goodbye
+i'd like retro midi dress,goodbye
+i need minimal dress,goodbye
+i want smart footwear less than 80,goodbye
+Take care!,goodbye
+find me a formal leather shoes below 50,goodbye
+recommend a urban boots less than 50,goodbye
+looking for a grunge handbag max 50,goodbye
+I’m done — I suppose.,goodbye
+find me outerwear casual cap at 120,goodbye
+find me jeans retro in the range of 84 and 156,goodbye
+can you show edgy ankle boots budget 120,goodbye
+Catch you later — just saying.,goodbye
+can you show urban skirt,goodbye
+recommend everyday skirt about 200,goodbye
+can you show streetwear handbag budget 200,goodbye
+"Hmm, Later I guess.",goodbye
+i need elegant handbag approximately 200,goodbye
+find me shirt under 200 in elegant vibe,goodbye
+looking for jeans cap at 200 in vintage aesthetic,goodbye
+"You know, Take care.",goodbye
+i need elegant tea dress,goodbye
+i need minimalist summer dress,goodbye
+looking for a hype shirt budget 80,goodbye
+"You know, Talk soon.",goodbye
+i'd like jeans about 80,goodbye
+i need running shoes approximately 80,goodbye
+i'd like formal skirt less than 80,goodbye
+i need elegant overcoat,goodbye
+looking for retro leather shoes less than 50,goodbye
+show me jacket below 50 in collegiate vibe,goodbye
+"Hmm, Thanks, that’s all I guess.",goodbye
+i need outerwear below 150 in everyday vibe,goodbye
+find me handbag retro approx 150,goodbye
+recommend shirt about 150 in grunge aesthetic,goodbye
+See you... maybe.,goodbye
+looking for vintage jeans budget 120,goodbye
+i need retro coat less than 120,goodbye
+looking for skirt below 120,goodbye
+"Yeah, Thanks, that’s all kinda.",goodbye
+find me jeans elegant ~ 100,goodbye
+looking for shirt approximately 100 in retro aesthetic,goodbye
+i want a smart summer dress ~100,goodbye
+"Hmm, Bye I guess.",goodbye
+find me minimal jeans below 50,goodbye
+find me jacket approximately 50,goodbye
+find me a minimalist ankle boots cap at 50,goodbye
+"Well, Take care.",goodbye
+can you show parka ~ 80,goodbye
+i want combat boots less than 80,goodbye
+i want minimal shirt,goodbye
+"Yeah, Take care kinda.",goodbye
+can you show refined footwear less than 120,goodbye
+looking for grunge trainers around 120,goodbye
+can you show parka cap at 120,goodbye
+Catch you later... maybe.,goodbye
+i want shirt cap at 50 in casual style,goodbye
+recommend retro jeans,goodbye
+recommend classic boots under 50,goodbye
+Catch you later — I suppose.,goodbye
+looking for grunge skirt,goodbye
+i'd like a athletic shirt ~150,goodbye
+i need skirt retro below 150,goodbye
+"Well, See you.",goodbye
+pull up handbag approx 120 in chic style,goodbye
+find me preppy overcoat ~ 120,goodbye
+looking for vintage jacket below 120,goodbye
+"Well, Bye for now.",goodbye
+find me combat boots approximately 120 in sporty aesthetic,goodbye
+can you show a preppy dress from 84 and 156,goodbye
+can you show combat boots retro from 84 and 156,goodbye
+"Well, Later.",goodbye
+recommend combat boots about 80,goodbye
+find me jeans cap at 80 in clean aesthetic,goodbye
+pull up a elegant outerwear cap at 80,goodbye
+Talk soon!,goodbye
+find me midi dress retro about 50,goodbye
+pull up casual running shoes approximately 50,goodbye
+recommend shirt about 50 in athletic vibe,goodbye
+Let me think... Later.,goodbye
+pull up a collegiate boots in the range of 35 and 65,goodbye
+recommend a vintage leather shoes less than 50,goodbye
+i need boots approximately 50,goodbye
+Bye for now!,goodbye
+looking for sneakers approx 150,goodbye
+i need a hype handbag cap at 150,goodbye
+looking for outerwear ~150,goodbye
+"Yeah, Bye for now kinda.",goodbye
+can you show a elegant jeans budget 200,goodbye
+i need handbag less than 200 in retro vibe,goodbye
+recommend casual derby shoes about 200,goodbye
+Bye — I suppose.,goodbye
+looking for jeans budget 80 in minimalist vibe,goodbye
+i want ankle boots max 80 in elegant style,goodbye
+looking for trainers minimalist between 56 and 104,goodbye
+Goodbye!,goodbye
+pull up elegant sneakers,goodbye
+recommend handbag budget 120 in formal vibe,goodbye
+recommend summer dress about 120 in minimalist style,goodbye

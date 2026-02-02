@@ -1,0 +1,1575 @@
+[
+  {
+    "text": "Mango Chic Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Mango Preppy Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      12,
+      20
+    ]
+  },
+  {
+    "text": "Levi's Hiking Boots",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Nike Elegant Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Zara Chelsea Boots",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "New Balance Vintage Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      19,
+      26
+    ]
+  },
+  {
+    "text": "Gap Elegant Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Mango Minimalist Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      16,
+      22
+    ]
+  },
+  {
+    "text": "Adidas Formal Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      21
+    ]
+  },
+  {
+    "text": "Puma Casual Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Nike Vintage Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Uniqlo Elegant Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      14,
+      22
+    ]
+  },
+  {
+    "text": "Gap Minimalist Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Nike Preppy Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      16
+    ]
+  },
+  {
+    "text": "Zara Ankle Boots",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Levi's Sporty Coat",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      18
+    ]
+  },
+  {
+    "text": "H&M Casual Shirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "New Balance Vintage Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      19,
+      25
+    ]
+  },
+  {
+    "text": "Levi's Retro Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Adidas Streetwear Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      23
+    ]
+  },
+  {
+    "text": "Gap Chic Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      8,
+      15
+    ]
+  },
+  {
+    "text": "Nike Leather Shoes",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Zara Formal Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      19
+    ]
+  },
+  {
+    "text": "New Balance Chic Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      16,
+      22
+    ]
+  },
+  {
+    "text": "Levi's Vintage Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      14,
+      21
+    ]
+  },
+  {
+    "text": "Mango Elegant Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Levi's Formal Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      20
+    ]
+  },
+  {
+    "text": "Uniqlo Minimalist Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      25
+    ]
+  },
+  {
+    "text": "Puma Preppy Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Uniqlo Elegant Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Uniqlo Elegant Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Gap Retro Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Nike Retro Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Nike Formal Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Mango Hiking Boots",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Adidas Retro Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Zara Sporty Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "New Balance Casual Dress",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      18,
+      24
+    ]
+  },
+  {
+    "text": "Levi's Sporty Dress",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Zara Sporty Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Levi's Casual Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Zara Casual Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "H&M Grunge Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      10,
+      17
+    ]
+  },
+  {
+    "text": "Mango A-Line Dress",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      7,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Nike Puffer Jacket",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      18
+    ]
+  },
+  {
+    "text": "New Balance Elegant Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      19,
+      25
+    ]
+  },
+  {
+    "text": "Puma Streetwear Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      22
+    ]
+  },
+  {
+    "text": "Nike Grunge Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Adidas Minimalist Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      23
+    ]
+  },
+  {
+    "text": "Adidas Windbreaker",
+    "labels": [
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      18
+    ]
+  },
+  {
+    "text": "Gap Minimalist Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Zara Minimalist Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      22
+    ]
+  },
+  {
+    "text": "Zara Streetwear Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      22
+    ]
+  },
+  {
+    "text": "Adidas Retro Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      12,
+      17
+    ]
+  },
+  {
+    "text": "Puma Vintage Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      19
+    ]
+  },
+  {
+    "text": "Uniqlo Grunge Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Adidas Formal Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Levi's Elegant Coat",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      14,
+      19
+    ]
+  },
+  {
+    "text": "Zara Midi Dress",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Adidas Sporty Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Puma Streetwear Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      21
+    ]
+  },
+  {
+    "text": "H&M Vintage Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      11,
+      18
+    ]
+  },
+  {
+    "text": "Puma Streetwear Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      21
+    ]
+  },
+  {
+    "text": "Adidas Minimalist Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      24
+    ]
+  },
+  {
+    "text": "H&M Combat Boots",
+    "labels": [
+      "O",
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Adidas Training Sneakers",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      15,
+      24
+    ]
+  },
+  {
+    "text": "Puma Retro Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Nike Chic Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Gap Casual Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      10,
+      16
+    ]
+  },
+  {
+    "text": "Adidas Sporty Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Levi's Chic Shirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Nike Sporty Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Nike Sporty Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      16
+    ]
+  },
+  {
+    "text": "H&M Sporty Coat",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      10,
+      15
+    ]
+  },
+  {
+    "text": "Puma Chic Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Gap Casual Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      10,
+      15
+    ]
+  },
+  {
+    "text": "H&M Elegant Skirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Gap Minimalist Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Zara Grunge Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Gap Grunge Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      10,
+      17
+    ]
+  },
+  {
+    "text": "New Balance Elegant Handbag",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      19,
+      27
+    ]
+  },
+  {
+    "text": "Uniqlo Casual Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Levi's Formal Shirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Nike Windbreaker",
+    "labels": [
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      16
+    ]
+  },
+  {
+    "text": "Mango Casual Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Adidas Raincoat",
+    "labels": [
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      15
+    ]
+  },
+  {
+    "text": "Levi's Preppy Jeans",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      13,
+      19
+    ]
+  },
+  {
+    "text": "Gap Elegant Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      16
+    ]
+  },
+  {
+    "text": "Zara Vintage Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Mango Vintage Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      13,
+      20
+    ]
+  },
+  {
+    "text": "Mango Elegant Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      13,
+      18
+    ]
+  },
+  {
+    "text": "Nike Formal Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "New Balance Retro Shirt",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      17,
+      23
+    ]
+  },
+  {
+    "text": "Puma Vintage Coat",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      17
+    ]
+  },
+  {
+    "text": "Nike Chic Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Zara Raincoat",
+    "labels": [
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      13
+    ]
+  },
+  {
+    "text": "H&M Minimalist Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      14,
+      21
+    ]
+  },
+  {
+    "text": "Puma Minimalist Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      15,
+      23
+    ]
+  },
+  {
+    "text": "New Balance Retro Coat",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      11,
+      17,
+      22
+    ]
+  },
+  {
+    "text": "Levi's Minimalist Coat",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      17,
+      22
+    ]
+  },
+  {
+    "text": "H&M Sporty Jacket",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      10,
+      17
+    ]
+  },
+  {
+    "text": "Mango Sporty Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Gap Derby Shoes",
+    "labels": [
+      "O",
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      3,
+      9,
+      15
+    ]
+  },
+  {
+    "text": "Adidas Chic Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Zara Vintage Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      12,
+      18
+    ]
+  },
+  {
+    "text": "Puma Sporty Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      18
+    ]
+  },
+  {
+    "text": "Adidas Grunge Handbag",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      13,
+      21
+    ]
+  },
+  {
+    "text": "H&M Elegant Dress",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      1,
+      3,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Uniqlo Streetwear Shirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      23
+    ]
+  },
+  {
+    "text": "Puma Formal Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      18
+    ]
+  },
+  {
+    "text": "Puma Casual Skirt",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      11,
+      17
+    ]
+  },
+  {
+    "text": "Levi's Vintage Jeans",
+    "labels": [
+      "O",
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      6,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Zara Windbreaker",
+    "labels": [
+      "O",
+      "O"
+    ],
+    "word_ends": [
+      4,
+      16
+    ]
+  },
+  {
+    "text": "Uniqlo Minimalist Dress",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      17,
+      23
+    ]
+  },
+  {
+    "text": "Mango Formal Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      12,
+      19
+    ]
+  },
+  {
+    "text": "Adidas Vintage Jeans",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      6,
+      14,
+      20
+    ]
+  },
+  {
+    "text": "Mango Retro Jacket",
+    "labels": [
+      "O",
+      "B-STYLE",
+      "O"
+    ],
+    "word_ends": [
+      5,
+      11,
+      18
+    ]
+  }
+]

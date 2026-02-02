@@ -1,0 +1,660 @@
+text,intent
+talk to you later,goodbye
+Any elegant jackets?,ask_style
+Show me formal wear,ask_style
+What do you have in business style?,ask_style
+Looking for something formal,ask_style
+I'm done shopping,goodbye
+Looking for items below $50,ask_price
+I like minimal design,ask_style
+I'm searching for a raincoat,ask_product
+Do you sell vintage clothes?,ask_style
+hi again,greet
+Can I see some coats?,ask_product
+I need something stylish,ask_style
+greetings,greet
+Do you have casual clothes?,ask_product
+Any elegant jackets?,ask_style
+I'm searching for a raincoat,ask_product
+I'll come back later,goodbye
+bye,goodbye
+Show me winter wear,ask_product
+good evening,greet
+Affordable options please,ask_price
+thanks a lot,goodbye
+I like minimal design,ask_style
+I'm done shopping,goodbye
+Looking for items below $50,ask_price
+Looking for something formal,ask_style
+I'm into casual style,ask_style
+I'm done shopping,goodbye
+I need something not expensive,ask_price
+goodbye,goodbye
+I need sneakers,ask_product
+Show me cheap options,ask_price
+hello assistant,greet
+greetings,greet
+I need sneakers,ask_product
+hi,greet
+thank you,goodbye
+hello,greet
+I want to buy some boots,ask_product
+hello,greet
+I want a trendy look,ask_style
+bye,goodbye
+bye,goodbye
+greetings,greet
+hi again,greet
+hi again,greet
+I need something stylish,ask_style
+hey there,greet
+I need something not expensive,ask_price
+Do you have anything under $100?,ask_price
+good evening,greet
+Can I see some coats?,ask_product
+hello assistant,greet
+I want a trendy look,ask_style
+Affordable options please,ask_price
+Do you have anything under $100?,ask_price
+good evening,greet
+Any stylish jackets?,ask_product
+Any stylish jackets?,ask_product
+I need something not expensive,ask_price
+Any stylish jackets?,ask_product
+bye,goodbye
+hello,greet
+Looking for items below $50,ask_price
+Do you have casual clothes?,ask_product
+I'm searching for a raincoat,ask_product
+What do you have in business style?,ask_style
+Do you have sporty outfits?,ask_style
+hey there,greet
+Can I see some coats?,ask_product
+Do you have any shoes?,ask_product
+I'm into casual style,ask_style
+Any low-cost jackets?,ask_price
+hi again,greet
+see you next time,goodbye
+I want a trendy look,ask_style
+Do you have sporty outfits?,ask_style
+hello assistant,greet
+What do you have in business style?,ask_style
+I'm looking for a jacket,ask_product
+Do you have sporty outfits?,ask_style
+Can I see some coats?,ask_product
+Is there a discount section?,ask_price
+What’s the cheapest you have?,ask_price
+how are you,greet
+I want to buy some boots,ask_product
+goodbye,goodbye
+talk to you later,goodbye
+I need something not expensive,ask_price
+What’s the cheapest you have?,ask_price
+I want to buy some boots,ask_product
+cheers,goodbye
+Show me winter wear,ask_product
+Show me winter wear,ask_product
+Show me winter wear,ask_product
+What’s the cheapest you have?,ask_price
+hello assistant,greet
+hello assistant,greet
+Show me cheap options,ask_price
+hi again,greet
+bye,goodbye
+What do you have in business style?,ask_style
+thank you,goodbye
+Show me winter wear,ask_product
+Got any running shoes?,ask_product
+I need something not expensive,ask_price
+Do you sell vintage clothes?,ask_style
+Price range under $80,ask_price
+I need sneakers,ask_product
+appreciate your help,goodbye
+Looking for something formal,ask_style
+I'm done shopping,goodbye
+Looking for items below $50,ask_price
+greetings,greet
+I'm searching for a raincoat,ask_product
+thanks a lot,goodbye
+see you next time,goodbye
+Looking for something formal,ask_style
+Do you sell vintage clothes?,ask_style
+Any stylish jackets?,ask_product
+Show me winter wear,ask_product
+hey,greet
+Show me cheap options,ask_price
+I'll come back later,goodbye
+bye,goodbye
+thank you,goodbye
+I want a trendy look,ask_style
+I'm searching for a raincoat,ask_product
+Do you have sporty outfits?,ask_style
+hey,greet
+bye,goodbye
+cheers,goodbye
+bye,goodbye
+Do you have any shoes?,ask_product
+how are you,greet
+Show me cheap options,ask_price
+cheers,goodbye
+see you next time,goodbye
+I'm looking for a jacket,ask_product
+I'm on a budget,ask_price
+I need sneakers,ask_product
+hi again,greet
+hi again,greet
+Any elegant jackets?,ask_style
+I'm searching for a raincoat,ask_product
+I'm into casual style,ask_style
+Got any running shoes?,ask_product
+greetings,greet
+I'm searching for a raincoat,ask_product
+hello,greet
+greetings,greet
+Looking for items below $50,ask_price
+I'm done shopping,goodbye
+Can I see some coats?,ask_product
+Any elegant jackets?,ask_style
+I need something not expensive,ask_price
+Do you have any shoes?,ask_product
+I'm searching for a raincoat,ask_product
+I like minimal design,ask_style
+how are you,greet
+What’s the cheapest you have?,ask_price
+Affordable options please,ask_price
+good morning,greet
+I'm into casual style,ask_style
+hi again,greet
+I'm into casual style,ask_style
+Do you sell vintage clothes?,ask_style
+Any stylish jackets?,ask_product
+Any stylish jackets?,ask_product
+Any stylish jackets?,ask_product
+I need sneakers,ask_product
+I want to buy some boots,ask_product
+see you next time,goodbye
+goodbye,goodbye
+hello assistant,greet
+Do you sell vintage clothes?,ask_style
+goodbye,goodbye
+appreciate your help,goodbye
+good evening,greet
+Looking for items below $50,ask_price
+hi,greet
+appreciate your help,goodbye
+I need something not expensive,ask_price
+Looking for something formal,ask_style
+I'm looking for a jacket,ask_product
+bye,goodbye
+Is there a discount section?,ask_price
+hey,greet
+I need sneakers,ask_product
+Got any running shoes?,ask_product
+good morning,greet
+cheers,goodbye
+Any low-cost jackets?,ask_price
+thank you,goodbye
+Looking for something formal,ask_style
+goodbye,goodbye
+Show me cheap options,ask_price
+I'm on a budget,ask_price
+thank you,goodbye
+hi,greet
+talk to you later,goodbye
+I need something not expensive,ask_price
+I'm into casual style,ask_style
+Looking for items below $50,ask_price
+hey,greet
+What do you have in business style?,ask_style
+Looking for something formal,ask_style
+thanks a lot,goodbye
+Affordable options please,ask_price
+thank you,goodbye
+hello,greet
+Any low-cost jackets?,ask_price
+I want a trendy look,ask_style
+Looking for items below $50,ask_price
+Is there a discount section?,ask_price
+hi again,greet
+thank you,goodbye
+Price range under $80,ask_price
+I'm on a budget,ask_price
+Looking for items below $50,ask_price
+I need something stylish,ask_style
+Any stylish jackets?,ask_product
+hey,greet
+I like minimal design,ask_style
+I'm into casual style,ask_style
+Price range under $80,ask_price
+hello assistant,greet
+talk to you later,goodbye
+Looking for items below $50,ask_price
+Do you have anything under $100?,ask_price
+thanks a lot,goodbye
+Show me formal wear,ask_style
+I'm into casual style,ask_style
+What’s the cheapest you have?,ask_price
+hey,greet
+good morning,greet
+I'm on a budget,ask_price
+Looking for something formal,ask_style
+bye,goodbye
+appreciate your help,goodbye
+hello assistant,greet
+appreciate your help,goodbye
+What do you have in business style?,ask_style
+Can I see some coats?,ask_product
+hello assistant,greet
+Can I see some coats?,ask_product
+I'm into casual style,ask_style
+I need something not expensive,ask_price
+I'm on a budget,ask_price
+I'm not sure yet.,undecided
+Let me think about it.,undecided
+Maybe later.,undecided
+I need more time to decide.,undecided
+It's hard to say.,undecided
+I can't decide right now.,undecided
+I don't know what I want.,undecided
+"Everything looks good, I can't choose.",undecided
+I might come back to this.,undecided
+Still deciding.,undecided
+I feel undecided.,undecided
+Nothing stands out to me yet.,undecided
+I'm on the fence.,undecided
+Not ready to choose.,undecided
+Give me a moment to think.,undecided
+I need a minute.,undecided
+It's a tough call.,undecided
+Let me look a bit more.,undecided
+I'm torn between options.,undecided
+I need to consider my options.,undecided
+I'm thinking it over.,undecided
+I'm hesitating right now.,undecided
+I just can't decide yet.,undecided
+"They're all nice, I don't know.",undecided
+Let me think this through.,undecided
+I want to be sure before choosing.,undecided
+I'm unsure right now.,undecided
+Let me take a moment.,undecided
+This is a difficult decision.,undecided
+I need some time.,undecided
+I like too many of them.,undecided
+It's not an easy choice.,undecided
+I'm really not sure yet.,undecided
+Everything looks nice.,undecided
+Can I think a little more?,undecided
+I’m still weighing my options.,undecided
+I don’t feel ready to decide.,undecided
+I want to explore a bit more first.,undecided
+I'm a little overwhelmed.,undecided
+I just need some time.,undecided
+Nothing really stands out yet.,undecided
+It’s hard to make a decision.,undecided
+I think I’ll browse a little more.,undecided
+I might come back later.,undecided
+Can I get back to you?,undecided
+I want to check more options.,undecided
+I don't want to rush this.,undecided
+I’m browsing casually for now.,undecided
+I’ll think about it.,undecided
+Let me sleep on it.,undecided
+Thanks!,thank_you
+Thank you.,thank_you
+Thank you so much.,thank_you
+Thanks a lot.,thank_you
+Thanks for your help.,thank_you
+I appreciate it.,thank_you
+Much appreciated.,thank_you
+Really appreciate that.,thank_you
+Thanks again!,thank_you
+Many thanks.,thank_you
+Thank you very much.,thank_you
+Thanks for the suggestions.,thank_you
+"Thanks, that helps!",thank_you
+Appreciate your support.,thank_you
+Thanks for assisting.,thank_you
+Cheers!,thank_you
+Cheers for that.,thank_you
+Thanks for the info.,thank_you
+Thank you kindly.,thank_you
+Thank you for the help.,thank_you
+I’m grateful.,thank_you
+Thanks a ton!,thank_you
+Thank you heaps.,thank_you
+"Really grateful, thanks!",thank_you
+Thanks a bunch.,thank_you
+Appreciate the recommendation.,thank_you
+"Thanks, very useful!",thank_you
+Thanks for your guidance.,thank_you
+Appreciate it a lot.,thank_you
+"Thanks, that was great!",thank_you
+Thanks so much for this.,thank_you
+Thank you so so much.,thank_you
+I really appreciate your time.,thank_you
+Grateful for your advice.,thank_you
+Thanks for the input.,thank_you
+Thanks for being helpful.,thank_you
+I appreciate your time.,thank_you
+"Thank you, that's helpful.",thank_you
+Thanks! That helps a lot.,thank_you
+"Thank you, this is great!",thank_you
+"Appreciate it, mate.",thank_you
+"You’ve been great, thanks.",thank_you
+Thanks a million.,thank_you
+Thanks — very helpful.,thank_you
+Thanks a lot for the tips.,thank_you
+Big thanks!,thank_you
+Sincerely appreciate it.,thank_you
+Thank you indeed.,thank_you
+"Appreciate it, thank you.",thank_you
+I’ll go with those,confirmation
+Just what I had in mind 👍,confirmation
+Yeah,confirmation
+"Thanks, that’s helpful",confirmation
+Exactly,confirmation
+"Definitely Sure, this works.",confirmation
+Looks great,confirmation
+Yes,confirmation
+Fine with me,confirmation
+Great!,confirmation
+That’s nice,confirmation
+Sweet,confirmation
+Looks good to me? Looks good.,confirmation
+I like what I see,confirmation
+Definitely These match my needs.,confirmation
+These match my needs? Looks good.,confirmation
+Looks promising — I like that.,confirmation
+They’re fine,confirmation
+Looks good to me,confirmation
+That’s it,confirmation
+I think I like them? Looks good.,confirmation
+"Cool, I’ll take a look",confirmation
+I like those,confirmation
+Just what I had in mind,confirmation
+I think I like them,confirmation
+Nice selection. That should work.,confirmation
+Looks promising,confirmation
+Wonderful,confirmation
+These will work,confirmation
+Love them,confirmation
+Fine with me 👍,confirmation
+"Hmm, They’re fine I guess.",confirmation
+Those are just what I need? Looks good.,confirmation
+Yeah 👍,confirmation
+These are good,confirmation
+"Sure, this works — cool!",confirmation
+Perfect? Looks good.,confirmation
+Nice selection,confirmation
+These match my needs,confirmation
+That's exactly what I wanted,confirmation
+I'd say I like those.,confirmation
+Those are just what I need,confirmation
+Great!. Appreciate it!,confirmation
+Good choices,confirmation
+These match my needs — I like that.,confirmation
+Perfect,confirmation
+These will work — I like that.,confirmation
+Good choices. Appreciate it!,confirmation
+Nice selection? Looks good.,confirmation
+"Sure, this works",confirmation
+"Yeah, Can I get different ones?",reject
+Not my style,reject
+Not interested,reject
+"Hmm, Not what I’m looking for I guess.",reject
+I don’t like these? Looks good.,reject
+Too expensive,reject
+That’s not what I meant,reject
+Nope,reject
+That’s not what I meant. That should work.,reject
+Definitely I don’t see anything I want.,reject
+These aren’t what I want,reject
+Not what I had in mind,reject
+I’ll pass on these,reject
+I'd say Don’t like them.,reject
+Don’t like them,reject
+"Hmm, Too cheap I guess.",reject
+"Hmm, Not really I guess.",reject
+This doesn’t help,reject
+Too sporty,reject
+They’re not quite right,reject
+Nothing stands out,reject
+Not sure about these,reject
+Nothing good here,reject
+Not suitable,reject
+Not useful,reject
+Too cheap,reject
+Not useful. Appreciate it!,reject
+These don’t fit my needs? Looks good.,reject
+No. That should work.,reject
+Not my style. That should work.,reject
+Not for me,reject
+These don’t fit my needs — I like that.,reject
+No,reject
+Show me others,reject
+Definitely Too formal.,reject
+Definitely Too sporty.,reject
+Not what I had in mind — cool!,reject
+Too cheap 👍,reject
+I’d like to see other options,reject
+I don’t see anything I want,reject
+Not really,reject
+Show me others. Appreciate it!,reject
+"Hmm, I’d like to see other options I guess.",reject
+Not what I’m looking for. That should work.,reject
+None of these work,reject
+Not suitable 👍,reject
+"Yeah, These don’t fit my needs",reject
+Can I get different ones?,reject
+"Yeah, Not sure about these",reject
+Not interested — I like that.,reject
+That’s not what I meant? Looks good.,reject
+I don’t like these,reject
+"Hmm, I don’t see anything I want I guess.",reject
+These don’t fit my needs,reject
+"Yeah, No",reject
+Nothing stands out? Looks good.,reject
+Can I get different ones?. That should work.,reject
+"Hmm, Not what I had in mind I guess.",reject
+Not what I’m looking for,reject
+Too formal,reject
+Definitely I’m done.,done
+That’s everything. That should work.,done
+That’ll be all,done
+I'm okay now. That should work.,done
+Enough for today,done
+I'm done shopping,done
+Nothing else,done
+All good now? Looks good.,done
+I'm finished here — I like that.,done
+I'm okay now,done
+I’m finished,done
+No more help needed,done
+Nothing else. Appreciate it!,done
+I’m leaving,done
+No more help needed? Looks good.,done
+Definitely I'm done shopping.,done
+"Thanks, I’m all set",done
+"Hmm, Nope, that's all I guess.",done
+I don’t want more,done
+I’m done looking,done
+Definitely I’m finished.,done
+No thanks,done
+"Nope, that's all",done
+"No, I'm good",done
+Done for now,done
+I’m done,done
+That’s all for today,done
+I'd say Done for now.,done
+That’s everything,done
+No further help 👍,done
+That's all I wanted — I like that.,done
+I don’t need anything else,done
+That’s it for now,done
+I'd say I’m finished.,done
+Enough for today? Looks good.,done
+I'm finished here,done
+No further help,done
+That’s all,done
+I’m satisfied,done
+I’ll come back later,done
+All good now,done
+I’m good,done
+"No, thank you",done
+I’ve seen enough,done
+That's all I wanted,done
+Thank you,thank_you
+Cheers,thank_you
+Thanks a lot,thank_you
+Thanks so much,thank_you
+Many thanks,thank_you
+Thanks again,thank_you
+Thanks,thank_you
+Much appreciated,thank_you
+Appreciate it,thank_you
+I’m grateful,thank_you
+"Well, Thanks a lot.",thank_you
+"You know, Appreciate it.",thank_you
+"Sure, Many thanks works.",thank_you
+Thanks a lot — just saying.,thank_you
+"You know, Much appreciated.",thank_you
+"Hmm, Thank you I guess.",thank_you
+Thanks a lot — just saying.,thank_you
+"Well, Thanks again.",thank_you
+"Yeah, I’m grateful kinda.",thank_you
+"You know, Appreciate it.",thank_you
+Cheers — just saying.,thank_you
+"You know, Many thanks.",thank_you
+Let me think... I’m grateful.,thank_you
+"Well, Thank you.",thank_you
+"You know, Many thanks.",thank_you
+Many thanks!,thank_you
+Much appreciated!,thank_you
+Thank you... maybe.,thank_you
+"Hmm, Many thanks I guess.",thank_you
+"Well, Thank you.",thank_you
+Thanks again!,thank_you
+"You know, Much appreciated.",thank_you
+Thank you — just saying.,thank_you
+I’m grateful — I suppose.,thank_you
+Thanks!,thank_you
+"Yeah, Thank you kinda.",thank_you
+Thank you!,thank_you
+"Sure, Thanks so much works.",thank_you
+"Well, Thanks a lot.",thank_you
+Cheers — just saying.,thank_you
+I need time,undecided
+I’m not sure,undecided
+Still unsure,undecided
+I haven't decided,undecided
+Still deciding,undecided
+I can't tell,undecided
+Maybe,undecided
+I don’t know,undecided
+Not sure,undecided
+Let me think,undecided
+"Well, I can't tell.",undecided
+Not sure — I suppose.,undecided
+I haven't decided — I suppose.,undecided
+I’m not sure — I suppose.,undecided
+I don’t know... maybe.,undecided
+Maybe — I suppose.,undecided
+Let me think... Maybe.,undecided
+"You know, Let me think.",undecided
+"Hmm, I haven't decided I guess.",undecided
+Maybe — just saying.,undecided
+Still deciding — just saying.,undecided
+"You know, Maybe.",undecided
+"You know, Maybe.",undecided
+Let me think... Not sure.,undecided
+I’m not sure — just saying.,undecided
+"Hmm, I can't tell I guess.",undecided
+I need time!,undecided
+Let me think — just saying.,undecided
+"Sure, Let me think works.",undecided
+Maybe — just saying.,undecided
+"Well, Let me think.",undecided
+"Sure, Let me think works.",undecided
+I need time — just saying.,undecided
+"Sure, I don’t know works.",undecided
+I’m not sure — I suppose.,undecided
+Try something else,reject
+No,reject
+None of these,reject
+Nope,reject
+Could I see others,reject
+These aren’t good,reject
+Not interested,reject
+Not for me,reject
+Not really,reject
+I’ll pass,reject
+Try something else!,reject
+These aren’t good — just saying.,reject
+"Hmm, None of these I guess.",reject
+"Well, Could I see others.",reject
+None of these — I suppose.,reject
+"Yeah, These aren’t good kinda.",reject
+"Well, Not for me.",reject
+Let me think... No.,reject
+"Well, Not really.",reject
+Not really!,reject
+Could I see others!,reject
+None of these... maybe.,reject
+Not really — I suppose.,reject
+Nope... maybe.,reject
+Let me think... I’ll pass.,reject
+"Well, Could I see others.",reject
+Could I see others... maybe.,reject
+Let me think... Nope.,reject
+Not for me!,reject
+"Hmm, Nope I guess.",reject
+Not for me — just saying.,reject
+"Hmm, I’ll pass I guess.",reject
+"Hmm, I’ll pass I guess.",reject
+"Yeah, Try something else kinda.",reject
+"You know, Not for me.",reject
+Let me think... None of these.,reject
+Let me think... Nope.,reject
+"Sure, Not really works.",reject
+Not really — just saying.,reject
+"Yeah, Not really kinda.",reject
+Not interested... maybe.,reject
+"Sure, No works.",reject
+Let me think... Not interested.,reject
+None of these — just saying.,reject
+None of these — just saying.,reject
+Take care,goodbye
+Bye for now,goodbye
+Later,goodbye
+Bye,goodbye
+Talk soon,goodbye
+See you,goodbye
+Goodbye,goodbye
+Catch you later,goodbye
+"Thanks, that’s all",goodbye
+I’m done,goodbye
+"Well, Thanks, that’s all.",goodbye
+Take care!,goodbye
+I’m done — I suppose.,goodbye
+Catch you later — just saying.,goodbye
+"Hmm, Later I guess.",goodbye
+"You know, Take care.",goodbye
+"You know, Talk soon.",goodbye
+I’m done — I suppose.,goodbye
+"Hmm, Thanks, that’s all I guess.",goodbye
+See you... maybe.,goodbye
+"Yeah, Thanks, that’s all kinda.",goodbye
+"Hmm, Bye I guess.",goodbye
+"Well, Take care.",goodbye
+"Yeah, Take care kinda.",goodbye
+Catch you later... maybe.,goodbye
+Catch you later — I suppose.,goodbye
+"Well, See you.",goodbye
+"Well, Bye for now.",goodbye
+"Well, Later.",goodbye
+Talk soon!,goodbye
+Let me think... Later.,goodbye
+Bye for now!,goodbye
+"Yeah, Bye for now kinda.",goodbye
+Bye — I suppose.,goodbye
+Goodbye!,goodbye

@@ -1,0 +1,12 @@
+{
+  "ask_price": 0,
+  "ask_product": 1,
+  "ask_style": 2,
+  "confirmation": 3,
+  "done": 4,
+  "goodbye": 5,
+  "greet": 6,
+  "reject": 7,
+  "thank_you": 8,
+  "undecided": 9
+}
